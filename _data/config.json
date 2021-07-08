@@ -131,7 +131,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Ondorse. All rights reserved. This is <a href=\"https://www.google.com/>it</a>"
+        "content": "© Ondorse. All rights reserved. This is it"
     },
     "domain": "https://ondorse-home-70ac0.netlify.app"
 }
