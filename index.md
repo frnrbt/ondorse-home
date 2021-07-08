@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Business is a changing world
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      It is all about KYB
     actions:
       - label: Learn More
         url: /features
