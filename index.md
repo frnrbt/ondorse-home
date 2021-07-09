@@ -52,8 +52,6 @@ sections:
   - section_id: lorem-ipsum
     title: Who we work with
     content: |
-      ##
-
       *   Established financial institutions and insurance companies
 
       *   FinTechs
