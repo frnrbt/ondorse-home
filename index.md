@@ -7,8 +7,7 @@ sections:
     title: >-
       Business is a changing world. Get instantly notified of any KYC and KYB
       change.
-    content: |
-      It is all about KYB and check
+    content: "### With increasing risks of frauds and enhanced regulatory obligations, access to real time corporate information is key.\_ Ondorse’s always up to date information coupled with an asset freeze screening tool helps financial institutions, insurance companies, crypto platforms and marketplaces continuously monitor relevant KYB information and make compliance more effective.\n"
     actions:
       - label: Learn More
         url: /features
