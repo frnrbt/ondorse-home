@@ -51,17 +51,18 @@ sections:
     reviews: []
   - section_id: lorem-ipsum
     title: Who we work with
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##
 
+      *   Established financial institutions and insurance companies
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   FinTechs
 
+      *   Crypto exchange platforms
 
-      - Lorem ipsum
+      *   Marketplaces
 
-      - dolor sit amet
+      *   In collaboration with European banking regulators and agencies
     image_alt: lorem-ipsum
     background: gray
     actions: []
