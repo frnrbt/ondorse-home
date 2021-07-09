@@ -52,15 +52,15 @@ sections:
   - section_id: lorem-ipsum
     title: Who we work with
     content: |
-      #### Established financial institutions and insurance companies
+      ##### Established financial institutions and insurance companies
 
-      #### FinTechs
+      ##### FinTechs
 
-      #### Crypto exchange platforms
+      ##### Crypto exchange platforms
 
-      #### Marketplaces
+      ##### Marketplaces
 
-      #### In collaboration with European banking regulators and agencies
+      ##### In collaboration with European banking regulators and agencies
     image_alt: lorem-ipsum
     background: gray
     actions: []
