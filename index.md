@@ -23,8 +23,8 @@ sections:
     background: gray
     title: Use Cases
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      For banks, insurance companies and other gatekeepers such as FinTechs and
+      crypto exchange platforms
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
