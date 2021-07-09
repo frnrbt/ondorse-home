@@ -18,7 +18,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Enter your email
+      - label: Your email address
         url: '#'
         style: link
         has_icon: false
