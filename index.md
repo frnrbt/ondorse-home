@@ -39,7 +39,6 @@ sections:
           auctor.
         actions: []
       - title: 'Who we work with :'
-        image: images/feature3.png
         image_alt: App user profile preview
         content: |
           ##### Established financial institutions and insurance companies
