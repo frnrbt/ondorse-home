@@ -51,13 +51,7 @@ sections:
           Marketplaces
 
           In collaboration with European banking regulators and agencies
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
