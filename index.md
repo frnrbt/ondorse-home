@@ -38,7 +38,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions: []
-      - title: Cool Feature of Your Services
+      - title: Who we work with
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
