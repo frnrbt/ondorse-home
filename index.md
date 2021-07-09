@@ -40,22 +40,6 @@ sections:
           Ondorse allows you access to the most up to date corporate information
           to better detect potential vendor fraud.
         actions: []
-  - section_id: Who we work with
-    title: Who we work with
-    content: |
-      ##### Established financial institutions and insurance companies
-
-      ##### FinTechs
-
-      ##### Crypto exchange platforms
-
-      ##### Marketplaces
-
-      ##### In collaboration with European banking regulators and agencies
-    image_alt: lorem-ipsum
-    background: white
-    actions: []
-    type: section_content
   - section_id: How it works
     title: How it works
     content: >
@@ -84,6 +68,22 @@ sections:
       workflow, giving your teams the tools they need from day one.
     image_alt: lorem-ipsum
     background: gray
+    actions: []
+    type: section_content
+  - section_id: Who we work with
+    title: Who we work with
+    content: |
+      ##### Established financial institutions and insurance companies
+
+      ##### FinTechs
+
+      ##### Crypto exchange platforms
+
+      ##### Marketplaces
+
+      ##### In collaboration with European banking regulators and agencies
+    image_alt: lorem-ipsum
+    background: white
     actions: []
     type: section_content
 seo:
