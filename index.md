@@ -49,7 +49,7 @@ sections:
       exchange platformsMarketplacesIn collaboration with European banking
       regulators and agencies
     reviews: []
-  - section_id: lorem-ipsum
+  - section_id: Who we work with
     title: Who we work with
     content: |
       ##### Established financial institutions and insurance companies
