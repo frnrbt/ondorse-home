@@ -32,13 +32,7 @@ sections:
         content: >
           Including banks, insurance companies and other gatekeepers such as
           FinTechs and crypto exchange platforms.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
