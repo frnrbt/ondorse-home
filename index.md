@@ -49,14 +49,6 @@ sections:
       exchange platformsMarketplacesIn collaboration with European banking
       regulators and agencies
     reviews: []
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
@@ -74,6 +66,14 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: call-to-action
+    type: section_cta
+    title: This Is Call To Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
 seo:
   title: Ondorse
   description: >-
