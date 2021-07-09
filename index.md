@@ -42,15 +42,15 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: |
-          ## Established financial institutions and insurance companies
+          #### Established financial institutions and insurance companies
 
-          ## FinTechs
+          #### FinTechs
 
-          ## Crypto exchange platforms
+          #### Crypto exchange platforms
 
-          ## Marketplaces
+          #### Marketplaces
 
-          ## In collaboration with European banking regulators and agencies
+          #### In collaboration with European banking regulators and agencies
         actions: []
   - section_id: reviews
     type: section_reviews
