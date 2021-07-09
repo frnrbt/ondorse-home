@@ -57,7 +57,7 @@ sections:
     actions: []
     type: section_content
   - section_id: How it works
-    title: lorem-ipsum
+    title: How it works
     content: >-
       ## Lorem ipsum
 
