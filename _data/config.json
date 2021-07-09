@@ -113,5 +113,6 @@
         ],
         "content": "© Ondorse. All rights reserved. This is it."
     },
-    "domain": "https://ondorse.netlify.app"
+    "domain": "https://ondorse.netlify.app",
+    "favicon": "images/LOGO-ONDORSE-COURT.jpg"
 }
