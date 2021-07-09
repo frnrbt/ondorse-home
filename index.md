@@ -58,17 +58,30 @@ sections:
     type: section_content
   - section_id: How it works
     title: How it works
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Ondorse provides you access to a database of connections (UBO, shareholder
+      and legal representative) involving your corporate users in Europe and the
+      U.K.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   The database of connections is directly linked to official primary
+      source corporate registers in Europe and the U.K. to guarantee data
+      integrity.
 
 
-      - Lorem ipsum
+      <!---->
 
-      - dolor sit amet
+
+      *   When an event affects a connection involving one of your corporate
+      users, Ondorse’s API automatically sends this information to you via a
+      push notification.
+
+
+      <!---->
+
+
+      *   Ondorse’s API can easily and immediately be integrated in your
+      workflow, giving your teams the tools they need from day one.
     image_alt: lorem-ipsum
     background: gray
     actions: []
