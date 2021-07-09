@@ -12,7 +12,7 @@ sections:
       - label: Request Access to the API Documentation
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Request Access to the API Documentation
         url: '#'
         style: secondary
         has_icon: false
