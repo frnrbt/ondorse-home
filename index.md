@@ -26,7 +26,7 @@ sections:
       For banks, insurance companies and other gatekeepers such as FinTechs and
       crypto exchange platforms
     features:
-      - title: The Best Feature of Your Services
+      - title: For Financial Services Companies
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
