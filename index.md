@@ -27,7 +27,6 @@ sections:
       crypto exchange platforms
     features:
       - title: For Financial Services Companies
-        image_alt: App preview on a phone and tablet
         content: "## Including banks, insurance companies and other gatekeepers such as FinTechs and crypto exchange platforms.\n\n#### Are you struggling with the manual and burdensome processes induced by the KYC refresh ? \n\nOndorse automatically populates your back office tool with the most up to date company information on the corporate customers you are engaged with.\n\n#### Have you ever been up at night worrying about having shell companies amongst your corporate customers ? \n\nOndorse continuously monitors events affecting the KYB of your users and pushes you notifications in case of important corporate information updates, such as a UBO, shareholder or legal representative change.\n\n#### Have you ever worried about being late on freezing the assets of one of your customers ? \n\nOndorse pushes you alerts in case of a true asset freeze match involving a connection (UBO, shareholder or legal representative) associated with one of your customers.\_ With our screening tool fed with permanently refreshed information, you can now immediately comply with all your asset freeze obligations and associated direct and indirect AML-CFT risks.\n"
         actions: []
         image: images/Capture d’écran 2021-07-09 à 13.42.51.png
