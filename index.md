@@ -92,7 +92,9 @@ sections:
     title: Latest Posts
 seo:
   title: Ondorse
-  description: The preview of the Azimuth theme
+  description: >-
+    Business is a changing world.  Get instantly notified of any KYC and KYB
+    change.
   extra:
     - name: 'og:type'
       value: website
