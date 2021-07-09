@@ -91,7 +91,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Ondorse
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
