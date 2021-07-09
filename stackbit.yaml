@@ -49,6 +49,7 @@ models:
           - fira-sans
           - nunito-sans
           - system-sans
+          - roboto
         default: nunito-sans
         required: true
       - type: model
