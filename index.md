@@ -50,7 +50,7 @@ sections:
       regulators and agencies
     reviews: []
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Who we work with
     content: >-
       ## Lorem ipsum
 
