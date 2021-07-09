@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Request Access to the API Documentation
         url: 'mailto:contact@ondorse.co'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
