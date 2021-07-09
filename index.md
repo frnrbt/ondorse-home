@@ -32,10 +32,12 @@ sections:
         actions: []
       - title: For Platforms
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Are you considering creating a unified KYC/KYB on your SME vendors ? 
+
+
+          Ondorse allows you access to the most up to date corporate information
+          to better detect potential vendor fraud.
         actions: []
   - section_id: reviews
     type: section_reviews
