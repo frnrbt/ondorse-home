@@ -38,19 +38,6 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions: []
-      - title: 'Who we work with :'
-        image_alt: App user profile preview
-        content: |
-          ##### Established financial institutions and insurance companies
-
-          ##### FinTechs
-
-          ##### Crypto exchange platforms
-
-          ##### Marketplaces
-
-          ##### In collaboration with European banking regulators and agencies
-        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
