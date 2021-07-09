@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Business is a changing world
     content: |
-      It is all about KYB
+      It is all about KYB and check
     actions:
       - label: Learn More
         url: /features
