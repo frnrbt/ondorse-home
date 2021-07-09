@@ -95,7 +95,8 @@
                         "options": []
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Subscribe",
+                "form_action": "mailto:contact@ondorse.co"
             }
         ],
         "has_nav": true,
