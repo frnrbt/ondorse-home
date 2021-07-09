@@ -83,7 +83,7 @@ sections:
 
       ##### In collaboration with European banking regulators and agencies
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions: []
     type: section_content
 seo:
