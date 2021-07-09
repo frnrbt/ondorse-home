@@ -56,8 +56,9 @@ sections:
     background: white
     title: Who we work with
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Established financial institutions and insurance companiesFinTechsCrypto
+      exchange platformsMarketplacesIn collaboration with European banking
+      regulators and agencies
     reviews: []
   - section_id: call-to-action
     type: section_cta
