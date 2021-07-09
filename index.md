@@ -41,10 +41,16 @@ sections:
       - title: 'Who we work with :'
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          Established financial institutions and insurance companies
+
+          FinTechs
+
+          Crypto exchange platforms
+
+          Marketplaces
+
+          In collaboration with European banking regulators and agencies
         actions:
           - label: Learn More
             url: /features
