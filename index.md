@@ -10,7 +10,7 @@ sections:
     content: "###### With increasing risks of frauds and enhanced regulatory obligations, access to real time corporate information is key.\_ Ondorse’s always up to date information coupled with an asset freeze screening tool helps financial institutions, insurance companies, crypto platforms and marketplaces continuously monitor relevant KYB information and make compliance more effective.\n"
     actions:
       - label: Request Access to the API Documentation
-        url: '#'
+        url: 'mailto:contact@ondorse.co'
         style: secondary
         has_icon: false
         icon: arrow-left
