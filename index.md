@@ -6,7 +6,7 @@ sections:
     title: >-
       Business is a changing world. Get instantly notified of any KYC and KYB
       change.
-    content: "With increasing risks of frauds and enhanced regulatory obligations, access to real time corporate information is key. Ondorse’s always up to date information coupled with an asset freeze screening tool helps financial services companies continuously monitor relevant KYC and KYB information and make compliance more effective."
+    content: With increasing risks of frauds and enhanced regulatory obligations, access to real time corporate information is key. Ondorse’s always up to date information coupled with an asset freeze screening tool helps financial services companies continuously monitor relevant KYC and KYB information and make compliance more effective.
     actions:
       - label: Request Access to the API Documentation
         url: 'mailto:contact@ondorse.co'
