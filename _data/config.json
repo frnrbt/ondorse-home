@@ -1,7 +1,7 @@
 {
     "title": "Ondorse",
     "base_font": "nunito-sans",
-    "palette": "cyan",
+    "palette": "blue",
     "header": {
         "logo_img": "images/LOGO-ONDORSE-LONG.png",
         "logo_img_alt": "Logo",
