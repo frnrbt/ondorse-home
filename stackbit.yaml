@@ -48,6 +48,7 @@ models:
         options:
           - fira-sans
           - nunito-sans
+          - roboto
           - system-sans
         default: nunito-sans
         required: true
