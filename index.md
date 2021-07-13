@@ -67,7 +67,7 @@ sections:
 seo:
   title: Ondorse
   description: >-
-    Business is a changing world.  Get instantly notified of any KYC and KYB
+    Business is a changing world. Get instantly notified of any KYC and KYB
     change.
   extra:
     - name: 'og:type'
