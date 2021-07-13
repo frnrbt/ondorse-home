@@ -4,9 +4,9 @@ sections:
   - section_id: Intro
     type: section_hero
     title: >-
-      Business is a changing world. Get instantly notified of any KYC and KYB
-      change.
-    subtitle: ABC
+      Business is a changing world
+    subtitle: Get instantly notified of any KYC and KYB
+      change
     content: >-
       With increasing risks of frauds and enhanced regulatory obligations,
       access to real time corporate information is key. Ondorse’s always up to
