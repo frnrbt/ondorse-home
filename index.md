@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: Intro
     type: section_hero
-    image_alt: App preview
     title: >-
       Business is a changing world. Get instantly notified of any KYC and KYB
       change.
