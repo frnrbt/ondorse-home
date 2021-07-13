@@ -13,6 +13,9 @@
         {% if title_is_not_empty %}
         <h2 class="block-title underline">{{ section.title }}</h2>
         {% endif %}
+        {% if title_is_not_empty %}
+        <h2 class="block-title underline">{{ section.title }}</h2>
+        {% endif %}
         <div class="block-copy">
           {{ section.content | markdownify }}
         </div>
