@@ -56,16 +56,11 @@ sections:
   - section_id: Who we work with
     title: Who we work with
     content: |
-      ##### Established financial institutions and insurance companies
-
-      ##### FinTechs
-
-      ##### Crypto exchange platforms
-
-      ##### Marketplaces
-
-      ##### In collaboration with European banking regulators and agencies
-    image_alt: lorem-ipsum
+      Established financial institutions and insurance companies
+      FinTechs
+      Crypto exchange platforms
+      Marketplaces
+      In collaboration with European banking regulators and agencies
     background: gray
     actions: []
     type: section_content
