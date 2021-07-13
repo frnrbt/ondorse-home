@@ -30,7 +30,7 @@ sections:
       - title: For Marketplaces and Other Platforms
         image_alt: App users welcoming a new member
         content: >
-          #### Are you considering creating a unified KYC/KYB on your SME
+          Are you considering creating a unified KYC/KYB on your SME
           vendors ?
 
 
