@@ -62,6 +62,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: images/enthusiastic-lime.jpg
   - section_id: Who we work with
     title: Who we work with
     content: |
