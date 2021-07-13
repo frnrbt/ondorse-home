@@ -31,10 +31,7 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Are you considering creating a unified KYC/KYB on your SME
-          vendors ?
-
-
-          Ondorse allows you access to the most up to date corporate information
+          vendors ? Ondorse allows you access to the most up to date corporate information
           to better detect potential vendor fraud.
         actions: []
   - section_id: How it works
