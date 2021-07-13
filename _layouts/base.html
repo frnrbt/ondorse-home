@@ -26,7 +26,7 @@
             <meta {{ key_name }}="{{ meta.name }}" content="{{ meta.value }}">
           {% endif %}
         {% endfor %}
-        {% assign font = site.data.config.base_font | default: 'nunito-sans' %}
+        {% assign font = site.data.config.base_font | default: 'roboto-sans' %}
         {% if font != 'system-sans' %}
         <link rel="preconnect" href="https://fonts.gstatic.com">
         {% endif %}
