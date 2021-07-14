@@ -59,7 +59,8 @@ sections:
     content: >
       Leveraging on a a RESTful API and webhooks, Ondorse provides you access to
       a database of connections (UBO, shareholder and legal representative)
-      involving your corporate users in Europe and the U.K. * The database of
+      involving your corporate users in Europe and the U.K. 
+      * The database of
       connections is directly linked to official primary source corporate
       registers in Europe and the U.K. to guarantee data integrity. 
       * When an
