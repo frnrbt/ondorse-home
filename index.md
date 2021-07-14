@@ -3,10 +3,8 @@ title: Home
 sections:
   - section_id: Intro
     type: section_hero
-    title: >-
-      Business is a changing world
-    subtitle: Get instantly notified of any KYC and KYB
-      change
+    title: Business is a changing world
+    subtitle: Get instantly notified of any KYC and KYB change
     content: >-
       With increasing risks of frauds and enhanced regulatory obligations,
       access to real time corporate information is key. Ondorse’s always up to
@@ -48,7 +46,6 @@ sections:
           with all your asset freeze obligations and associated direct and
           indirect AML-CFT risks.
         actions: []
-        image: images/Group 1.png
         image_alt: image
       - title: For Marketplaces and Other Platforms
         image_alt: App users welcoming a new member
