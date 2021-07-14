@@ -28,8 +28,8 @@ sections:
     features:
       - title: For financial services companies
         content: >
-          Including banks, insurance companies and other gatekeepers such as
-          fintechs and crypto exchange platforms.
+          *Including banks, insurance companies and other gatekeepers such as
+          fintechs and crypto exchange platforms.*
           
           ##### Are you struggling with the manual and burdensome processes induced by
           the KYC refresh?
