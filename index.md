@@ -78,7 +78,7 @@ sections:
       Crypto exchange platforms
       Marketplaces
       In collaboration with European banking regulators and agencies
-    background: gray
+    background: white
     actions: []
     type: section_content
 seo:
