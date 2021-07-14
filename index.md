@@ -37,9 +37,8 @@ sections:
           Ondorse <mark>automatically</mark> populates your back office tool with the most up
           to date company information on the corporate customers you are engaged
           with.
-
-
-          Have you ever been up at night worrying about having shell companies
+          
+          ##### Have you ever been up at night worrying about having shell companies
           amongst your corporate customers? Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
