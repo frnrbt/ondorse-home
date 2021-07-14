@@ -29,7 +29,9 @@ sections:
       - title: For Financial Services Companies
         content: >-
           Including banks, insurance companies and other gatekeepers such as
-          FinTechs and crypto exchange platforms. Are you struggling with the
+          FinTechs and crypto exchange platforms. 
+          
+          Are you struggling with the
           manual and burdensome processes induced by the KYC refresh ? Ondorse
           automatically populates your back office tool with the most up to date
           company information on the corporate customers you are engaged with.
@@ -60,7 +62,7 @@ sections:
       Leveraging on a a RESTful API and webhooks, Ondorse provides you access to
       a database of connections (UBO, shareholder and legal representative)
       involving your corporate users in Europe and the U.K. 
-      
+
       * The database of
       connections is directly linked to official primary source corporate
       registers in Europe and the U.K. to guarantee data integrity. 
