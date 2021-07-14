@@ -24,9 +24,9 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Use Cases
+    title: Use cases
     features:
-      - title: For Financial Services Companies
+      - title: For financial services companies
         content: >
           Including banks, insurance companies and other gatekeepers such as
           fintechs and crypto exchange platforms.  
