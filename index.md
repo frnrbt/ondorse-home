@@ -24,7 +24,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Use cases
+    title: Why Ondorse
     features:
       - title: For financial services companies
         content: >
