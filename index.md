@@ -43,8 +43,6 @@ sections:
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
           representative change.
-
-
           Have you ever worried about being late on freezing the assets of one
           of your customers? Ondorse pushes you alerts in case of a true asset freeze match
           involving a connection (UBO, shareholder or legal representative)
