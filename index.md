@@ -39,7 +39,9 @@ sections:
           with.
           
           ##### Have you ever been up at night worrying about having shell companies
-          amongst your corporate customers? Ondorse continuously monitors events affecting the KYB of your users
+          amongst your corporate customers?
+          
+          Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
           representative change.
