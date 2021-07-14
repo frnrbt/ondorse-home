@@ -29,30 +29,27 @@ sections:
       - title: For financial services companies
         content: >
           Including banks, insurance companies and other gatekeepers such as
-          fintechs and crypto exchange platforms.  
+          fintechs and crypto exchange platforms.
 
 
-          Are you struggling with the manual and burdensome processes induced by
-          the KYC refresh ? 
-
-
-          Ondorse automatically populates your back office tool with the most up
-          to date company information on the corporate customers you are engaged
-          with. 
+          \<mark>Are you struggling with the manual and burdensome processes
+          induced by the KYC refresh?\</mark> Ondorse automatically populates
+          your back office tool with the most up to date company information on
+          the corporate customers you are engaged with.
 
 
           Have you ever been up at night worrying about having shell companies
-          amongst your corporate customers ? 
+          amongst your corporate customers ?
 
 
           Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
-          representative change. 
+          representative change.
 
 
           Have you ever worried about being late on freezing the assets of one
-          of your customers ? 
+          of your customers ?
 
 
           Ondorse pushes you alerts in case of a true asset freeze match
