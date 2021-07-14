@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/LOGO-ONDORSE-LONG
       relativeUrl: true
 layout: landing
 ---
