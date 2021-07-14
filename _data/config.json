@@ -10,7 +10,7 @@
             {
                 "label": "Contact Us",
                 "url": "mailto:contact@ondorse.co",
-                "style": "primary"
+                "style": "link"
             }
         ]
     },
