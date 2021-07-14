@@ -106,7 +106,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Ondorse
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
@@ -118,7 +118,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Ondorse
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
