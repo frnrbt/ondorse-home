@@ -84,6 +84,7 @@ sections:
       * Fintechs
       * Crypto exchange platforms
       * Marketplaces
+      
       In collaboration with European banking regulators and agencies
     background: white
     actions: []
