@@ -112,7 +112,7 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/LOGO-ONDORSE-LONG.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
