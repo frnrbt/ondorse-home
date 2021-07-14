@@ -32,8 +32,8 @@ sections:
           fintechs and crypto exchange platforms.
 
 
-          <mark>*Are you struggling with the manual and burdensome processes induced by
-          the KYC refresh?*</mark> Ondorse automatically populates your back office tool with the most up
+          <mark>Are you struggling with the manual and burdensome processes induced by
+          the KYC refresh?</mark> Ondorse automatically populates your back office tool with the most up
           to date company information on the corporate customers you are engaged
           with.
 
