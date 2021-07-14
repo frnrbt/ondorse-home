@@ -62,7 +62,7 @@ sections:
       involving your corporate users in Europe and the U.K.
 
 
-      ```curl
+      ```cURL
         curl --location --request GET 'https://app.ondorse.co/api/v1/companies/:companyId'
 
 
