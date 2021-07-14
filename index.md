@@ -29,7 +29,7 @@ sections:
       - title: For Financial Services Companies
         content: >
           Including banks, insurance companies and other gatekeepers such as
-          FinTechs and crypto exchange platforms.  
+          fintechs and crypto exchange platforms.  
 
 
           Are you struggling with the manual and burdensome processes induced by
