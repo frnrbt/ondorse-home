@@ -64,8 +64,6 @@ sections:
 
       ```cURL
         curl --location --request GET 'https://app.ondorse.co/api/v1/companies/:companyId'
-
-
       ```
 
 
