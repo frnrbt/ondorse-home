@@ -23,7 +23,7 @@ sections:
         type: action
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Use Cases
     features:
       - title: For Financial Services Companies
