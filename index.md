@@ -46,10 +46,7 @@ sections:
 
 
           Have you ever worried about being late on freezing the assets of one
-          of your customers ?
-
-
-          Ondorse pushes you alerts in case of a true asset freeze match
+          of your customers? Ondorse pushes you alerts in case of a true asset freeze match
           involving a connection (UBO, shareholder or legal representative)
           associated with one of your customers. With our screening tool fed
           with permanently refreshed information, you can now immediately comply
