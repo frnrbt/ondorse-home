@@ -30,7 +30,6 @@ sections:
         content: >-
           Including banks, insurance companies and other gatekeepers such as
           FinTechs and crypto exchange platforms. 
-          
           Are you struggling with the
           manual and burdensome processes induced by the KYC refresh ? Ondorse
           automatically populates your back office tool with the most up to date
