@@ -26,8 +26,10 @@ sections:
     background: white
     title: Why Ondorse
     features:
-      - title: For financial services companies
+      - title: 
         content: >
+          ### For financial services companies
+          
           *Including banks, insurance companies and other gatekeepers such as
           fintechs and crypto exchange platforms.*
 
