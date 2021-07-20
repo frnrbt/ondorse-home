@@ -63,11 +63,7 @@ sections:
           with permanently refreshed information, you can now immediately comply
           with all your asset freeze obligations and associated direct and
           indirect AML-CFT risks.
-        actions: []
-        image_alt: image
-      - title: null
-        image_alt: App users welcoming a new member
-        content: >
+
           ### For marketplaces and platforms
           
           ##### Are you considering creating a unified KYC/KYB on your SME
@@ -75,6 +71,12 @@ sections:
 
           Ondorse allows you access to the most up to date corporate information
           to better detect potential vendor fraud.
+        actions: []
+        image_alt: image
+      - title: null
+        image_alt: App users welcoming a new member
+        content: >
+          
         actions: []
   - section_id: How it works
     title: How it works
