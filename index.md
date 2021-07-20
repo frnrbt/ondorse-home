@@ -101,18 +101,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: Who we work with
-    title: Who we work with
-    content: |
-      * Established financial institutions and insurance companies
-      * Fintechs
-      * Crypto exchange platforms
-      * Marketplaces
-
-      In collaboration with European banking regulators and agencies
-    background: white
-    actions: []
-    type: section_content
 seo:
   title: Ondorse
   description: >-
