@@ -65,8 +65,11 @@ sections:
           indirect AML-CFT risks.
         actions: []
         image_alt: image
-      - image_alt: App users welcoming a new member
+      - title: null
+        image_alt: App users welcoming a new member
         content: >
+          ### For marketplaces and platforms
+          
           ##### Are you considering creating a unified KYC/KYB on your SME
           vendors ?
 
