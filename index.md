@@ -26,10 +26,10 @@ sections:
     background: white
     title: Why Ondorse
     features:
-      - title: 
+      - title: null
         content: >
           ### For financial services companies
-          
+
           *Including banks, insurance companies and other gatekeepers such as
           fintechs and crypto exchange platforms.*
 
@@ -65,8 +65,7 @@ sections:
           indirect AML-CFT risks.
         actions: []
         image_alt: image
-      - title: For marketplaces and other platforms
-        image_alt: App users welcoming a new member
+      - image_alt: App users welcoming a new member
         content: >
           ##### Are you considering creating a unified KYC/KYB on your SME
           vendors ?
