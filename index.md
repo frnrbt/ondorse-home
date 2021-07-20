@@ -73,11 +73,6 @@ sections:
           to better detect potential vendor fraud.
         actions: []
         image_alt: image
-      - title: null
-        image_alt: App users welcoming a new member
-        content: >
-          
-        actions: []
   - section_id: How it works
     title: How it works
     content: >
