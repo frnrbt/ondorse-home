@@ -30,25 +30,31 @@ sections:
         content: >
           *Including banks, insurance companies and other gatekeepers such as
           fintechs and crypto exchange platforms.*
-          
-          ##### Are you struggling with the manual and burdensome processes induced by
-          the KYC refresh?
-          
-          Ondorse <mark>automatically</mark> populates your back office tool with the most up
+
+
+          ##### Are you struggling with the manual and burdensome processes
+          induced by the KYC refresh?
+
+
+          Ondorse automatically populates your back office tool with the most up
           to date company information on the corporate customers you are engaged
           with.
-          
-          ##### Have you ever been up at night worrying about having shell companies
-          amongst your corporate customers?
-          
+
+
+          ##### Have you ever been up at night worrying about having shell
+          companies amongst your corporate customers?
+
+
           Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
           representative change.
-          
-          ##### Have you ever worried about being late on freezing the assets of one
-          of your customers? 
-          
+
+
+          ##### Have you ever worried about being late on freezing the assets of
+          one of your customers?
+
+
           Ondorse pushes you alerts in case of a true asset freeze match
           involving a connection (UBO, shareholder or legal representative)
           associated with one of your customers. With our screening tool fed
@@ -60,7 +66,8 @@ sections:
       - title: For marketplaces and other platforms
         image_alt: App users welcoming a new member
         content: >
-          ##### Are you considering creating a unified KYC/KYB on your SME vendors ?
+          ##### Are you considering creating a unified KYC/KYB on your SME
+          vendors ?
 
           Ondorse allows you access to the most up to date corporate information
           to better detect potential vendor fraud.
