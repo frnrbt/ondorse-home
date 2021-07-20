@@ -81,7 +81,7 @@ sections:
       corporate users in Europe and the U.K.
 
 
-      ```shell
+      ```bash
         curl --location --request GET 'https://app.ondorse.co/api/v1/companies/:companyId'
       ```
 
