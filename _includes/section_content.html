@@ -1,6 +1,6 @@
 {% assign section = include.section %}
 <section id="{{ section.section_id }}" class="block text-block bg-{{ section.background }} outer">
-  <div class="inner">
+  <div class="inner-small">
     <div class="grid">
       {% assign image_is_not_empty = section.image | is_not_empty %}
       {% if image_is_not_empty %}
