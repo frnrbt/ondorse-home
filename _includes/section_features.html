@@ -1,6 +1,6 @@
 {% assign section = include.section %}
 <section id="{{ section.section_id }}" class="block features-block bg-{{ section.background }} outer">
-  <div class="block-header inner-small">
+  <div class="block-header inner">
     {% assign title_is_not_empty = section.title | is_not_empty %}
     {% if title_is_not_empty %}
     <h2 class="block-title">{{ section.title }}</h2>
@@ -14,7 +14,7 @@
   </div>
   {% assign features_is_not_empty = section.features | is_not_empty %}
   {% if features_is_not_empty %}
-  <div class="inner-small">
+  <div class="inner">
     {% for feature in section.features %}
     <div class="block-item">
       <div class="grid">
