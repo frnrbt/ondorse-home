@@ -33,7 +33,7 @@ sections:
             label: Email
             default_value: Enter email address
             is_required: true
-        submit_label": Subscribe
+        submit_label: Subscribe
   - section_id: features
     type: section_features
     background: white
