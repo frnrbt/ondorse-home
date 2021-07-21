@@ -24,8 +24,8 @@ sections:
     forms:
       - form_id: 
       - title: "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "contactForm",
+      - content: "Stay up to date with our latest developments.",
+      - form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
                     {
