@@ -1,7 +1,7 @@
 {% assign forms = include.forms %}
 {% for form in forms %}
   <section class="cell widget widget-form">
-    <form name="{{ section.form_id }}" id="{{ section.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %}
+    <form name="{{ form.form_id }}" id="{{ form.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %}
       action="{{ section.form_action }}" {% endif %} method="POST" data-netlify="true"
       data-netlify-honeypot="{{ section.form_id }}-bot-field">
       <div class="screen-reader-text">
