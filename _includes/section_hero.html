@@ -23,7 +23,7 @@
         {% assign forms_is_not_empty = section.forms | is_not_empty %}
         {% if forms_is_not_empty %}
         <div class="block-content inner-medium">
-        
+          {% include cta_buttons.html actions=section.actions %}
         </div>
         {% endif %}
 
