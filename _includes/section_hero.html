@@ -23,7 +23,7 @@
         {% assign actions_is_not_empty = section.forms | is_not_empty %}
         {% if actions_is_not_empty %}
         <div class="block-content inner-medium">
-          <form name="{{ section.forms.form_id }}" id="{{ section.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %}
+          <form name="{{ section.forms.form_id }}" id="{{ section.forms.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %}
             action="{{ section.form_action }}" {% endif %} method="POST" data-netlify="true"
             data-netlify-honeypot="{{ section.form_id }}-bot-field">
             <div class="screen-reader-text">
