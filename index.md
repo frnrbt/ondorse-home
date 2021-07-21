@@ -126,7 +126,7 @@ seo:
     - name: 'twitter:title'
       value: Ondorse
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: The preview of Ondorse
     - name: 'twitter:image'
       value: images/LOGO-ONDORSE-LONG
       relativeUrl: true
