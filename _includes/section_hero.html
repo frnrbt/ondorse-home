@@ -27,10 +27,10 @@
               action="{{ section.form_action }}" {% endif %} method="POST" data-netlify="true"
               data-netlify-honeypot="{{ section.form_id }}-bot-field">
             <div class="screen-reader-text">
-            <label id="{{ section.form_id }}-honeypot-label" for="{{ section.form_id }}-honeypot">Don't fill this out if you're
-              human:</label>
-            <input aria-labelledby="{{ section.form_id }}-honeypot-label" id="{{ section.form_id }}-honeypot"
-              name="{{ section.form_id }}-bot-field" />
+              <label id="{{ section.form_id }}-honeypot-label" for="{{ section.form_id }}-honeypot">Don't fill this out if you're
+                human:</label>
+              <input aria-labelledby="{{ section.form_id }}-honeypot-label" id="{{ section.form_id }}-honeypot"
+                name="{{ section.form_id }}-bot-field" />
             </div>
                 <input aria-labelledby="{{ section.form_id }}-honeypot-label" type="hidden" name="form-name"
                 value="{{ section.form_id }}" />
