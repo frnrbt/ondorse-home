@@ -5,7 +5,7 @@
       action="{{ form.form_action }}" {% endif %} method="POST" data-netlify="true"
       data-netlify-honeypot="{{ form.form_id }}-bot-field">
       <div class="screen-reader-text">
-        <label id="{{ form.form_id }}-honeypot-label" for="{{ section.form_id }}-honeypot">Don't fill this out if you're
+        <label id="{{ form.form_id }}-honeypot-label" for="{{ form.form_id }}-honeypot">Don't fill this out if you're
           human:</label>
         <input aria-labelledby="{{ section.form_id }}-honeypot-label" id="{{ section.form_id }}-honeypot"
           name="{{ section.form_id }}-bot-field" />
