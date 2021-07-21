@@ -22,8 +22,8 @@ sections:
       #  no_follow: false
       #  type: action
     form:
-      - form_id: 
-        title: Subscribe
+      form_id: 
+      title: Subscribe
         content: Stay up to date with our latest developments.
         form_id: contactForm
         hide_labels: true
