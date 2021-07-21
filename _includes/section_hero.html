@@ -24,7 +24,7 @@
         {% if actions_is_not_empty %}
         <div class="block-content inner-medium">
           <form name="{{ section.forms.form_id }}" id="{{ section.forms.form_id }}" {% assign form_action_is_not_empty = section.forms.form_action | is_not_empty %}{% if form_action_is_not_empty %}
-            action="{{ section.form_action }}" {% endif %} method="POST" data-netlify="true"
+            action="{{ section.forms.form_action }}" {% endif %} method="POST" data-netlify="true"
             data-netlify-honeypot="{{ section.form_id }}-bot-field">
             <div class="screen-reader-text">
               <label id="{{ section.form_id }}-honeypot-label" for="{{ section.form_id }}-honeypot">Don't fill this out if you're
