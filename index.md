@@ -23,7 +23,20 @@ sections:
       #  type: action
     forms:
       - form_id: 
-      -
+      - title: "Subscribe",
+                "content": "Stay up to date with our latest developments.",
+                "form_id": "contactForm",
+                "hide_labels": true,
+                "form_fields": [
+                    {
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true,
+                    }
+                ],
+                "submit_label": "Subscribe",
   - section_id: features
     type: section_features
     background: white
