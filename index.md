@@ -115,7 +115,7 @@ seo:
       value: Ondorse
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: This is the preview of Ondorse
       keyName: property
     - name: 'og:image'
       value: images/LOGO-ONDORSE-LONG.png
