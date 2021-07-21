@@ -21,7 +21,7 @@ sections:
       #  new_window: false
       #  no_follow: false
       #  type: action
-    forms:
+    form:
       - form_id: 
         title: Subscribe
         content: Stay up to date with our latest developments.
