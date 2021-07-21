@@ -25,10 +25,10 @@ sections:
       - form_id: 
       - title: Subscribe
       - content: Stay up to date with our latest developments.
-      - form_id: "contactForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
+      - form_id: contactForm
+      - hide_labels: true
+      - form_fields:
+        
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
