@@ -28,7 +28,7 @@ sections:
         form_id: contactForm
         hide_labels: true
         form_fields:
-          - input_type: "email"
+          - input_type: email
             name: email
             label: Email
             default_value: Enter email address
