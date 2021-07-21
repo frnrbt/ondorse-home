@@ -36,12 +36,12 @@
               value="{{ section.form_id }}" />
             {% for field in section.form_fields %}
             <div class="form-row">
-            {% include form_field.html field=field %}
-                </div>
-                {% endfor %}
-                <div class="form-row">
-                <button type="submit" class="button">{{ section.submit_label }}</button>
-                </div>
+              {% include form_field.html field=field %}
+            </div>
+            {% endfor %}
+            <div class="form-row">
+              <button type="submit" class="button">{{ section.submit_label }}</button>
+            </div>
             </form>
         </div>
         {% endif %}
