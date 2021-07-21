@@ -22,7 +22,6 @@
         {% endif %}
         {% assign forms_is_not_empty = section.forms | is_not_empty %}
         {% if forms_is_not_empty %}
-            
         <div class="block-content inner-medium">
           <form name="{{ section.forms.form_id }}" id="{{ section.forms.form_id }}" {% assign form_action_is_not_empty = section.forms.form_action | is_not_empty %}{% if form_action_is_not_empty %}
             action="{{ section.forms.form_action }}" {% endif %} method="POST" data-netlify="true"
