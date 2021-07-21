@@ -32,8 +32,7 @@ sections:
             name: email
             label: Email
             default_value: Enter email address
-            is_required: true,
-                    }
+            is_required: true
                 ],
                 "submit_label": "Subscribe",
   - section_id: features
