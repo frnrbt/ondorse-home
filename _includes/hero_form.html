@@ -7,11 +7,11 @@
       <div class="screen-reader-text">
         <label id="{{ form.form_id }}-honeypot-label" for="{{ form.form_id }}-honeypot">Don't fill this out if you're
           human:</label>
-        <input aria-labelledby="{{ section.form_id }}-honeypot-label" id="{{ section.form_id }}-honeypot"
-          name="{{ section.form_id }}-bot-field" />
+        <input aria-labelledby="{{ form.form_id }}-honeypot-label" id="{{ form.form_id }}-honeypot"
+          name="{{ form.form_id }}-bot-field" />
       </div>
-      <input aria-labelledby="{{ section.form_id }}-honeypot-label" type="hidden" name="form-name"
-        value="{{ section.form_id }}" />
+      <input aria-labelledby="{{ form.form_id }}-honeypot-label" type="hidden" name="form-name"
+        value="{{ form.form_id }}" />
       {% for field in section.form_fields %}
       <div class="form-row">
         {% include form_field.html field=field %}
