@@ -35,11 +35,9 @@
                         "label": "Email",
                         "default_value": "Enter email address",
                         "is_required": true,
-                        "options": []
                     }
                 ],
                 "submit_label": "Subscribe",
-                "form_action": "mailto:contact@ondorse.co"
             }
         ],
         "has_nav": true,
