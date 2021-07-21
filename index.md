@@ -30,10 +30,9 @@ sections:
         form_fields:
           - input_type: "email"
             name: email
-            
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true,
+            label: Email
+            default_value: Enter email address
+            is_required: true,
                     }
                 ],
                 "submit_label": "Subscribe",
