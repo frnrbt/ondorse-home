@@ -12,7 +12,7 @@
       </div>
       <input aria-labelledby="{{ form.form_id }}-honeypot-label" type="hidden" name="form-name"
         value="{{ form.form_id }}" />
-      {% for field in section.form_fields %}
+      {% for field in form.form_fields %}
       <div class="form-row">
         {% include form_field.html field=field %}
       </div>
