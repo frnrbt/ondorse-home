@@ -16,6 +16,11 @@
         {% include form_field.html field=field %}
       </div>
       {% endfor %}
+      {% for field in form.form_fields %}
+      <div class="form-row">
+        {% include form_field.html field=field %}
+      </div>
+      {% endfor %}
       <div class="form-row">
         <button type="submit" class="button">{{ form.submit_label }}</button>
       </div>
