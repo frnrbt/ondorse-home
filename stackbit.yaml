@@ -574,7 +574,7 @@ models:
         items:
           type: model
           models:
-            - form
+            - form_field
     labelField: title
   section_posts:
     type: object
