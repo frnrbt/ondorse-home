@@ -67,7 +67,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe",
+                "submit_label": "Subscribe"
             }
         ],
         "has_nav": true,
