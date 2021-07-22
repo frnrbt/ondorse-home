@@ -32,7 +32,7 @@ sections:
             name: email
             default_value: Enter email address
             is_required: true
-        submit_label: Subscribe
+        submit_label: Request access >
   - section_id: features
     type: section_features
     background: white
