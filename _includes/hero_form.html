@@ -14,7 +14,6 @@
       {% for field in form.form_fields %}
       <div class="form-row">
         {% include form_field.html field=field %}
-        <button type="submit" class="button">{{ form.submit_label }}</button>
       </div>
       {% endfor %}
       <div class="form-row">
