@@ -60,7 +60,14 @@
 }
 
 .block-forms {
-  
+  -ms-flex-align: center;
+  align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-pack: center;
+  justify-content: center;
   margin: 1.66667em 0 1em;
 
   form {
