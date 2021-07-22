@@ -41,11 +41,8 @@
 }
 
 .widget-image {
-  display: flex;
+  display: block;
   margin-bottom: 0.75em;
-  max-height: 40px;
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto;
 }
 
 .widget-title {
