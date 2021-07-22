@@ -1,6 +1,5 @@
 {% assign forms = include.forms %}
 {% for form in forms %}
-  <section class="cell widget widget-form">
     <form name="{{ form.form_id }}" id="{{ form.form_id }}" {% assign form_action_is_not_empty = form.form_action | is_not_empty %}{% if form_action_is_not_empty %}
       action="{{ form.form_action }}" {% endif %} method="POST" data-netlify="true"
       data-netlify-honeypot="{{ form.form_id }}-bot-field">
@@ -21,5 +20,4 @@
         <button type="submit" class="button">{{ form.submit_label }}</button>
       </div>
     </form>
-  </section>
 {% endfor %}
