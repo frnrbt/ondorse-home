@@ -568,6 +568,13 @@ models:
           type: model
           models:
             - action
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: model
+          models:
+            - action
     labelField: title
   section_posts:
     type: object
