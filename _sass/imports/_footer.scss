@@ -97,7 +97,7 @@
 
     .widget-text {
       &:first-child {
-        -ms-flex: 0 0 100%;
+        -ms-flex: 0 0 auto;
         flex: 0 0 100%;
         max-width: 100%;
       }
