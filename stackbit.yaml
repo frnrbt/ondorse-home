@@ -766,6 +766,11 @@ models:
         label: Submit Button Label
         required: true
     labelField: title
+  form:
+    type: object
+    label: Form
+    labelField: form
+    fields:
   action:
     type: object
     label: Action
