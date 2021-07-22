@@ -569,12 +569,12 @@ models:
           models:
             - action
       - type: list
-        name: actions
-        label: Action Buttons
+        name: forms
+        label: Form Buttons
         items:
           type: model
           models:
-            - action
+            - form
     labelField: title
   section_posts:
     type: object
