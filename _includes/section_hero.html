@@ -20,10 +20,6 @@
           {% include cta_buttons.html actions=section.actions %}
         {% endif %}
         {% assign forms_is_not_empty = section.forms | is_not_empty %}
-        {% if forms_is_not_empty %}
-        <div class="block-buttons">
-          {% include hero_form.html forms=section.forms %}        {% endif %}
-        </div>
       </div>
     </div>
   </div>
