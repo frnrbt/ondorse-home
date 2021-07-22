@@ -73,32 +73,6 @@
   }
 }
 
-.block-forms {
-  -ms-flex-align: center;
-  align-items: center;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -ms-flex-pack: center;
-  justify-content: center;
-  margin: 1.66667em 0 1em;
-
-  &:first-child {
-    margin-top: 0;
-  }
-
-  a {
-    font-size: 0.88889em;
-    font-weight: bold;
-    margin: 0 0.375em 1.125em;
-
-    .font-fira-sans & {
-      font-weight: 600;
-    }
-  }
-}
-
 .hero-block,
 .cta-block {
   .block-buttons {
