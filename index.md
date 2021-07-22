@@ -11,7 +11,28 @@ sections:
       date information coupled with an asset freeze screening tool helps
       financial services companies continuously monitor relevant KYC and KYB
       information and make compliance more effective.
-    
+    actions: []
+      #- label: Request Access to the API Documentation
+      #  url: 'mailto:contact@ondorse.co'
+      #  style: primary
+      #  has_icon: false
+      #  icon: arrow-left
+      #  icon_position: right
+      #  new_window: false
+      #  no_follow: false
+      #  type: action
+    forms:
+      - form_id: 
+        title: Subscribe
+        content: Stay up to date with our latest developments.
+        form_id: contactForm
+        hide_labels: true
+        form_fields:
+          - input_type: email
+            name: email
+            default_value: Enter email address
+            is_required: true
+        submit_label: Request access >
   - section_id: features
     type: section_features
     background: white
