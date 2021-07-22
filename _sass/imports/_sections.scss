@@ -72,7 +72,8 @@
 
   form {
     display: flex
-    
+    display: -ms-flexbox;
+
   }
 
   &:first-child {
