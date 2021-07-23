@@ -23,7 +23,7 @@
         {% assign forms_is_not_empty = section.forms | is_not_empty %}
         {% if forms_is_not_empty %}
         <div class="block-buttons">
-          {% include hero_form.html actions=section.actions %}
+          {% include hero_form.html forms=section.forms %}
         </div>
         {% endif %}      
       </div>
