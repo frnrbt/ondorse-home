@@ -41,9 +41,16 @@ seo:
       relativeUrl: true
 layout: post
 ---
+1.  Customer Due Diligence
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+As put in the proposed regulation, “accurate identification and verification of data of prospective and existing customers are essential for understanding the risks of money laundering and terrorist financing associated with clients, whether they are natural or legal persons.”
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+The amendments to rules on Customer Due Diligence (“CDD”) include provisions to better frame CDD in cases where remote customer onboarding is carried out.  The proposed regulation also provides that obliged entities shall conduct ongoing monitoring of the business relationship performed by the customers *(Article  21)*.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Furthermore, when obliged entities are unable to comply with the requirement to apply customer due diligence measures, they shall terminate the business relationship and consider filing a suspicious transaction report to the FIU in relation to the customer *(Article 17).* 
+
+1.  Beneficial Ownership
+
+The provisions on beneficial ownership information in the European Commission’s proposal build on those in current EU AML/CFT legislation, including the concept of beneficial ownership and the requirement for all corporate and other legal entities to obtain and hold adequate, accurate and current beneficial ownership information. 
+
+Nevertheless, the proposal includes disclosure requirements for nominee shareholders and nominee directors, and introduces the obligations to register their beneficial ownership in the Union for non-EU legal entities that either enter into a business relationship with an EU obliged entity or acquire real estate in the Union.
