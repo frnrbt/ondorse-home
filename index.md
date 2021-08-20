@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:title'
       value: Ondorse
     - name: 'twitter:description'
-      value: The preview of Ondorse
+      value: Business is a changing world
     - name: 'twitter:image'
       value: images/LOGO-ONDORSE-LONG
       relativeUrl: true
