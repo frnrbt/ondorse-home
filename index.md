@@ -116,7 +116,7 @@ seo:
       value: Ondorse
       keyName: property
     - name: 'og:description'
-      value: This is the preview of Ondorse
+      value: Business is a changing world
       keyName: property
     - name: 'og:image'
       value: images/LOGO-ONDORSE-LONG.png
