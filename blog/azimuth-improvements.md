@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-1.  Customer Due Diligence
+##### Customer Due Diligence
 
 As put in the proposed regulation, “accurate identification and verification of data of prospective and existing customers are essential for understanding the risks of money laundering and terrorist financing associated with clients, whether they are natural or legal persons.”
 
@@ -49,7 +49,7 @@ The amendments to rules on Customer Due Diligence (“CDD”) include provisions
 
 Furthermore, when obliged entities are unable to comply with the requirement to apply customer due diligence measures, they shall terminate the business relationship and consider filing a suspicious transaction report to the FIU in relation to the customer *(Article 17).* 
 
-1.  Beneficial Ownership
+##### Beneficial Ownership
 
 The provisions on beneficial ownership information in the European Commission’s proposal build on those in current EU AML/CFT legislation, including the concept of beneficial ownership and the requirement for all corporate and other legal entities to obtain and hold adequate, accurate and current beneficial ownership information. 
 
