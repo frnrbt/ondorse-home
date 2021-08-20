@@ -1,5 +1,5 @@
 ---
-title: Customer
+title: "Customer\_Customer due diligence and beneficial ownership are at the heart of a new set of proposed AML/CFT EU regulation."
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
