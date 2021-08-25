@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Opportunities and regulatory support of new technologies for AML/CFT
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
