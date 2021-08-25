@@ -7,8 +7,10 @@ subtitle: >-
   from regulators across the globe.
 author: _data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Technological innovation can make efforts to combat money laundering and
+  terrorist financing (“AML/CFT”) faster, more responsive, and more efficient.
+  As such, innovative solutions in the regulatory field have received support
+  from regulators across the globe.
 date: '2021-08-25'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
