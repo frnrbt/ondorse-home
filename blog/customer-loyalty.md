@@ -1,5 +1,5 @@
 ---
-title: Opportunities and regulatory support of new technologies for AML/CFT
+title: Opportunities and regulatory support for innovative AML/CFT tools
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
