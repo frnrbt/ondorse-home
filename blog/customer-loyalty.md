@@ -48,19 +48,39 @@ seo:
       relativeUrl: true
 layout: post
 ---
+**Opportunities of new technologies in the AML/CFT field**
 
-**Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+Technology-advanced services can process large volumes of information that go beyond human capability and provide data processing results in record time, releasing human resources for more critical work such as the analysis of complex ML/TF cases. 
 
-## Customer
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+As put by the Financial Action Task Force (“FATF”) in a July 1, 2021 report on opportunities and challenges of new technologies for AML/CFT, technology can increase the capacity to collect and process data, and share it with stakeholders, including supervisors.
 
-## Loyalty Programs
+Technology can minimise weaknesses in human control measures, improve customer experience, generate cost savings, and facilitate transaction monitoring. Technology includes amongst others, Application Programming Interfaces (“APIs”) which connect customer identification services with monitoring tools, or risk and threats identification tools with customer risk profiles. An API can generate notifications, alerts or alter risk classifications as relevant.  As set forth by the FATF, APIs can (i) improve the interoperability between traditional banking data, moving away from siloed systems with fragmented frameworks (ii) increase automation and optimise resources and output accuracy, and (iii) supply an aggregated and normalized data feed, helping to build a more complete risk profile for new customers. 
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+**II.	Regulatory support across the globe to support innovation in the AML/CFT field**	 	 		
 
-> The strength of brand loyalty begins with how your product makes people feel. - Jay Samit
+Regulators across the globe support their RegTech industry which provides technology solutions to help regulated firms meet their regulatory obligations in an attempt to further enhance the growth and competitiveness of their financial services industry and the attractiveness of their jurisdictions.  From a global perspective, the Bank of International Settlements (“BIS”) has set up an innovation hub and it partnered with the G20 in 2020 to hold a global TechSprint to find innovative solutions for operational problems in the area of regulatory compliance.
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+For national regulators, a recent study by the Financial Stability Board (“FSB”) found that a third of the authorities they surveyed had a strategy to promote or encourage the use of RegTech and that the most common areas supporting the use of RegTech were in financial crime compliance and regulatory reporting. 
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+In France, the Autorité de Contrôle Prudentiel et de Résolution (“ACPR”) has organized in early July 2021 tech sprints on the explainability of algorithms.  The explainability is instrumental to create trust in artificial intelligence (“AI”) as it allows better understanding of the results of the algorithm to approve and supervise AI-based models.
+
+The UK’s Financial Conduct Authority and the Bank of England have been at the vanguard in their support of technology innovation. From its inception in 2014, FCA Innovate has been providing support to both FinTechs and RegTechs and has come up with some novel initiatives to use technology for solving some of the financial services industry’s most intractable problems. Seven ‘TechSprints’ have been held to date, the first focusing on Consumer Access and the most recent in 2019 centering on AML and involving 40 organisations and 140 participants. Run by the FCA’s RegTech team, these TechSprints have offered a model of collaboration across industry, vendors and regulators which have demonstrated the power of what can be achieved when these three sets of actors work together. 
+
+In Singapore, the Monetary Authority of Singapore (“MAS”) has held annual awards for innovative FinTech and RegTech solutions, announcing the winners during Singapore’s annual FinTech Festival. As well as providing clear guidance to financial firms on outsourcing, MAS has also issued a set of guidelines around technology risk management which describes the best practices for sound technology risk governance. Finally, MAS has established a Productivity Solutions Grant to provide smaller financial firms with funding to adopt regulatory reporting solutions, valued at up to $250,000 per entity.				
+
+In Hong Kong, the Hong Kong Monetary Authority (“HKMA”) published in November 2020, a white paper establishing a two year roadmap for the promotion of RegTech adoption.  With five areas of recommendations, the vision is wide- ranging and the actions that the HKMA plans to take to implement the recommendations are:	
+
+*   hosting a large-scale event to raise the banking sector’s awareness of the potential of Regtech;
+
+*   launching a Regtech Adoption Index;
+
+*   organising a Global Regtech Challenge to stimulate innovation;
+
+*   publishing a “Regtech Adoption Practice Guides” series;	
+
+*   creating a centralised “Regtech Knowledge Hub” to encourage information sharing; and
+
+*   establishing a Regtech skills framework to develop talents
+
+In Australia, funded by the Federal Government, the Australian Securities and Investments Commission (“ASIC”) has pursued several initiatives to promote the adoption of RegTech within Australia. Using this funding, between 2018 and 2020 ASIC selected a number of difficult problems to address through problem solving events, trials and webinars covering topics from financial promotions to a chat-bot to help navigate the financial services licensing framework. Australia’s Prudential Regulation Authority (“APRA”) has followed a similar path to the Bank of England, looking towards RegTech to streamline its own data collection and regulatory reporting processes, whilst at the same time, encouraging the adoption of RegTech within its regulated community to make their data and reporting capabilities more efficient. APRA also engages with the RegTech industry through ongoing engagement with Australia’s RegTech industry association.
