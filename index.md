@@ -132,17 +132,9 @@ sections:
         type: feature_item
         image: images/undraw_Goals_re_lu76.svg
       - title: API-simple
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Ondorse’s API can easily and immediately be integrated in your
+          workflow, giving your teams the tools they need from day one
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
