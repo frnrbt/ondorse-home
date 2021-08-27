@@ -32,6 +32,11 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  It’s no secret that Open APIs are the way of the future for banks, payments,
+  and other industries interested in innovative technologies that enable agility
+  and scalability. APIs offers a quicker, easier and less costly path to deliver
+  new services.
 ---
 It’s no secret that Open APIs are the way of the future for banks, payments, and other industries interested in innovative technologies that enable agility and scalability. APIs offers a quicker, easier and less costly path to deliver new services that meet consumer demands and expectations of today and tomorrow. Already, there are over 1,000 APIs in the financial category and many more to come as advancements in big data, AI, blockchain technology, machine-learning, and other areas take off.
 
