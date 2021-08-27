@@ -16,7 +16,7 @@ seo:
       value: How APIs help companies stay compliant
       keyName: property
     - name: 'og:description'
-      value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+      value: Compliance is quick and easy to achieve thanks to APIs
       keyName: property
     - name: 'og:image'
       value: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
