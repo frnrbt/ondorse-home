@@ -17,7 +17,7 @@ thumb_image_alt: A group of people working in a cafe
 image: images/nasa-Q1p7bh3SHj8-unsplash.jpg
 image_alt: A group of people working in a cafe
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: Opportunities and regulatory support for AML/CFT tools
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
