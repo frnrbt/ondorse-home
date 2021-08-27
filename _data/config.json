@@ -56,7 +56,7 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Blog",
                         "url": "#",
                         "style": "link",
                         "has_icon": false,
