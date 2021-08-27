@@ -25,8 +25,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum
-        massa massa primis.
+        On July 20, 2021, the European Commission issued an ambitious package of
+        legislative proposals to strenghthen the EU's anti-money laundering
+        rules
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
