@@ -121,6 +121,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/undraw_Goals_re_lu76.svg
     type: section_features
 seo:
   title: Ondorse
