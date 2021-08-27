@@ -50,7 +50,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Options_re_9vxh.svg
+        image: images/undraw_Server_re_twwj.svg
     type: section_features
   - section_id: posts
     title: Latest Posts
