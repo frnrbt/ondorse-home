@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Release Notes - Azimuth Improvements and New Integrations
+      value: Beneficial ownership at the heart of new AML/CFT regulations
       keyName: property
     - name: 'og:description'
       value: >-
