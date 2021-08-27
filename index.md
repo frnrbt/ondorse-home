@@ -23,35 +23,6 @@ sections:
             is_required: true
         submit_label: Request access >
     image: images/undraw_Options_re_9vxh.svg
-  - section_id: How it works
-    title: How it works
-    content: >
-      Leveraging on a RESTful API, Ondorse provides you access to a database of
-      connections (UBO, shareholder and legal representative) involving your
-      corporate users in Europe and the U.K.
-
-
-      ```console
-        curl --location --request GET 'https://app.ondorse.co/api/v1/companies/:companyId'
-      ```
-
-
-      *   The database of connections is directly linked to official primary
-      source corporate registers in Europe and the U.K. to guarantee data
-      integrity.
-
-
-      *   When an event affects a connection involving one of your corporate
-      users, Ondorse’s API automatically sends this information to you via a
-      push notification.
-
-
-      *   Ondorse’s API can easily and immediately be integrated in your
-      workflow, giving your teams the tools they need from day one.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
   - section_id: features
     background: white
     features:
