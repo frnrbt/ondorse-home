@@ -8,11 +8,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact us",
-                "url": "mailto:contact@ondorse.co",
-                "style": "primary"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link",
@@ -22,6 +17,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact us",
+                "url": "mailto:contact@ondorse.co",
+                "style": "primary"
             }
         ]
     },
