@@ -148,17 +148,11 @@ sections:
           engaged with.
         type: faq_item
       - question: How does Ondorse handle shell companies with corporate users?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ondorse continuously monitors events affecting the KYB of your users
+          and pushes you notifications in case of important corporate
+          information updates, such as a UBO, shareholder or legal
+          representative change.
         type: faq_item
     type: section_faq
 seo:
