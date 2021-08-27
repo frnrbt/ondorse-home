@@ -104,7 +104,6 @@ sections:
     actions: []
     type: section_content
   - section_id: features
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     features:
