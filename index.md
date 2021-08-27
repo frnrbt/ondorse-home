@@ -147,7 +147,7 @@ sections:
           up-to-date company information on the corporate customers you are
           engaged with.
         type: faq_item
-      - question: Question 2
+      - question: How
         answer: >-
           ## Lorem ipsum
 
