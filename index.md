@@ -34,7 +34,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Goals_re_lu76.svg
+        image: images/undraw_Internet_on_the_go_re_vben.svg
       - title: European data
         content: >
           Access to a database of connections (UBO, shareholder and legal
