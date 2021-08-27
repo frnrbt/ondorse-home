@@ -163,9 +163,7 @@ sections:
     title: FAQ
     background: white
     faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Worried on being late on asset freeze
         answer: >-
           ## Lorem ipsum
 
