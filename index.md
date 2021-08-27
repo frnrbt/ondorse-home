@@ -138,7 +138,7 @@ sections:
         actions: []
         type: feature_item
         image: images/undraw_Goals_re_lu76.svg
-      - title: Last feature
+      - title: API-simple
         content: >-
           ## Lorem ipsum
 
