@@ -12,7 +12,7 @@ excerpt: >-
   As such, innovative solutions in the regulatory field have received support
   from regulators across the globe.
 date: '2021-08-25'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/nasa-Q1p7bh3SHj8-unsplash.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/nasa-Q1p7bh3SHj8-unsplash.jpg
 image_alt: A group of people working in a cafe
