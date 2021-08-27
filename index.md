@@ -119,16 +119,7 @@ sections:
 
           - dolor sit amet
         image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: feature_item
         image: images/undraw_Goals_re_lu76.svg
     type: section_features
