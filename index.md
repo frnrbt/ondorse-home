@@ -163,9 +163,7 @@ sections:
           indirect AML-CFT risks.
         type: faq_item
         question: How can Ondorse help stay on top of asset freeze?
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Who does Ondorse work
         answer: >-
           ## Lorem ipsum
 
