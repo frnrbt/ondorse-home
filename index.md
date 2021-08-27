@@ -156,7 +156,7 @@ sections:
         image: images/undraw_Options_re_9vxh.svg
     type: section_features
   - section_id: posts
-    title: Latest Poss
+    title: Latest Pos
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
