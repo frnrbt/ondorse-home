@@ -163,7 +163,7 @@ sections:
     title: FAQ
     background: white
     faq_items:
-      - question: Worried on being late on asset freeze ?
+      - question: How does Ondorse stay on top of asset
         answer: >-
           ## Lorem ipsum
 
