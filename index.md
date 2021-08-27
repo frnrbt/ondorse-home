@@ -160,7 +160,7 @@ sections:
     background: gray
     type: section_posts
   - section_id: FAQ
-    title: lorem-ipsum
+    title: FAQ
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
