@@ -161,7 +161,6 @@ sections:
     type: section_posts
   - section_id: FAQ
     title: FAQ
-    subtitle: lorem-ipsum
     background: gray
     faq_items: []
     type: section_faq
