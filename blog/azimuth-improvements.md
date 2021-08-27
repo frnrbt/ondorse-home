@@ -1,7 +1,5 @@
 ---
-title: >-
-  Customer due diligence and beneficial ownership are at the heart of new
-  proposed AML/CFT E.U. regulations
+title: Beneficial ownership at the heart of new AML/CFT E.U. regulations
 subtitle: "On July 20, 2021, the European Commission issued an ambitious package of legislative proposals to strengthen the EU's anti-money laundering and countering terrorism financing rules.\_ As part of the four legislative proposals, the package includes a proposed regulation on AML/CFT (2021/0239), containing directly-applicable rules, in the areas of customer due diligence and beneficial ownership which enhances requirements for financial services companies."
 author: _data/authors/john-doe.yaml
 excerpt: >-
