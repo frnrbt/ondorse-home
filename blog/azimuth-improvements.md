@@ -44,6 +44,10 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  On July 20, 2021, the European Commission issued an ambitious package of
+  legislative proposals to strengthen the EU's anti-money laundering and
+  countering terrorism financing rules. 
 ---
 ##### Customer Due Diligence
 
