@@ -30,7 +30,7 @@ seo:
         rules
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/fabio-oyXis2kALVg-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
