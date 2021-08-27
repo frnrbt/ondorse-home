@@ -142,17 +142,10 @@ sections:
     background: white
     faq_items:
       - question: How does Ondorse stay on top of asset freeze
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ondorse automatically populates your back office tool with the most
+          up-to-date company information on the corporate customers you are
+          engaged with.
         type: faq_item
       - question: Question 2
         answer: >-
