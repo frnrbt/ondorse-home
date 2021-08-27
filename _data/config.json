@@ -53,6 +53,11 @@
                 ]
             },
             {
+                "title": "lorem-ipsum",
+                "nav_links": [],
+                "type": "footer_nav"
+            },
+            {
                 "type": "footer_form",
                 "title": "Subscribe",
                 "content": "Stay up to date with our latest developments.",
@@ -68,11 +73,6 @@
                     }
                 ],
                 "submit_label": "Subscribe"
-            },
-            {
-                "title": "lorem-ipsum",
-                "nav_links": [],
-                "type": "footer_nav"
             }
         ],
         "has_nav": true,
