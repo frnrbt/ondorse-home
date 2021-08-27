@@ -34,7 +34,7 @@ seo:
         terrorist financing faster, more responsive, and more efficient.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/nasa-Q1p7bh3SHj8-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
