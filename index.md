@@ -166,7 +166,7 @@ sections:
 
           - dolor sit amet
         type: faq_item
-        question: 'How can Ondorse help stay on top of asset freeze '
+        question: How can Ondorse help stay on top of asset freeze?
     type: section_faq
 seo:
   title: Ondorse
