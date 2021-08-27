@@ -19,7 +19,7 @@ seo:
       value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
