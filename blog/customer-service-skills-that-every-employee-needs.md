@@ -1,6 +1,6 @@
 ---
 title: How APIs help companies stay compliant
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+subtitle: Compliance is quick and easy to a
 author: _data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
