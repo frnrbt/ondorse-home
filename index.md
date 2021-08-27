@@ -159,6 +159,12 @@ sections:
     title: Latest Posts
     background: gray
     type: section_posts
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 seo:
   title: Ondorse
   description: >-
