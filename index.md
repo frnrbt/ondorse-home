@@ -153,6 +153,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/undraw_Options_re_9vxh.svg
     type: section_features
 seo:
   title: Ondorse
