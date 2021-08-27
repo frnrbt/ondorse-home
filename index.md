@@ -100,7 +100,7 @@ sections:
       *   Ondorse’s API can easily and immediately be integrated in your
       workflow, giving your teams the tools they need from day one.
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions: []
     type: section_content
   - section_id: lorem-ipsum
