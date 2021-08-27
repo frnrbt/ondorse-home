@@ -19,8 +19,8 @@ image_alt: A group of people working in a cafe
 seo:
   title: Opportunities and regulatory support for AML/CFT tools
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    Technological innovation can make efforts to combat money laundering and
+    terrorist financing faster, more responsive, and more efficient.
   extra:
     - name: 'og:type'
       value: article
