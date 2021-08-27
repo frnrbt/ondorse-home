@@ -108,17 +108,10 @@ sections:
     background: white
     features:
       - title: Real-time information
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          When an event affects a connection involving one of your corporate
+          users, Ondorse’s API automatically sends this information to you via a
+          push notification.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
