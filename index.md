@@ -111,7 +111,7 @@ sections:
         content: >
           When an event affects a connection involving one of your corporate
           users, Ondorse’s API automatically sends this information to you via a
-          push notification.
+          push notification
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
