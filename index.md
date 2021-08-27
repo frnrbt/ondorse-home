@@ -154,17 +154,13 @@ sections:
           information updates, such as a UBO, shareholder or legal
           representative change.
         type: faq_item
-      - answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - answer: >
+          Ondorse pushes you alerts in case of a true asset freeze match
+          involving a connection (UBO, shareholder or legal representative)
+          associated with one of your customers. With our screening tool fed
+          with permanently refreshed information, you can now immediately comply
+          with all your asset freeze obligations and associated direct and
+          indirect AML-CFT risks.
         type: faq_item
         question: How can Ondorse help stay on top of asset freeze?
     type: section_faq
