@@ -22,6 +22,7 @@ sections:
             default_value: Enter email address
             is_required: true
         submit_label: Request access >
+    image: images/undraw_Options_re_9vxh.svg
   - section_id: features
     type: section_features
     background: white
