@@ -66,7 +66,7 @@ sections:
           indirect AML-CFT risks.
 
           ### For marketplaces and platforms
-          
+
           ##### Are you considering creating a unified KYC/KYB on your SME
           vendors ?
 
@@ -103,6 +103,12 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: Ondorse
   description: >-
