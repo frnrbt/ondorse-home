@@ -141,7 +141,7 @@ sections:
     title: FAQ
     background: white
     faq_items:
-      - question: How does Ondorse stay on top of asset freeze
+      - question: How does Ondorse replace the burdensome process of KYC refresh ?
         answer: >
           Ondorse automatically populates your back office tool with the most
           up-to-date company information on the corporate customers you are
