@@ -155,6 +155,11 @@ sections:
         type: feature_item
         image: images/undraw_Options_re_9vxh.svg
     type: section_features
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
 seo:
   title: Ondorse
   description: >-
