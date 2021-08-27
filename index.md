@@ -164,17 +164,10 @@ sections:
         type: faq_item
         question: How can Ondorse help stay on top of asset freeze?
       - question: Who does Ondorse work with?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ondorse was designed for financial companies but also works with
+          marketplaces and platforms considering creating a unified KYC/KYB on
+          SME vendors to help better detect vendor fraud.
         type: faq_item
     type: section_faq
 seo:
