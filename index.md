@@ -107,7 +107,7 @@ sections:
   - section_id: features
     background: white
     features:
-      - title: Cool feature Title
+      - title: Real-time real-time corporate information
         content: >-
           ## Lorem ipsum
 
