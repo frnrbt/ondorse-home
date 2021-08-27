@@ -6,7 +6,7 @@ date: '2018-01-11'
 thumb_image: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
 image: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
 seo:
-  title: 5 Customer Service Skills that Every Employee Needs
+  title: How APIs help companies stay compliant
   description: Compliance is quick and easy to achieve thanks to APIs
   extra:
     - name: 'og:type'
