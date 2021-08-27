@@ -108,7 +108,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Cool feature Title
         content: >-
           ## Lorem ipsum
 
