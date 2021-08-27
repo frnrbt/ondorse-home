@@ -161,7 +161,7 @@ sections:
     type: section_posts
   - section_id: FAQ
     title: FAQ
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 seo:
