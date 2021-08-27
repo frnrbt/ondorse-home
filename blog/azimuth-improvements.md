@@ -14,8 +14,8 @@ thumb_image: images/1_thumb.jpg
 seo:
   title: Beneficial ownership at the heart of new AML/CFT regulations
   description: >-
-    Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-    massa primis.
+    On July 20, 2021, the European Commission issued an ambitious package of
+    legislative proposals to strenghthen the EU's anti-money laundering rules
   extra:
     - name: 'og:type'
       value: article
