@@ -157,7 +157,6 @@ sections:
     type: section_features
   - section_id: posts
     title: Latest Posts
-    subtitle: lorem-ipsum
     background: gray
     type: section_posts
 seo:
