@@ -138,7 +138,7 @@ sections:
         actions: []
         type: feature_item
         image: images/undraw_Goals_re_lu76.svg
-      - title: lorem-ipsum
+      - title: Last feature
         content: >-
           ## Lorem ipsum
 
