@@ -104,7 +104,7 @@ sections:
     actions: []
     type: section_content
   - section_id: features
-    background: gray
+    background: white
     features:
       - title: Cool feature Title
         content: >-
