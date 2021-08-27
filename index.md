@@ -163,7 +163,7 @@ sections:
     title: FAQ
     background: white
     faq_items:
-      - question: How does Ondorse stay on top of asset
+      - question: How does Ondorse stay on top of asset freeze
         answer: >-
           ## Lorem ipsum
 
