@@ -147,7 +147,7 @@ sections:
           up-to-date company information on the corporate customers you are
           engaged with.
         type: faq_item
-      - question: How to handle shell companies with corporate users ?
+      - question: How does Ondorse handle shell companies with corporate users ?
         answer: >-
           ## Lorem ipsum
 
