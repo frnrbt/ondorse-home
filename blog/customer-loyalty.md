@@ -26,7 +26,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: Opportunities and regulatory support for AML/CFT tools
       keyName: property
     - name: 'og:description'
       value: >-
