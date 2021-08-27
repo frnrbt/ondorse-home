@@ -2,9 +2,6 @@
 title: How APIs help companies stay compliant
 subtitle: Compliance is quick and easy to achieve thanks to APIs
 author: _data/authors/john-doe.yaml
-excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
 date: '2018-01-11'
 thumb_image: images/5_thumb.jpg
 image: images/5.jpg
