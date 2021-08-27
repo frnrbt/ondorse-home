@@ -154,10 +154,7 @@ sections:
           information updates, such as a UBO, shareholder or legal
           representative change.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
+      - answer: >-
           ## Lorem ipsum
 
 
