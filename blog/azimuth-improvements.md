@@ -10,7 +10,7 @@ subtitle: >-
   companies.
 author: _data/authors/john-doe.yaml
 date: '2021-08-26'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
 seo:
   title: Beneficial ownership at the heart of new AML/CFT regulations
   description: >-
