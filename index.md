@@ -23,58 +23,6 @@ sections:
             is_required: true
         submit_label: Request access >
     image: images/undraw_Options_re_9vxh.svg
-  - section_id: features
-    type: section_features
-    background: white
-    title: Why Ondorse
-    features:
-      - title: null
-        content: >
-          ### For financial services companies
-
-          *Including banks, insurance companies and other gatekeepers such as
-          fintechs and crypto exchange platforms.*
-
-
-          ##### Are you struggling with the manual and burdensome processes
-          induced by the KYC refresh?
-
-
-          Ondorse automatically populates your back office tool with the most up
-          to date company information on the corporate customers you are engaged
-          with.
-
-
-          ##### Have you ever been up at night worrying about having shell
-          companies amongst your corporate customers?
-
-
-          Ondorse continuously monitors events affecting the KYB of your users
-          and pushes you notifications in case of important corporate
-          information updates, such as a UBO, shareholder or legal
-          representative change.
-
-
-          ##### Have you ever worried about being late on freezing the assets of
-          one of your customers?
-
-
-          Ondorse pushes you alerts in case of a true asset freeze match
-          involving a connection (UBO, shareholder or legal representative)
-          associated with one of your customers. With our screening tool fed
-          with permanently refreshed information, you can now immediately comply
-          with all your asset freeze obligations and associated direct and
-          indirect AML-CFT risks.
-
-          ### For marketplaces and platforms
-
-          ##### Are you considering creating a unified KYC/KYB on your SME
-          vendors ?
-
-          Ondorse allows you access to the most up to date corporate information
-          to better detect potential vendor fraud.
-        actions: []
-        image_alt: image
   - section_id: How it works
     title: How it works
     content: >
