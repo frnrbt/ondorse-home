@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 5 Customer Service Skills that Every Employee Needs
+      value: Compliance is quick and easy to achieve thanks to APIs
     - name: 'twitter:description'
       value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
     - name: 'twitter:image'
