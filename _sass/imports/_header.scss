@@ -93,7 +93,7 @@
 
   @supports (position: sticky) or (position: -webkit-sticky) {
     .site-header {
-      background: $gray-100;
+      background: $gray-200;
       position: -webkit-sticky;
       position: sticky;
       top:0;
@@ -114,7 +114,7 @@
 
   .site-header {
     &:before {
-      background: rgba($gray-100, .75);
+      background: rgba($gray-200, .75);
       content: "";
       height: 100vh;
       left: 0;
@@ -160,7 +160,7 @@
   }
 
   .site-navigation {
-    background: $gray-100;
+    background: $gray-200;
     box-sizing: border-box;
     height: 100vh;
     -webkit-overflow-scrolling: touch;
