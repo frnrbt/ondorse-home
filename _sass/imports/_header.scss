@@ -179,10 +179,10 @@
 
     .menu-item {
       &:not(.menu-button) {
-        border-bottom: 1px solid $gray-200;
+        border-bottom: 1px solid $gray-700;
 
         &:first-child {
-          border-top: 1px solid $gray-200;
+          border-top: 1px solid $gray-700;
         }
       }
 
