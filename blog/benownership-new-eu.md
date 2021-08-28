@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Release Notes - Azimuth Improvements and New Integrations
+      value: Beneficial ownership at the heart of new AML/CFT regulations
     - name: 'twitter:description'
       value: >-
         Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum
