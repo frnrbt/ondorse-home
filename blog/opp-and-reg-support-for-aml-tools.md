@@ -5,7 +5,7 @@ subtitle: >-
   terrorist financing (“AML/CFT”) faster, more responsive, and more efficient.
   As such, innovative solutions in the regulatory field have received support
   from regulators across the globe.
-author: _data/authors/jane-doe.yaml
+author: _data/authors/aymeric-boelle.yaml
 excerpt: >-
   Technological innovation can make efforts to combat money laundering and
   terrorist financing (“AML/CFT”) faster, more responsive, and more efficient.
