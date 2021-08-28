@@ -1,5 +1,5 @@
 .site-header {
-  background: $gray-700;
+  background: $gray-200;
   color: $gray-700;
   padding-bottom: 2em;
   padding-top: 2em;
@@ -22,7 +22,7 @@
 }
 
 .site-title {
-  color: $gray-100;
+  color: $gray-700;
   font-size: 1.33333em;
   font-weight: bold;
   line-height: 1.2;
@@ -63,7 +63,7 @@
       color: inherit;
   
       &:hover {
-        color: $gray-200;
+        color: $gray-500;
       }
     }
   }
@@ -93,7 +93,7 @@
 
   @supports (position: sticky) or (position: -webkit-sticky) {
     .site-header {
-      background: $gray-700;
+      background: $gray-200;
       position: -webkit-sticky;
       position: sticky;
       top:0;
@@ -114,7 +114,7 @@
 
   .site-header {
     &:before {
-      background: rgba($gray-700, .75);
+      background: rgba($gray-200, .75);
       content: "";
       height: 100vh;
       left: 0;
@@ -160,7 +160,7 @@
   }
 
   .site-navigation {
-    background: $gray-700;
+    background: $gray-200;
     box-sizing: border-box;
     height: 100vh;
     -webkit-overflow-scrolling: touch;
@@ -179,10 +179,10 @@
 
     .menu-item {
       &:not(.menu-button) {
-        border-bottom: 1px solid $gray-700;
+        border-bottom: 1px solid $gray-200;
 
         &:first-child {
-          border-top: 1px solid $gray-700;
+          border-top: 1px solid $gray-200;
         }
       }
 
