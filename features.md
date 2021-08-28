@@ -36,7 +36,7 @@ sections:
     actions:
       - label: Get Started
         url: '#'
-        style: secondary
+        style: primary
 seo:
   title: Features
   description: This is the features page
