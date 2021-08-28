@@ -31,7 +31,8 @@
                 "type": "footer_text",
                 "image": "images/perpetual-wallaby.png",
                 "image_url": "/",
-                "image_alt": "Footer logo"
+                "image_alt": "Footer logo",
+                "content": 
             },
             {
                 "type": "footer_nav",
