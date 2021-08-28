@@ -8,7 +8,7 @@ subtitle: >-
   containing directly-applicable rules, in the areas of customer due diligence
   and beneficial ownership which enhances requirements for financial services
   companies.
-author: _data/authors/john-doe.yaml
+author: _data/authors/aymeric-boelle.yaml
 date: '2021-08-26'
 thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
 seo:
