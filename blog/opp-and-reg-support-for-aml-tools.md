@@ -43,8 +43,8 @@ seo:
       value: Customer Loyalty Programs That Stick
     - name: 'twitter:description'
       value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+        Technological innovation can make efforts to combat money laundering and
+        terrorist financing faster, more responsive, and more efficient.
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
