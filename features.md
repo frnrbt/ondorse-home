@@ -37,6 +37,15 @@ sections:
       - label: Get Started
         url: '#'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: Features
   description: This is the features page
