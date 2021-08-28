@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Compliance is quick and easy to achieve thanks to APIs
     - name: 'twitter:description'
-      value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+      value: 'Compliance is quick and easy to achieve thanks to APIs'
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
