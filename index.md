@@ -113,7 +113,7 @@ seo:
     - name: 'twitter:title'
       value: Ondorse
     - name: 'twitter:description'
-      value: Business is a changing world
+      value: Business is a changing world. Get instantly notified of any KYC and KYB change.
     - name: 'twitter:image'
       value: images/LOGO-ONDORSE-LONG
       relativeUrl: true
