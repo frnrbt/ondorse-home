@@ -185,7 +185,7 @@
 
     .block-preview {
       &:not(:only-child) {
-        padding-left: 3.33333em;
+        padding-left: 10em;
       }
     }
   }
@@ -193,7 +193,7 @@
   .block-item:nth-child(2n+2) {
     .block-preview {
       &:not(:only-child) {
-        padding-right: 3.33333em;
+        padding-right: 10em;
       }
     }
   }
