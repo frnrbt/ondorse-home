@@ -60,6 +60,12 @@ sections:
     title: FAQ
     background: white
     faq_items:
+      - question: Who does Ondorse work with?
+        answer: >
+          Ondorse was designed for financial companies but also works with
+          marketplaces and platforms considering creating a unified KYC/KYB on
+          SME vendors to help better detect vendor fraud.
+        type: faq_item
       - question: How does Ondorse replace the process of KYC refresh?
         answer: >
           Ondorse automatically populates your back office tool with the most
@@ -82,12 +88,6 @@ sections:
           indirect AML-CFT risks.
         type: faq_item
         question: How can Ondorse help stay on top of asset freeze?
-      - question: Who does Ondorse work with?
-        answer: >
-          Ondorse was designed for financial companies but also works with
-          marketplaces and platforms considering creating a unified KYC/KYB on
-          SME vendors to help better detect vendor fraud.
-        type: faq_item
     type: section_faq
 seo:
   title: Ondorse
@@ -113,7 +113,9 @@ seo:
     - name: 'twitter:title'
       value: Ondorse
     - name: 'twitter:description'
-      value: Business is a changing world. Get instantly notified of any KYC and KYB change.
+      value: >-
+        Business is a changing world. Get instantly notified of any KYC and KYB
+        change.
     - name: 'twitter:image'
       value: images/LOGO-ONDORSE-LONG
       relativeUrl: true
