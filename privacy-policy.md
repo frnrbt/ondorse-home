@@ -21,7 +21,7 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-##### Site presentation
+###### Site presentation
 
 [www.ondorse.co](http://www.ondorse.co) is subject to French law. Exclusive jurisdiction is granted to the competent courts of Paris.
 
