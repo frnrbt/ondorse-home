@@ -72,7 +72,7 @@ sections:
           up-to-date company information on the corporate customers you are
           engaged with.
         type: faq_item
-      - question: How does Ondorse handle shell companies with corporate users?
+      - question: How does Ondorse handle shell companies?
         answer: >
           Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
