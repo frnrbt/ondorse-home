@@ -10,7 +10,7 @@ subtitle: >-
   companies.
 author: _data/authors/aymeric-boelle.yaml
 date: '2021-08-26'
-thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
+thumb_image: images/LOGO-ONDORSE-COURT-34312008.png
 seo:
   title: Beneficial ownership at the heart of new AML/CFT regulations
   description: >-
