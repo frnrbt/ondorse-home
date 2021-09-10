@@ -1,13 +1,9 @@
 ---
 title: AML fines surge as watchdogs impose tougher penalties in H1 2021
 subtitle: >-
-  On July 20, 2021, the European Commission issued an ambitious package of
-  legislative proposals to strengthen the EU's anti-money laundering and
-  countering terrorism financing rules. As part of the four legislative
-  proposals, the package includes a proposed regulation on AML/CFT (2021/0239),
-  containing directly-applicable rules, in the areas of customer due diligence
-  and beneficial ownership which enhances requirements for financial services
-  companies.
+  Kroll, the governance and risk consultancy, found that in the first half of
+  2021, watchdogs levied $1bn in 17 big enforcement actions on track to hit last
+  year’s total of $2.2bn.
 date: '2021-08-26'
 excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
