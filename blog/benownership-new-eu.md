@@ -11,7 +11,7 @@ subtitle: >-
   and beneficial ownership which enhances requirements for financial services
   companies.
 author: _data/authors/aymeric-boelle.yaml
-date: '2021-09-26'
+date: '2021-09-03'
 thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
 seo:
   title: Beneficial ownership at the heart of new AML/CFT regulations
