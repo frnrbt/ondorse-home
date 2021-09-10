@@ -14,8 +14,8 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: AML fines surge as watchdogs impose tougher penalties
   description: >-
-    On July 20, 2021, the European Commission issued an ambitious package of
-    legislative proposals to strenghthen the EU's anti-money laundering rules
+    In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
+    actions on track to hit last year’s total of $2.2bn.
   extra:
     - name: 'og:type'
       value: article
