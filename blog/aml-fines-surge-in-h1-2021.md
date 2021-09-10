@@ -48,6 +48,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
+image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
 ---
 ##### AML Enforcement is Particularly Active in the EU and the U.K.
 
