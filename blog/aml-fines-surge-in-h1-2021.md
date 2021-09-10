@@ -49,16 +49,28 @@ layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
 ---
-##### Customer Due Diligence
+##### AML Enforcement is Particularly Active in the EU and the U.K.
 
-As put in the proposed regulation, “accurate identification and verification of data of prospective and existing customers are essential for understanding the risks of money laundering and terrorist financing associated with clients, whether they are natural or legal persons.”
+Global regulators are actively enforcing AML rules, particularly in the EU and the U.K., thus continuing to send the message that enforcement remains a top priority.  The fines mainly relate to shortcomings in AML management, inadequate suspicious activity monitoring and customer due diligence (“KYC”). The main recent enforcement actions include:
 
-The amendments to rules on Customer Due Diligence (“CDD”) include provisions to better frame CDD in cases where remote customer onboarding is carried out.  The proposed regulation also provides that obliged entities shall conduct ongoing monitoring of the business relationship performed by the customers *(Article  21)*.
+*   The UK’s Financial Conduct Authority first attempted prosecution for AML failings against NatWest, which failed to properly monitor the actions of a Bradford-based gold dealer. 
 
-Furthermore, when obliged entities are unable to comply with the requirement to apply customer due diligence measures, they shall terminate the business relationship and consider filing a suspicious transaction report to the FIU in relation to the customer *(Article 17).* 
+*   Monzo, the start-up digital lender, revealed last month it was being investigated by the FCA over potential breaches of AML laws. 
 
-##### Beneficial Ownership
+*   German rival N26 has twice been rebuked by domestic regulator BaFin for failures in its AML controls and this year had a special supervisor installed to oversee its remediation.
 
-The provisions on beneficial ownership information in the European Commission’s proposal build on those in current EU AML/CFT legislation, including the concept of beneficial ownership and the requirement for all corporate and other legal entities to obtain and hold adequate, accurate and current beneficial ownership information. 
+*   Dutch lender ABN Amro, which reached a €480m settlement with prosecutors after being accused of violating AML laws “for a number of years and on a structural basis”.  
 
-Nevertheless, the proposal includes disclosure requirements for nominee shareholders and nominee directors, and introduces the obligations to register their beneficial ownership in the Union for non-EU legal entities that either enter into a business relationship with an EU obliged entity or acquire real estate in the Union.
+*   Also, new UBS chief executive Ralph Hamers could face a court probe into his role in a €775m money-laundering scandal from 2018 when he led ING. 
+
+*   In the US, Capital One had to pay a $390m penalty for “wilful and negligent” AML violations under the Bank Secrecy Act after an investigation by the Treasury Department.
+
+##### Regulated Entities Need to Rethink Their Compliance Program
+
+Just like the financial services industry is in the middle of a great digital transformation journey, and like technology gets more advanced, so do criminal tactics, such as regulated entities do need to rethink their compliance program and rely on technology-advanced tools, both from a KYC and transaction monitoring perspective.
+
+Amongst the key enforcement trend setters, are the rapidly growing FinTechs, whose compliance and KYC processes are often not able to keep up with the pace of customer acquisition, thus making it essential for such entities to be equipped with robust tools that help them scale customer onboarding and KYC monitoring throughout the relationship.
+
+Also, transaction monitoring cannot cope in its current state and need to rely on emerging technologies like artificial intelligence to help combat AML in the sense that AI can alleviate admin-heavy processes while enhancing fraud detection.
+
+*What’s next ?* At Ondorse, we believe that the current compliance shortcomings will prompt new laws, such as the proposed AML Regulation package issued by the European Commission in July 2021, which will in turn feed larger fines and criminal enforcement in the near future.  Also, the focus of regulators and enforcement agencies may also expand to other business areas, such as football transfers (including agents and intermediaries) and the art world.
