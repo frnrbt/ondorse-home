@@ -9,7 +9,7 @@ excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
   legislative proposals to strengthen the EU's anti-money laundering and
   countering terrorism financing rules. 
-image_alt: lorem-ipsum
+image_alt: aml
 thumb_image_alt: lorem-ipsum
 seo:
   title: AML fines surge as watchdogs impose tougher penalties
