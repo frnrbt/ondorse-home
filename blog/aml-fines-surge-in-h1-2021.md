@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Beneficial ownership at the heart of new AML/CFT regulations
+  title: AML fines surge as watchdogs impose tougher penalties
   description: >-
     On July 20, 2021, the European Commission issued an ambitious package of
     legislative proposals to strenghthen the EU's anti-money laundering rules
