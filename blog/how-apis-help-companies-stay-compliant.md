@@ -1,6 +1,6 @@
 ---
 title: How APIs help companies stay compliant
-subtitle: Compliance is quick and easy to achieve thanks to APIs
+subtitle: Compliance is quick and easy to achieve thanks to APIs.
 author: _data/authors/florent-robert.yaml
 date: '2021-08-16'
 thumb_image: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
