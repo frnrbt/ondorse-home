@@ -4,7 +4,7 @@ subtitle: >-
   Kroll, the governance and risk consultancy, found that in the first half of
   2021, watchdogs levied $1bn in 17 big enforcement actions on track to hit last
   year’s total of $2.2bn.
-date: '2021-09-26'
+date: '2021-09-10'
 excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
   legislative proposals to strengthen the EU's anti-money laundering and
