@@ -41,7 +41,7 @@ seo:
         In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
         actions on track to hit last year’s total of $2.2bn.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/tingey-injury-law-firm-veNb0DDegzE-unsplash-ff65f236.jpg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
