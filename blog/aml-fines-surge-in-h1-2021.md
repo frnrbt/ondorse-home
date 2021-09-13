@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Beneficial ownership at the heart of new AML/CFT regulations
+      value: AML fines surge as watchdogs impose tougher penalties
     - name: 'twitter:description'
       value: >-
         On July 20, 2021, the European Commission issued an ambitious package of
