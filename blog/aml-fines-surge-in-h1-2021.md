@@ -25,9 +25,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        On July 20, 2021, the European Commission issued an ambitious package of
-        legislative proposals to strenghthen the EU's anti-money laundering
-        rules
+        In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
+        actions on track to hit last year’s total of $2.2bn.
       keyName: property
     - name: 'og:image'
       value: images/fabio-oyXis2kALVg-unsplash.jpg
