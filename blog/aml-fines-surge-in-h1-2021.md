@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Beneficial ownership at the heart of new AML/CFT regulations
+      value: AML fines surge as watchdogs impose tougher penalties
       keyName: property
     - name: 'og:description'
       value: >-
