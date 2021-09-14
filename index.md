@@ -36,8 +36,9 @@ sections:
         image: images/undraw_Internet_on_the_go_re_vben.svg
       - title: Complete information across Europe and the U.K.
         content: >
-          Access to a database of connections (UBO, shareholder and legal
-          representative) involving your corporate users in Europe and the U.K.
+          We have created connections across oﬃcial company registers to provide
+          you with a holistic picture of all the people associated with each
+          business you are engaged with.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
