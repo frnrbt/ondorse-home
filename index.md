@@ -89,6 +89,12 @@ sections:
         type: faq_item
         question: How can Ondorse help stay on top of asset freeze?
     type: section_faq
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
 seo:
   title: Ondorse
   description: >-
