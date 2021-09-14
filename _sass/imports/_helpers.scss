@@ -19,10 +19,10 @@
   position: relative;
 
   &:after {
-    border-left: 1.5em solid $color-primary;
+    border-left: 1.5em solid $color-secondary;
     display: block;
     content: "";
-    height: 2px;
+    height: 7px;
     margin-top: 0.5em;
   }
 }
