@@ -51,7 +51,7 @@ sections:
         actions: []
         type: feature_item
         image: images/undraw_Server_re_twwj.svg
-      - title: lorem-ipsum
+      - title: Your remediation partner
         content: >-
           ## Lorem ipsum
 
