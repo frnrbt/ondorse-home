@@ -55,7 +55,7 @@ sections:
         content: >
           With our network of skilled and multilingual resources, we can help
           you expedite the processing of any backlog of KYC stock, either in the
-          context of an investigation or remediation.
+          context of an investigation or during remediation.
         image_alt: lorem-ipsum
         actions: []
         image: images/undraw_Reviewed_docs_re_9lmr.svg
