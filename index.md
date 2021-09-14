@@ -8,7 +8,7 @@ sections:
     content: >
       With increasing risks of frauds and enhanced regulatory obligations,
       access to real time corporate information is key. Ondorse’s always up to
-      date information helps financial services companies continuously monitor
+      date information helps financial institutions continuously monitor
       relevant KYC and KYB information and make compliance more effective.
     forms:
       - title: Subscribe
