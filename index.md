@@ -93,7 +93,12 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
-    reviews: []
+    reviews:
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
     type: section_reviews
 seo:
   title: Ondorse
