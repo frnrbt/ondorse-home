@@ -5,12 +5,11 @@ sections:
     type: section_hero
     title: Business is a changing world
     subtitle: Get instantly notified of any KYC and KYB change
-    content: >-
+    content: >
       With increasing risks of frauds and enhanced regulatory obligations,
       access to real time corporate information is key. Ondorse’s always up to
-      date information coupled with an asset freeze screening tool helps
-      financial services companies continuously monitor relevant KYC and KYB
-      information and make compliance more effective.
+      date information helps financial services companies continuously monitor
+      relevant KYC and KYB information and make compliance more effective.
     forms:
       - title: Subscribe
         content: Stay up to date with our latest developments.
@@ -26,19 +25,20 @@ sections:
   - section_id: features
     background: white
     features:
-      - title: Real-time information
+      - title: Real-time updates
         content: >
-          When an event affects a connection involving one of your corporate
-          users, Ondorse’s API automatically sends this information to you via a
-          push notification
+          When an event affects your corporate users or one of their
+          connections, Ondorse’s API automatically sends this information to you
+          with push notiﬁcations.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
         image: images/undraw_Internet_on_the_go_re_vben.svg
-      - title: European data
+      - title: Complete information across Europe and the U.K.
         content: >
-          Access to a database of connections (UBO, shareholder and legal
-          representative) involving your corporate users in Europe and the U.K.
+          We have created connections across oﬃcial company registers to provide
+          you with a holistic picture of all the people associated with each
+          business you are engaged with.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
@@ -46,11 +46,19 @@ sections:
       - title: API-simple
         content: >
           Ondorse’s API can easily and immediately be integrated in your
-          workflow, giving your teams the tools they need from day one
+          workﬂow, giving your teams the tools they need from day one.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
         image: images/undraw_Server_re_twwj.svg
+      - title: Your remediation partner
+        content: >
+          With our network of skilled and multilingual resources, we can help
+          you expedite the processing of any backlog of KYC stock, either in the
+          context of an investigation or during remediation.
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/undraw_Reviewed_docs_re_9lmr.svg
     type: section_features
   - section_id: posts
     title: Latest Posts
