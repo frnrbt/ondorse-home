@@ -27,9 +27,9 @@ sections:
     features:
       - title: Real-time updates
         content: >
-          When an event affects a connection involving one of your corporate
-          users, Ondorse’s API automatically sends this information to you via a
-          push notification
+          When an event affects your corporate users or one of its connections
+          (UBO, shareholder or legal representative change), Ondorse’s API
+          automatically sends this information to you with push notiﬁcations.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
