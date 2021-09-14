@@ -58,6 +58,7 @@ sections:
           context of an investigation or remediation.
         image_alt: lorem-ipsum
         actions: []
+        image: images/undraw_Reviewed_docs_re_9lmr.svg
     type: section_features
   - section_id: posts
     title: Latest Posts
