@@ -106,7 +106,6 @@ sections:
     actions: []
     forms: []
     type: section_hero
-    image: images/undraw_Server_re_twwj.svg
 seo:
   title: Ondorse
   description: >-
