@@ -25,7 +25,7 @@ sections:
   - section_id: features
     background: white
     features:
-      - title: Real-time information
+      - title: Real-time updates
         content: >
           When an event affects a connection involving one of your corporate
           users, Ondorse’s API automatically sends this information to you via a
