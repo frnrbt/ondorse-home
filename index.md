@@ -46,7 +46,7 @@ sections:
       - title: API-simple
         content: >
           Ondorse’s API can easily and immediately be integrated in your
-          workflow, giving your teams the tools they need from day one
+          workﬂow, giving your teams the tools they need from day one.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
