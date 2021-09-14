@@ -34,7 +34,7 @@ sections:
         actions: []
         type: feature_item
         image: images/undraw_Internet_on_the_go_re_vben.svg
-      - title: European data
+      - title: Complete information
         content: >
           Access to a database of connections (UBO, shareholder and legal
           representative) involving your corporate users in Europe and the U.K.
