@@ -52,17 +52,10 @@ sections:
         type: feature_item
         image: images/undraw_Server_re_twwj.svg
       - title: Your remediation partner
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          With our network of skilled and multilingual resources, we can help
+          you expedite the processing of any backlog of KYC stock, either in the
+          context of an investigation or remediation.
         image_alt: lorem-ipsum
         actions: []
     type: section_features
