@@ -1,5 +1,7 @@
 ---
-title: AML fines surge as watchdogs impose tougher penalties in H1 2021
+title: >-
+  Three large banks and two money transmitters accused of financing terorrism in
+  Afghanistan
 subtitle: >-
   Kroll, the governance and risk consultancy, found that in the first half of
   2021, watchdogs levied $1bn in 17 big enforcement actions on track to hit last
