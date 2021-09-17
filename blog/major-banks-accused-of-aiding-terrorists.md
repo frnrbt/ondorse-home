@@ -10,9 +10,9 @@ subtitle: >-
   Afghanistan.
 date: '2021-09-17'
 excerpt: >-
-  On July 20, 2021, the European Commission issued an ambitious package of
-  legislative proposals to strengthen the EU's anti-money laundering and
-  countering terrorism financing rules. 
+  The families of Americans killed and wounded during the war in Afghanistan
+  sued FIs for “knowingly facilitated transfers of millions” of dollars that
+  provided aid to terrorists in Afghanistan.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
