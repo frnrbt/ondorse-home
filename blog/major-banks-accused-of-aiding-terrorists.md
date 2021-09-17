@@ -26,7 +26,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: AML fines surge as watchdogs impose tougher penalties
+      value: Major banks accused of aiding terrorists
       keyName: property
     - name: 'og:description'
       value: >-
