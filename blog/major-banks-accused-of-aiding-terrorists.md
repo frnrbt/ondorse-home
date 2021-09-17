@@ -16,7 +16,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: AML fines surge as watchdogs impose tougher penalties
+  title: Major banks accused of aiding terrorists
   description: >-
     In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
     actions on track to hit last year’s total of $2.2bn.
