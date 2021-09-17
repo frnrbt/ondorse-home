@@ -30,8 +30,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
-        actions on track to hit last year’s total of $2.2bn.
+        The families of Americans killed and wounded during the war in
+        Afghanistan sued large FIs for “knowingly facilitated transfers of
+        millions” to terrorists in Afghanistan.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-654636856-170667a.jpeg
