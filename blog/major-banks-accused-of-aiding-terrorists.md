@@ -18,10 +18,9 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: Major banks accused of aiding terrorists
   description: >-
-    In August 2021, the families of Americans killed and wounded during the war
-    in Afghanistan from 2011 to 2016 sued large financial institutions for
-    “knowingly facilitated transfers of millions” of dollars that provided aid
-    to terrorists in Afghanistan.
+    The families of Americans killed and wounded during the war in Afghanistan
+    sued large FIs for “knowingly facilitated transfers of millions” to
+    terrorists in Afghanistan.
   extra:
     - name: 'og:type'
       value: article
