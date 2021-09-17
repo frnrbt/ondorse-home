@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: AML fines surge as watchdogs impose tougher penalties
+      value: Major banks accused of aiding terrorists
     - name: 'twitter:description'
       value: >-
         In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
