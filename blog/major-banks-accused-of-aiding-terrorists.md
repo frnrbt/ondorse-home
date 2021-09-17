@@ -34,7 +34,7 @@ seo:
         actions on track to hit last year’s total of $2.2bn.
       keyName: property
     - name: 'og:image'
-      value: images/tingey-injury-law-firm-veNb0DDegzE-unsplash-ff65f236.jpg
+      value: images/istockphoto-654636856-170667a.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
