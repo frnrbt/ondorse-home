@@ -50,7 +50,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
-image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
+image: images/istockphoto-654636856-170667a.jpeg
 ---
 ##### According to the Plaintiffs, the FIs Aided and Abetted Acts of Terrorist Violence Against Americans in Afghanistan
 
