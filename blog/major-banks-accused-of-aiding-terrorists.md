@@ -52,28 +52,22 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
 image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
 ---
-##### AML Enforcement is Particularly Active in the EU and the U.K.
+##### According to the Plaintiffs, the FIs Aided and Abetted Acts of Terrorist Violence Against Americans in Afghanistan
 
-Global regulators are actively enforcing AML rules, particularly in the EU and the U.K., thus continuing to send the message that enforcement remains a top priority.  The fines mainly relate to shortcomings in AML management, inadequate suspicious activity monitoring and customer due diligence (“KYC”). The main recent enforcement actions include:
+In, Ashley v. Deutsche Bank AG, 12-cv-04400, U.S. District Court, Eastern District of New York (Brooklyn), plaintiffs claim that defendants acted as “laundromats,” defined as a bank or money remitter that operates as a criminal enterprise by knowingly profiting from transactions that help terrorists.  
 
-*   The UK’s Financial Conduct Authority first attempted prosecution for AML failings against NatWest, which failed to properly monitor the actions of a Bradford-based gold dealer. 
+According to the lawsuit, the laundromats allowed terrorist financiers to secretly move money and evade detection. Further, transactions involving syndicate agents, operatives and fronts in countries including Afghanistan, Pakistan, Russia and the United Arab Emirates raised red flags that they were dealing with terrorist money.
 
-*   Monzo, the start-up digital lender, revealed last month it was being investigated by the FCA over potential breaches of AML laws. 
+The plaintiffs further claimed that such funds benefited al-Qaeda and the Haqqani Network, an extreme faction of the Taliban.  Finally, the complaint seeks unspecified money damages which could reach into the billions of dollars.
 
-*   German rival N26 has twice been rebuked by domestic regulator BaFin for failures in its AML controls and this year had a special supervisor installed to oversee its remediation.
+##### Using Complex Schemes
 
-*   Dutch lender ABN Amro, which reached a €480m settlement with prosecutors after being accused of violating AML laws “for a number of years and on a structural basis”.  
+According to The New York Times, the complainants say the financial institutions’ treatment of some of their clients indicated that they understood how their services were connected to illegal activities.  
 
-*   Also, new UBS chief executive Ralph Hamers could face a court probe into his role in a €775m money-laundering scandal from 2018 when he led ING. 
+Deutsche Bank, the suit alleges, charged higher-than-normal rates to move money around the world for some of its clients, including a Pakistani man whom OFAC had flagged as a money launderer for terrorists. OFAC said in 2016 that the man, Altaf Khanani, laundered money for drug traffickers and other criminal organisations.
 
-*   In the US, Capital One had to pay a $390m penalty for “wilful and negligent” AML violations under the Bank Secrecy Act after an investigation by the Treasury Department.
+Another press report indicates that Deutsche Bank used a complex series of stock trades in the U.S. and Russia, called mirror trades, that allowed Khanani to move money across the world on behalf of al Qaeda and the Taliban.
 
-##### Regulated Entities Need to Rethink Their Compliance Program
+Standard Chartered is also accused of having financed fertilizer manufacturers in Pakistan that are said to have supported terror groups in Afghanistan in the manufacture of bombs.
 
-Just like the financial services industry is in the middle of a great digital transformation journey, and like technology gets more advanced, so do criminal tactics, such as regulated entities do need to rethink their compliance program and rely on technology-advanced tools, both from a KYC and transaction monitoring perspective.
-
-Amongst the key enforcement trend setters, are the rapidly growing FinTechs, whose compliance and KYC processes are often not able to keep up with the pace of customer acquisition, thus making it essential for such entities to be equipped with robust tools that help them scale customer onboarding and KYC monitoring throughout the relationship.
-
-Also, transaction monitoring cannot cope in its current state and need to rely on emerging technologies like artificial intelligence to help combat AML in the sense that AI can alleviate admin-heavy processes while enhancing fraud detection.
-
-*What’s next ?* At Ondorse, we believe that the current compliance shortcomings will prompt new laws, such as the proposed AML Regulation package issued by the European Commission in July 2021, which will in turn feed larger fines and criminal enforcement in the near future.  Also, the focus of regulators and enforcement agencies may also expand to other business areas, such as football transfers (including agents and intermediaries) and the art world.
+While we have no opinion on the outcome of this matter, at Ondorse, we believe that the vast majority of money is laundered through shell companies hidden in vast networks of interconnected companies which can be unveiled thanks to complete and always up-to-date data on companies.
