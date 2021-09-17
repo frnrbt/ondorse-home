@@ -8,7 +8,7 @@ subtitle: >-
   Bank, Wall Street Express and Placid Exchange for “knowingly facilitated
   transfers of millions” of dollars that provided aid to terrorists in
   Afghanistan.
-date: '2021-09-10'
+date: '2021-09-17'
 excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
   legislative proposals to strengthen the EU's anti-money laundering and
