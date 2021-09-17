@@ -3,9 +3,11 @@ title: >-
   Three large banks and two money transmitters accused of financing terorrism in
   Afghanistan
 subtitle: >-
-  Kroll, the governance and risk consultancy, found that in the first half of
-  2021, watchdogs levied $1bn in 17 big enforcement actions on track to hit last
-  year’s total of $2.2bn.
+  In August 2021, the families of Americans killed and wounded during the war in
+  Afghanistan from 2011 to 2016 sued Deutsche Bank, Standard Chartered, Danske
+  Bank, Wall Street Express and Placid Exchange for “knowingly facilitated
+  transfers of millions” of dollars that provided aid to terrorists in
+  Afghanistan.
 date: '2021-09-10'
 excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
