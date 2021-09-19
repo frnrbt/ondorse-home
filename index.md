@@ -4,7 +4,7 @@ sections:
   - section_id: Intro
     type: section_hero
     title: Business is a changing world
-    subtitle: Real-time company insights
+    subtitle: Real-time company insights empowing financial institutions
     content: >
       With increasing risks of frauds and enhanced regulatory obligations,
       access to real time corporate information is key. Ondorse’s always up to
