@@ -112,7 +112,9 @@ seo:
       value: Ondorse
       keyName: property
     - name: 'og:description'
-      value: Business is a changing world
+      value: >-
+        Real-time company insights empowering financial institutions to verify
+        and monitor their business customers.
       keyName: property
     - name: 'og:image'
       value: images/LOGO-ONDORSE-LONG.png
