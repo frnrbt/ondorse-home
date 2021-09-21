@@ -11,7 +11,7 @@ seo:
       value: Terms of use
       keyName: property
     - name: 'og:description'
-      value: Terms of service page
+      value: Welcome to Ondorse.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
