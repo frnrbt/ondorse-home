@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Terms of Use
+      value: Terms of Service
     - name: 'twitter:description'
       value: Welcome to Ondorse.
 layout: page
