@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Terms of service
+      value: Terms of Use
     - name: 'twitter:description'
       value: Terms of service page
 layout: page
