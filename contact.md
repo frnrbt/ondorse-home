@@ -6,8 +6,8 @@ sections:
     background: gray
     title: Contact
     content: >
-      Please enter your details below and we will get back to you shortly to
-      help you verify and monitor your business customers.
+      Please send us a message and we will get back to you shortly to help you
+      verify and monitor your business customers.
     form_id: contactForm
     form_fields:
       - input_type: text
