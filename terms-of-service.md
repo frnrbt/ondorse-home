@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Terms of service
+      value: Terms of use
       keyName: property
     - name: 'og:description'
       value: Terms of service page
