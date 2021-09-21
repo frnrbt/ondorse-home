@@ -2,7 +2,7 @@
 title: Terms of Use
 seo:
   title: Terms of Use
-  description: Terms of service page
+  description: Welcome to Ondorse.
   extra:
     - name: 'og:type'
       value: website
