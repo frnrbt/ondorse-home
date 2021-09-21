@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Terms of Use
+      value: Terms of Service
       keyName: property
     - name: 'og:description'
       value: Welcome to Ondorse.
