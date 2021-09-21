@@ -101,7 +101,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terms of Service",
+                "label": "Terms of Use",
                 "url": "/terms-of-service",
                 "style": "link"
             },
