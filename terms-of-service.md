@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Terms of Service
 seo:
   title: Terms of Use
   description: Welcome to Ondorse.
