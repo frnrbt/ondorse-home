@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Terms of Use
     - name: 'twitter:description'
-      value: Terms of service page
+      value: Welcome to Ondorse.
 layout: page
 ---
 Last revised September 2021. 
