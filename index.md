@@ -36,7 +36,7 @@ sections:
         actions: []
         type: feature_item
         image: images/undraw_Internet_on_the_go_re_vben.svg
-      - title: Complete and verified information across Europe
+      - title: Complete and verified identity information across Europe
         content: >
           We have created connections across oﬃcial company registers to provide
           you with a holistic picture of all the people associated with each
