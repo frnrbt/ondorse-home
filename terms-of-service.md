@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 seo:
-  title: Terms of Use
+  title: Terms of Service
   description: Welcome to Ondorse.
   extra:
     - name: 'og:type'
