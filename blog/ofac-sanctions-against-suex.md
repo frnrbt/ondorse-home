@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Major banks accused of aiding terrorists
+      value: U.S. imposes sanctions on Russian crypto exchange
       keyName: property
     - name: 'og:description'
       value: >-
