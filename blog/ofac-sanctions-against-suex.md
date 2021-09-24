@@ -5,7 +5,7 @@ subtitle: >-
   virtual currency exchange, for its part in facilitating financial transactions
   for ransomware actors, and updated OFAC’s ransomware advisory to encourage
   reporting and cyber resilience.
-date: '2021-09-17'
+date: '2021-09-24'
 excerpt: >-
   The families of Americans killed and wounded during the war in Afghanistan
   sued FIs for “knowingly facilitated transfers of millions” of dollars that
