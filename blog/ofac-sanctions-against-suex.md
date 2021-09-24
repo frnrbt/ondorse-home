@@ -1,7 +1,5 @@
 ---
-title: >-
-  Three large banks and two money transmitters accused of financing terorrism in
-  Afghanistan
+title: U.S. imposes sanctions on Russian crypto exchange over ransomware transactions
 subtitle: >-
   In August 2021, the families of Americans killed and wounded during the war in
   Afghanistan from 2011 to 2016 sued Deutsche Bank, Standard Chartered, Danske
