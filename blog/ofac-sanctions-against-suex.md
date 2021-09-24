@@ -49,7 +49,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-654636856-170667a.jpeg
-image: images/istockphoto-654636856-170667a.jpeg
+image: images/istockphoto-1297465792-170667a.jpeg
 ---
 ##### Designation of First Virtual Currency Exchange For Complicit Financial Services
 
