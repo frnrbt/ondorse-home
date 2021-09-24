@@ -1,11 +1,10 @@
 ---
 title: U.S. imposes sanctions on Russian crypto exchange over ransomware transactions
 subtitle: >-
-  In August 2021, the families of Americans killed and wounded during the war in
-  Afghanistan from 2011 to 2016 sued Deutsche Bank, Standard Chartered, Danske
-  Bank, Wall Street Express and Placid Exchange for “knowingly facilitated
-  transfers of millions” of dollars that provided aid to terrorists in
-  Afghanistan.
+  On September 21, 2021, the U.S. Treasury has imposed sanctions on SUEX, a
+  virtual currency exchange, for its part in facilitating financial transactions
+  for ransomware actors, and updated OFAC’s ransomware advisory to encourage
+  reporting and cyber resilience.
 date: '2021-09-17'
 excerpt: >-
   The families of Americans killed and wounded during the war in Afghanistan
