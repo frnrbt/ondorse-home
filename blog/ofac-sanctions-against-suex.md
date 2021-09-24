@@ -32,7 +32,7 @@ seo:
         millions” to terrorists in Afghanistan.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-654636856-170667a.jpeg
+      value: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
