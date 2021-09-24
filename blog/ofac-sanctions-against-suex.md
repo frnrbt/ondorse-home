@@ -39,8 +39,8 @@ seo:
       value: U.S. imposes sanctions on Russian crypto exchange
     - name: 'twitter:description'
       value: >-
-        In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
-        actions on track to hit last year’s total of $2.2bn.
+        OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
+        part in facilitating financial transactions for ransomware actors.
     - name: 'twitter:image'
       value: images/istockphoto-1297465792-170667a.jpeg
       relativeUrl: true
