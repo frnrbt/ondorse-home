@@ -7,10 +7,9 @@ subtitle: >-
   reporting and cyber resilience.
 date: '2021-09-24'
 excerpt: >-
-  On September 21, 2021, the U.S. Treasury imposed sanctions on SUEX, a virtual
-  currency exchange, for its part in facilitating financial transactions for
-  ransomware actors, and updated OFAC’s ransomware advisory to encourage
-  reporting and cyber resilience.
+  On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
+  exchange, for its part in facilitating financial transactions for ransomware
+  actors.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
