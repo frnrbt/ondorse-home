@@ -26,9 +26,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        The families of Americans killed and wounded during the war in
-        Afghanistan sued large FIs for “knowingly facilitated transfers of
-        millions” to terrorists in Afghanistan.
+        OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
+        part in facilitating financial transactions for ransomware actors.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
