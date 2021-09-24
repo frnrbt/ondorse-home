@@ -13,7 +13,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Major banks accused of aiding terrorists
+  title: U.S. imposes sanctions on Russian crypto exchange
   description: >-
     The families of Americans killed and wounded during the war in Afghanistan
     sued large FIs for “knowingly facilitated transfers of millions” to
