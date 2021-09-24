@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Major banks accused of aiding terrorists
+      value: U.S. imposes sanctions on Russian crypto exchange
     - name: 'twitter:description'
       value: >-
         In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
