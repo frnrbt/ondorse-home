@@ -1,9 +1,9 @@
 ---
 title: U.S. imposes sanctions on Russian crypto exchange over ransomware transactions
 subtitle: >-
-  On September 21, 2021, the U.S. Treasury has imposed sanctions on SUEX, a
-  virtual currency exchange, for its part in facilitating financial transactions
-  for ransomware actors, and updated OFAC’s ransomware advisory to encourage
+  On September 21, 2021, the U.S. Treasury imposed sanctions on SUEX, a virtual
+  currency exchange, for its part in facilitating financial transactions for
+  ransomware actors, and updated OFAC’s ransomware advisory to encourage
   reporting and cyber resilience.
 date: '2021-09-24'
 excerpt: >-
