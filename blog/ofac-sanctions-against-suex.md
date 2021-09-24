@@ -51,22 +51,16 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-654636856-170667a.jpeg
 image: images/istockphoto-654636856-170667a.jpeg
 ---
-##### According to the Plaintiffs, the FIs Aided and Abetted Acts of Terrorist Violence Against Americans in Afghanistan
+##### Designation of First Virtual Currency Exchange For Complicit Financial Services
 
-In, Ashley v. Deutsche Bank AG, 12-cv-04400, U.S. District Court, Eastern District of New York (Brooklyn), plaintiffs claim that defendants acted as “laundromats,” defined as a bank or money remitter that operates as a criminal enterprise by knowingly profiting from transactions that help terrorists.  
+According to OFAC, SUEX has facilitated transactions involving illicit proceeds from at least eight ransomware variants.  Further, some 40% of SUEX’s transactions are linked to illicit actors.  As such, SUEX was designated pursuant to Executive Order 13694 for providing material support to the threat posed by criminal ransomware actors.
 
-According to the lawsuit, the laundromats allowed terrorist financiers to secretly move money and evade detection. Further, transactions involving syndicate agents, operatives and fronts in countries including Afghanistan, Pakistan, Russia and the United Arab Emirates raised red flags that they were dealing with terrorist money.
+According to crypto intelligence TRM Labs, SUEX operates as a “nested” exchange, meaning that instead of acting as a direct custodian of its clients’ crypto funds, it merely provides a custom-made interface while tapping into the services of a larger exchange - which appears to deal in transactions of $10,000 or more.  According to TRM Labs, this exchange accepted new customers on a system of referrals from trusted intermediaries. Its largest shareholder is a Russian national. 
 
-The plaintiffs further claimed that such funds benefited al-Qaeda and the Haqqani Network, an extreme faction of the Taliban.  Finally, the complaint seeks unspecified money damages which could reach into the billions of dollars.
+##### Importance of AML/CFT Measures For Virtual Currencies And Service Providers
 
-##### Using Complex Schemes
+Given the illicit finance risk that virtual assets pose, including ransomware-related money laundering, in June 2019 the Financial Action Task Force (FATF) amended its standards to require all countries to regulate and supervise virtual asset service providers (VASPs), including exchanges, and to mitigate against such risks when engaging in virtual asset transactions. 
 
-According to The New York Times, the complainants say the financial institutions’ treatment of some of their clients indicated that they understood how their services were connected to illegal activities.  
+Among other things, countries are expected to impose customer due diligence (CDD) requirements, and suspicious transaction reporting obligations across VASPs, which can help inhibit cybercriminals’ exploitation of virtual assets while supporting investigations into these illicit finance activities. Because profit-motivated cybercriminals must launder their misappropriated funds, AML/CFT regimens are a critical chokepoint in countering and deterring this criminal activity. This magnifies the need for all countries to effectively and expeditiously implement and enforce the FATF’s standards on virtual assets and VASPs. 
 
-Deutsche Bank, the suit alleges, charged higher-than-normal rates to move money around the world for some of its clients, including a Pakistani man whom OFAC had flagged as a money launderer for terrorists. OFAC said in 2016 that the man, Altaf Khanani, laundered money for drug traffickers and other criminal organisations.
-
-Another press report indicates that Deutsche Bank used a complex series of stock trades in the U.S. and Russia, called mirror trades, that allowed Khanani to move money across the world on behalf of al Qaeda and the Taliban.
-
-Standard Chartered is also accused of having financed fertilizer manufacturers in Pakistan that are said to have supported terror groups in Afghanistan in the manufacture of bombs.
-
-While we have no opinion on the outcome of this matter, at Ondorse, we believe that the vast majority of money is laundered through shell companies hidden in vast networks of interconnected companies which can be unveiled thanks to complete and always up-to-date data on companies.
+At Ondorse, we believe those in the virtual currency industry play a critical role in implementing appropriate AML/CFT and sanctions controls to prevent sanctioned persons and other illicit actors from exploiting virtual currencies to undermine regulatory policy. It’s time, more than ever, to monitor in real-time users and their transactions to ensure shell companies aren’t used to launder money from illicit transactions and better detect any funds involving SUEX which could cause serious regulatory harm. 
