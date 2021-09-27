@@ -35,7 +35,7 @@ seo:
         millions” to terrorists in Afghanistan.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-654636856-170667a.jpeg
+      value: images/article-ak-dol.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -47,12 +47,12 @@ seo:
         In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
         actions on track to hit last year’s total of $2.2bn.
     - name: 'twitter:image'
-      value: images/istockphoto-654636856-170667a.jpeg
+      value: images/article-ak-dol.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/istockphoto-654636856-170667a.jpeg
-image: images/istockphoto-654636856-170667a.jpeg
+thumb_image: images/article-ak-dol.jpeg
+image: images/article-ak-dol.jpeg
 ---
 ##### According to the Plaintiffs, the FIs Aided and Abetted Acts of Terrorist Violence Against Americans in Afghanistan
 

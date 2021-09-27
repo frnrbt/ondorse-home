@@ -29,7 +29,7 @@ seo:
         actions on track to hit last year’s total of $2.2bn.
       keyName: property
     - name: 'og:image'
-      value: images/tingey-injury-law-firm-veNb0DDegzE-unsplash-ff65f236.jpg
+      value: images/article-hammer-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -41,12 +41,12 @@ seo:
         In the first half of 2021, watchdogs levied $1bn in 17 big enforcement
         actions on track to hit last year’s total of $2.2bn.
     - name: 'twitter:image'
-      value: images/tingey-injury-law-firm-veNb0DDegzE-unsplash-ff65f236.jpg
+      value: images/article-hammer-unsplash.jpg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
-image: images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
+thumb_image: images/article-hammer-unsplash.jpg
+image: images/article-hammer-unsplash.jpg
 ---
 ##### AML Enforcement is Particularly Active in the EU and the U.K.
 

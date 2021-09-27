@@ -23,7 +23,7 @@ sections:
             default_value: Enter email address
             is_required: true
         submit_label: Request access >
-    image: images/undraw_Options_re_9vxh.svg
+    image: images/options-undraw.svg
   - section_id: features
     background: white
     features:
@@ -35,7 +35,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Internet_on_the_go_re_vben.svg
+        image: images/internet-undraw.svg
       - title: Complete and verified identity information across Europe
         content: >
           We have created connections across oﬃcial company registers to provide
@@ -44,7 +44,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Goals_re_lu76.svg
+        image: images/goals-undraw.svg
       - title: API-simple
         content: >
           Ondorse’s API can easily and immediately be integrated in your
@@ -52,7 +52,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Server_re_twwj.svg
+        image: images/server-undraw.svg
       - title: Your remediation partner
         content: >
           With our network of skilled and multilingual resources, we can help
@@ -60,7 +60,7 @@ sections:
           context of an investigation or during remediation.
         image_alt: lorem-ipsum
         actions: []
-        image: images/undraw_Reviewed_docs_re_9lmr.svg
+        image: images/review-undraw.svg
     type: section_features
   - section_id: posts
     title: Latest Posts
@@ -117,7 +117,7 @@ seo:
         and monitor their business customers.
       keyName: property
     - name: 'og:image'
-      value: images/LOGO-ONDORSE-LONG.png
+      value: images/logo_long.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -129,7 +129,7 @@ seo:
         Real-time company insights empowering financial institutions to verify
         and monitor their business customers.
     - name: 'twitter:image'
-      value: images/LOGO-ONDORSE-LONG
+      value: images/logo_long
       relativeUrl: true
 layout: landing
 ---

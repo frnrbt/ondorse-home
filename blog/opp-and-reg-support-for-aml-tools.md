@@ -12,9 +12,9 @@ excerpt: >-
   As such, innovative solutions in the regulatory field have received support
   from regulators across the globe.
 date: '2021-08-25'
-thumb_image: images/nasa-Q1p7bh3SHj8-unsplash.jpg
+thumb_image: images/article-nasa-unsplash.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/nasa-Q1p7bh3SHj8-unsplash.jpg
+image: images/article-nasa-unsplash.jpg
 image_alt: A group of people working in a cafe
 seo:
   title: Opportunities and regulatory support for AML/CFT tools
@@ -34,7 +34,7 @@ seo:
         terrorist financing faster, more responsive, and more efficient.
       keyName: property
     - name: 'og:image'
-      value: images/nasa-Q1p7bh3SHj8-unsplash.jpg
+      value: images/article-nasa-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
