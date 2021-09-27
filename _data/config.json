@@ -3,7 +3,7 @@
     "base_font": "roboto",
     "palette": "blue",
     "header": {
-        "logo_img": "images/LOGO-ONDORSE-LONG.png",
+        "logo_img": "images/LOGO-ONDORSE-LONG-negatif.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -29,7 +29,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/small_dark_logo_footer.png",
+                "image": "images/logo_short_neg.png",
                 "image_url": "/",
                 "image_alt": "Footer logo"
             },

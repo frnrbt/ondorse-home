@@ -26,6 +26,12 @@
   border-bottom: 1px solid rgba($gray-600,.4);
   padding-bottom: 1.11111em;
   padding-top: 3.33333em;
+
+  .widget-text {
+    &:first-child {
+      display: none;
+    }
+  }
 }
 
 .footer-bottom {
@@ -42,6 +48,8 @@
 
 .widget-image {
   display: block;
+  margin-right: 3em;
+  margin-left: 3em;
   margin-bottom: 0.75em;
 }
 
@@ -132,6 +140,7 @@
       -ms-flex: 0 0 25%;
       flex: 0 0 25%;
       max-width: 25%;
+      display: block;
     }
   }
 }
