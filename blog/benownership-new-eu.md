@@ -10,7 +10,7 @@ subtitle: >-
   companies.
 author: _data/authors/aymeric-boelle.yaml
 date: '2021-09-03'
-thumb_image: images/fabio-oyXis2kALVg-unsplash.jpg
+thumb_image: images/article-squares-unsplash.jpg
 seo:
   title: Beneficial ownership at the heart of new AML/CFT regulations
   description: >-
@@ -30,7 +30,7 @@ seo:
         rules
       keyName: property
     - name: 'og:image'
-      value: images/fabio-oyXis2kALVg-unsplash.jpg
+      value: images/fabio-squares-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -50,7 +50,7 @@ excerpt: >-
   On July 20, 2021, the European Commission issued an ambitious package of
   legislative proposals to strengthen the EU's anti-money laundering and
   countering terrorism financing rules. 
-image: images/fabio-oyXis2kALVg-unsplash-771b744e.jpg
+image: images/article-squares-unsplash.jpg
 ---
 ##### Customer Due Diligence
 

@@ -3,7 +3,7 @@
     "base_font": "roboto",
     "palette": "blue",
     "header": {
-        "logo_img": "images/LOGO-ONDORSE-LONG-negatif.png",
+        "logo_img": "images/logo_long_neg.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -114,5 +114,5 @@
         "content": "© Ondorse. All rights reserved."
     },
     "domain": "https://www.ondorse.co",
-    "favicon": "images/LOGO-ONDORSE-COURT.png"
+    "favicon": "images/logo_short.png"
 }
