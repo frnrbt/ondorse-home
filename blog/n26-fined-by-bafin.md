@@ -45,7 +45,7 @@ seo:
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
+thumb_image: images/istockphoto-467375870-170667a.jpeg
 image: images/istockphoto-467375870-170667a.jpeg
 ---
 ##### An Always More Stringent Regulator Scrutiny
