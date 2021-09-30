@@ -1,5 +1,5 @@
 ---
-title: U.S. imposes sanctions on Russian crypto exchange over ransomware transactions
+title: N26 fined €4.25m by German regulator for weak money-laundering controls
 subtitle: >-
   On September 21, 2021, the U.S. Treasury imposed sanctions on SUEX, a virtual
   currency exchange, for its part in facilitating financial transactions for
