@@ -1,10 +1,9 @@
 ---
 title: N26 fined €4.25m by German regulator for weak money-laundering controls
 subtitle: >-
-  On September 21, 2021, the U.S. Treasury imposed sanctions on SUEX, a virtual
-  currency exchange, for its part in facilitating financial transactions for
-  ransomware actors, and updated OFAC’s ransomware advisory to encourage
-  reporting and cyber resilience.
+  On September 29, 2021, German regulator BaFin publicly announced that it had
+  imposed a €4.25m fine in July 2021 on N26, one of Europe’s most highly valued
+  fintechs.
 date: '2021-09-24'
 excerpt: >-
   On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
