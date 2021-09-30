@@ -117,7 +117,7 @@ seo:
         and monitor their business customers.
       keyName: property
     - name: 'og:image'
-      value: images/logo_long.png
+      value: images/istockphoto-467375870-170667a.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
