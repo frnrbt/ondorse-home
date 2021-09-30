@@ -48,16 +48,14 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
 image: images/istockphoto-1297465792-170667a.jpeg
 ---
-##### Designation of First Virtual Currency Exchange For Complicit Financial Services
+##### An Always More Stringent Regulator Scrutiny
 
-According to OFAC, SUEX has facilitated transactions involving illicit proceeds from at least eight ransomware variants.  Further, some 40% of SUEX’s transactions are linked to illicit actors.  As such, SUEX was designated pursuant to Executive Order 13694 for providing material support to the threat posed by criminal ransomware actors.
+BaFin had already ordered the German payments company to strengthen its money-laundering prevention in 2019.  Following last year's collapse of payments firm Wirecard, BaFin had extended earlier this year its oversight of N26 to cover the whole company and in May 2021, BaFin had already ordered N26 to put in place internal controls and safeguards to prevent money laundering and terrorist financing.  At that time, in a quite unusual move, BaFin also installed a special supervisor to monitor the bank. 
 
-According to crypto intelligence TRM Labs, SUEX operates as a “nested” exchange, meaning that instead of acting as a direct custodian of its clients’ crypto funds, it merely provides a custom-made interface while tapping into the services of a larger exchange - which appears to deal in transactions of $10,000 or more.  According to TRM Labs, this exchange accepted new customers on a system of referrals from trusted intermediaries. Its largest shareholder is a Russian national. 
+The fine comes one day after Germany’s largest online bank, ING Germany, was criticised in court by a BaFin representative for its slow response to suspicious trades by a client, who later admitted to large-scale insider trading.
 
-##### Importance of AML/CFT Measures For Virtual Currencies And Service Providers
+##### Customer Due Diligence at the Core of AML Deficiencies
 
-Given the illicit finance risk that virtual assets pose, including ransomware-related money laundering, in June 2019 the Financial Action Task Force (FATF) amended its standards to require all countries to regulate and supervise virtual asset service providers (VASPs), including exchanges, and to mitigate against such risks when engaging in virtual asset transactions. 
+In a statement, N26 said that this fine related to the late filing of close to 50 suspicious activity reports in 2019 and 2020.  In May 2021, BaFin urged the lender to “rectify deficiencies both in IT monitoring and in customer due diligence” and to “ensure that it has the adequate personnel, technical and organisational resources to comply with its obligations under anti-money laundering law”. N26 said it has taken “numerous detailed measures” to strengthen its anti-financial crime controls.
 
-Among other things, countries are expected to impose customer due diligence (CDD) requirements, and suspicious transaction reporting obligations across VASPs, which can help inhibit cybercriminals’ exploitation of virtual assets while supporting investigations into these illicit finance activities. Because profit-motivated cybercriminals must launder their misappropriated funds, AML/CFT regimens are a critical chokepoint in countering and deterring this criminal activity. This magnifies the need for all countries to effectively and expeditiously implement and enforce the FATF’s standards on virtual assets and VASPs. 
-
-At Ondorse, we believe those in the virtual currency industry play a critical role in implementing appropriate AML/CFT and sanctions controls to prevent sanctioned persons and other illicit actors from exploiting virtual currencies to undermine regulatory policy. It’s time, more than ever, to monitor in real-time users and their transactions to ensure shell companies aren’t used to launder money from illicit transactions and better detect any funds involving SUEX which could cause serious regulatory harm. 
+At Ondorse, we think that innovative financial actors should implement effective compliance controls and mechanisms at the very beginning of their operations, to show regulators goodwill and how seriously financial crime is taken. Just like N26 which quickly grew to more than 7 million clients in 25 countries, Ondorse can help you quickly scale account opening by automating documentary and non-documentary requirements.
