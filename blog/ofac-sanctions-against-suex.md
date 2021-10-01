@@ -30,7 +30,7 @@ seo:
         part in facilitating financial transactions for ransomware actors.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
+      value: images/article-bitcoin-suex.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -42,12 +42,12 @@ seo:
         OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
         part in facilitating financial transactions for ransomware actors.
     - name: 'twitter:image'
-      value: images/istockphoto-1297465792-170667a.jpeg
+      value: images/article-bitcoin-suex.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/istockphoto-1297465792-170667a-77678879.jpeg
-image: images/istockphoto-1297465792-170667a.jpeg
+thumb_image: images/article-bitcoin-suex.jpeg
+image: images/article-bitcoin-suex.jpeg
 ---
 ##### Designation of First Virtual Currency Exchange For Complicit Financial Services
 
