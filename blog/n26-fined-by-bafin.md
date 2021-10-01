@@ -29,7 +29,7 @@ seo:
         part in facilitating financial transactions for ransomware actors.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-1297465792-170667a-da0f90ec.jpeg
+      value: images/article-drying.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -41,12 +41,12 @@ seo:
         OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
         part in facilitating financial transactions for ransomware actors.
     - name: 'twitter:image'
-      value: images/istockphoto-1297465792-170667a.jpeg
+      value: images/article-drying.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/istockphoto-467375870-170667a.jpeg
-image: images/istockphoto-467375870-170667a.jpeg
+thumb_image: images/article-drying.jpeg
+image: images/article-drying.jpeg
 ---
 ##### An Always More Stringent Regulator Scrutiny
 
