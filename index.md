@@ -117,7 +117,7 @@ seo:
         and monitor their business customers.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-467375870-170667a.jpeg
+      value: images/article-nasa-unsplash.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -129,7 +129,7 @@ seo:
         Real-time company insights empowering financial institutions to verify
         and monitor their business customers.
     - name: 'twitter:image'
-      value: images/istockphoto-467375870-170667a.jpeg
+      value: images/article-nasa-unsplash.jpeg
       relativeUrl: true
 layout: landing
 ---

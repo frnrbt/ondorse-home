@@ -1,39 +1,53 @@
 ---
-title: About Us
+title: Be smart, use smart information
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
-image_alt: Team members in a conference room
+  Ondorse is a technology company that builds compliance infrastructure for the internet. Institutions of every size use our software to verify and monitor their business customers.
 seo:
-  title: About Us
-  description: This is the about page
+  title: Our Vision
+  description: Be smart, use smart information
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Our Vision
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Be smart, use smart information
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/article-nasa-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Our Vision
     - name: 'twitter:description'
-      value: This is the about page
+      value: Be smart, use smart information
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/article-nasa-unsplash.jpg
       relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+At Ondorse, we believe that verified company information is essential for effective compliance. Irrespective of any other tools one may use.  
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+At Ondorse, we believe that too much information does not empower anyone, on the contrary, it is overwhelming and time consuming. 
+
+At Ondorse, we believe that you should not fetch company information, but that it should be pushed to you.
+
+At Ondorse, we believe that KYC should not be a snapshot, but a moving picture, where company information is put in context of a temporal axis.
+
+At Ondorse, we believe that verified and real-time company information is the KYC’s future foundation stone. 
+
+At Ondorse, we believe that the future of compliance lies with skilled staff that efficiently use smart tools. 
+
+Be smart, use smart information.
+
+- We add unparalleled value to company data:
+- We refresh data every day and directly from government registers
+- We link national registers to provide a holistic view of all connections associated with a business
+- We detect missing or incorrect data
+- We review data manually to provide you with verified an unparalleled data quality, especially on company ownership
+
