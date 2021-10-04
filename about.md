@@ -44,7 +44,7 @@ At Ondorse, we believe that verified and real-time company information is the KY
 
 At Ondorse, we believe that the future of compliance lies with skilled staff that efficiently use smart tools.
 
-We add unparalleled value to company data:
+**We add unparalleled value to company data:**
 
 *   We refresh data every day and directly from government registers
 
