@@ -34,9 +34,9 @@ layout: page
 ---
 At Ondorse, we believe that too much information does not empower anyone, on the contrary, it is overwhelming and time consuming.
 
-At Ondorse, we believe that verified company information is essential for effective sanctions or PEP screening. 
-
 At Ondorse, we believe that you should not fetch company information, but that it should be pushed to you.
+
+At Ondorse, we believe that verified company information is essential for effective sanctions or PEP screening.
 
 At Ondorse, we believe that KYC should not be a snapshot, but a moving picture, where company information is put in a timeline.
 
@@ -46,9 +46,10 @@ At Ondorse, we believe that the future of compliance lies with skilled staff tha
 
 We add unparalleled value to company data:
 
-*
-
 *   We refresh data every day and directly from government registers
+
 *   We link national registers to provide a holistic view of all connections associated with a business
+
 *   We detect missing or incorrect data
+
 *   We review data manually to provide you with verified an unparalleled data quality, especially on company ownership
