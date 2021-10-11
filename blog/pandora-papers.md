@@ -28,7 +28,7 @@ seo:
         part in facilitating financial transactions for ransomware actors.
       keyName: property
     - name: 'og:image'
-      value: images/article-drying.jpeg
+      value: images/istockphoto-947121494-612x612.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
