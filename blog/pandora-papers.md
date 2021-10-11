@@ -1,5 +1,5 @@
 ---
-title: fdfd
+title: 'Pandora Papers: Offshore trusts and shell companies'
 subtitle: >-
   On September 29, 2021, German regulator BaFin publicly announced that it had
   imposed a €4.25m fine in July 2021 on N26, one of Europe’s most highly valued
