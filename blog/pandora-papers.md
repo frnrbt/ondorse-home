@@ -22,8 +22,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
-        part in facilitating financial transactions for ransomware actors.
+        These legal structures are often created to maintain confidentiality,
+        and can be misused for money laundering or corruption purposes. 
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-947121494-612x612.jpeg
