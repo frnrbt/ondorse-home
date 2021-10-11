@@ -40,7 +40,7 @@ seo:
         OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
         part in facilitating financial transactions for ransomware actors.
     - name: 'twitter:image'
-      value: images/article-drying.jpeg
+      value: images/istockphoto-947121494-612x612.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
