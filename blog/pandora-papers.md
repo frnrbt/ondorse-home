@@ -43,7 +43,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/article-drying.jpeg
-image: images/article-drying.jpeg
+image: images/istockphoto-947121494-612x612.jpeg
 ---
 ##### An Always More Stringent Regulator Scrutiny
 
