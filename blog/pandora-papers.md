@@ -45,14 +45,14 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/article-drying.jpeg
 image: images/istockphoto-947121494-612x612.jpeg
 ---
-##### An Always More Stringent Regulator Scrutiny
+##### The Identification of Beneficial Owners at the Heart of ICIJ’s Work
 
-BaFin had already ordered the German payments company to strengthen its money-laundering prevention in 2019.  Following last year's collapse of payments firm Wirecard, BaFin had extended earlier this year its oversight of N26 to cover the whole company and in May 2021, BaFin had already ordered N26 to put in place internal controls and safeguards to prevent money laundering and terrorist financing.  At that time, in a quite unusual move, BaFin also installed a special supervisor to monitor the bank. 
+ICIJ’s investigation relies on the review of an “unprecedented amount of information on \[...] beneficial owners of entities registered in the British Virgin Islands, Seychelles, Hong Kong, Belize, Panama, South Dakota and other secrecy jurisdictions.” That way, ICIJ was able to detect shell companies which are legal structures with no economic substance, their sole purpose being to avoid taxes or other laws.  The journalists at ICIJ were able to demonstrate how such structures were used to avoid taxes despite progress in international tax cooperation during the recent years.
 
-The fine comes one day after Germany’s largest online bank, ING Germany, was criticised in court by a BaFin representative for its slow response to suspicious trades by a client, who later admitted to large-scale insider trading.
+According to ICIJ, the Pandora papers gathered information on more than 27 000 companies and 29 000 ultimate beneficial owners from 11 of the providers, or more than twice the number of beneficial owners identified in the Panama papers.
 
-##### Customer Due Diligence at the Core of AML Deficiencies
+##### Ondorse and ICIJ Have Similar Methods
 
-In a statement, N26 said that this fine related to the late filing of close to 50 suspicious activity reports in 2019 and 2020.  In May 2021, BaFin urged the lender to “rectify deficiencies both in IT monitoring and in customer due diligence” and to “ensure that it has the adequate personnel, technical and organisational resources to comply with its obligations under anti-money laundering law”. N26 said it has taken “numerous detailed measures” to strengthen its anti-financial crime controls.
+At Ondorse, just like ICIJ did with other documents, we spend a lot of time exploring and analyzing the European UBO registers. These registers are structured differently from one member state to another and each register requires a different process. UBO information also comes in unstructured format, which makes automation more challenging. We use AI/ML technologies alongside humans to process unstructured content. 
 
-At Ondorse, we think that innovative financial actors should implement effective compliance controls and mechanisms at the very beginning of their operations, to show regulators goodwill and how seriously financial crime is taken. Just like N26 which quickly grew to more than 7 million clients in 25 countries, Ondorse can help you quickly scale account opening by automating documentary and non-documentary requirements.
+This way, we are able to create links between the UBO registers and the owned companies in Europe.  We are also building graphic tools to generate visualizations and make them searchable. This allows our users to explore connections between people and companies across Europe in order to better detect complex legal structures used for financial crime purposes.
