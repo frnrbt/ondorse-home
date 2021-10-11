@@ -12,9 +12,7 @@ seo:
   title: 'Pandora Papers: Offshore trusts and shell companies'
   description: >-
     These legal structures are often created to maintain confidentiality, and
-    can be misused for money laundering or corruption purposes.  The
-    International Consortium of Investigative Journalists showed how these
-    entities can also be used for tax evasion purposes.
+    can be misused for money laundering or corruption purposes. 
   extra:
     - name: 'og:type'
       value: article
