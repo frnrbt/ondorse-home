@@ -1,9 +1,6 @@
 ---
 title: 'Pandora Papers: Offshore trusts and shell companies'
-subtitle: >-
-  On September 29, 2021, German regulator BaFin publicly announced that it had
-  imposed a €4.25m fine in July 2021 on N26, one of Europe’s most highly valued
-  fintechs.
+subtitle: "These legal structures are often created to maintain confidentiality, and can be misused for money laundering or corruption purposes.\_ The International Consortium of Investigative Journalists showed how these entities can also be used for tax evasion purposes."
 date: '2021-10-01'
 excerpt: >-
   On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
