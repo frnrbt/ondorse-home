@@ -11,8 +11,10 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'Pandora Papers: Offshore trusts and shell companies'
   description: >-
-    OFAC imposed sanctions on SUEX, a virtual currency exchange, for its part in
-    facilitating financial transactions for ransomware actors.
+    These legal structures are often created to maintain confidentiality, and
+    can be misused for money laundering or corruption purposes.  The
+    International Consortium of Investigative Journalists showed how these
+    entities can also be used for tax evasion purposes.
   extra:
     - name: 'og:type'
       value: article
