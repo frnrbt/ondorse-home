@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/article-drying.jpeg
+thumb_image: images/istockphoto-947121494-612x612.jpeg
 image: images/istockphoto-947121494-612x612.jpeg
 ---
 ##### The Identification of Beneficial Owners at the Heart of ICIJ’s Work
