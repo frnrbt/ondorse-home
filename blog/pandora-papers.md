@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: U.S. imposes sanctions on Russian crypto exchange
+      value: 'Pandora Papers: Offshore trusts and shell companies'
     - name: 'twitter:description'
       value: >-
         OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
