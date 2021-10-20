@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: 'Pandora Papers: Offshore trusts and shell companies'
+  title: 'Data protection and AML: Finding the right balance'
   description: >-
     These legal structures are often created to maintain confidentiality, and
     can be misused for money laundering or corruption purposes. 
