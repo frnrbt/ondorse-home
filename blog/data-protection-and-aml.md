@@ -26,8 +26,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        These legal structures are often created to maintain confidentiality,
-        and can be misused for money laundering or corruption purposes. 
+        On 22 September 2021, the EDPS published his opinion on the European
+        Commission’s proposed Anti-Money Laundering legislative package (AML)
+        issued in July 2021.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-947121494-612x612.jpeg
