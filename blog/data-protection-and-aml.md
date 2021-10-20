@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Pandora Papers: Offshore trusts and shell companies'
+      value: 'Data protection and AML: Finding the right balance'
       keyName: property
     - name: 'og:description'
       value: >-
