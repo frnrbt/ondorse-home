@@ -14,8 +14,9 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'Data protection and AML: Finding the right balance'
   description: >-
-    These legal structures are often created to maintain confidentiality, and
-    can be misused for money laundering or corruption purposes. 
+    On 22 September 2021, the EDPS published his opinion on the European
+    Commission’s proposed Anti-Money Laundering legislative package (AML) issued
+    in July 2021.
   extra:
     - name: 'og:type'
       value: article
