@@ -43,7 +43,7 @@ seo:
         These legal structures are often created to maintain confidentiality,
         and can be misused for money laundering or corruption purposes. 
     - name: 'twitter:image'
-      value: images/istockphoto-947121494-612x612.jpeg
+      value: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
