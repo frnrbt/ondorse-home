@@ -1,6 +1,9 @@
 ---
 title: 'Data protection and AML: Finding the right balance'
-subtitle: "These legal structures are often created to maintain confidentiality, and can be misused for money laundering or corruption purposes.\_ The International Consortium of Investigative Journalists showed how these entities can also be used for tax evasion purposes."
+subtitle: >-
+  On 22 September 2021, the European Data Protection Supervisor (“EDPS”)
+  published his opinion on the European Commission’s proposed Anti-Money
+  Laundering legislative package (AML) issued in July 2021.
 date: '2021-10-11'
 excerpt: >-
   On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
