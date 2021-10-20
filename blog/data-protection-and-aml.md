@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Pandora Papers: Offshore trusts and shell companies'
+      value: 'Data protection and AML: Finding the right balance'
     - name: 'twitter:description'
       value: >-
         These legal structures are often created to maintain confidentiality,
