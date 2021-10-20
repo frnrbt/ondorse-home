@@ -1,5 +1,5 @@
 ---
-title: 'Pandora Papers: Offshore trusts and shell companies'
+title: 'Data protection and AML: Finding the right balance'
 subtitle: "These legal structures are often created to maintain confidentiality, and can be misused for money laundering or corruption purposes.\_ The International Consortium of Investigative Journalists showed how these entities can also be used for tax evasion purposes."
 date: '2021-10-11'
 excerpt: >-
