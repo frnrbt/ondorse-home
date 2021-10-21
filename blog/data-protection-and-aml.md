@@ -6,9 +6,9 @@ subtitle: >-
   Laundering legislative package (AML) issued in July 2021.
 date: '2021-10-20'
 excerpt: >-
-  On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
-  exchange, for its part in facilitating financial transactions for ransomware
-  actors.
+  On 22 September 2021, the European Data Protection Supervisor (“EDPS”)
+  published his opinion on the European Commission’s proposed Anti-Money
+  Laundering legislative package (AML) issued in July 2021.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
