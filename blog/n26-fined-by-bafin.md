@@ -6,9 +6,9 @@ subtitle: >-
   fintechs.
 date: '2021-10-01'
 excerpt: >-
-  On September 21, 2021, OFAC imposed sanctions on SUEX, a virtual currency
-  exchange, for its part in facilitating financial transactions for ransomware
-  actors.
+  On September 29, 2021, German regulator BaFin publicly announced that it had
+  imposed a €4.25m fine in July 2021 on N26, one of Europe’s most highly valued
+  fintechs.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
