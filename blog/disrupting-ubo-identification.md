@@ -59,12 +59,12 @@ FIs pay the cost of inaccurate or insufficient customer information, including U
 
 ##### How to Improve Your UBO Verification Processes
 
-Use open source UBO registers as a tool.  However, because UBO registers are still inconsistent and contain inaccuracies, it is important for FI to remember that open source UBO registers are helpful tools but do not constitute ultimate UBO proof.
+**Use open source UBO registers as a tool.**  However, because UBO registers are still inconsistent and contain inaccuracies, it is important for FI to remember that open source UBO registers are helpful tools but do not constitute ultimate UBO proof.
 
-Embed, as soon as possible, UBO identification/verification tools into existing KYC/KYB infrastructure.  At Ondorse, we expect AML regulations will only become more stringent, and the sooner you can streamline your verification process, the better.
+**Embed, as soon as possible, UBO identification/verification tools into existing KYC/KYB infrastructure.**  At Ondorse, we expect AML regulations will only become more stringent, and the sooner you can streamline your verification process, the better.
 
-Segregate UBO identification from UBO verification. Onboarding delays caused by UBO-related regulations often cause friction between the customer and the institution they’re dealing with. That said, taking the time required to properly conduct UBO verification does not need to delay the onboarding of your B2B users. Ondorse can advise in that respect and help you build a compliant UBO workflow, while insulating FIs from compliance-related fines.
+**Segregate UBO identification from UBO verification.** Onboarding delays caused by UBO-related regulations often cause friction between the customer and the institution they’re dealing with. That said, taking the time required to properly conduct UBO verification does not need to delay the onboarding of your B2B users. Ondorse can advise in that respect and help you build a compliant UBO workflow, while insulating FIs from compliance-related fines.
 
-Use tools that can simplify the workflow of analyzing intermediate and ultimate beneficial ownership and embrace technology that helps organize and present UBO-related data in a logical way that is easy to understand. At Ondorse, we are connected to a verified network of corporate registries, we enact constant updates to shareholder information, and we can operate within your existing onboarding framework.
+**Use tools that can simplify the workflow** of analyzing intermediate and ultimate beneficial ownership and embrace technology that helps organize and present UBO-related data in a logical way that is easy to understand. At Ondorse, we are connected to a verified network of corporate registries, we enact constant updates to shareholder information, and we can operate within your existing onboarding framework.
 
-Finally, tap into a database of pre-verified UBO information on entities.  That’s what we are building at Ondorse. Get in touch with us.
+**Tap into a database of pre-verified UBO information on entities.**  That’s what we are building at Ondorse. Get in touch with us.
