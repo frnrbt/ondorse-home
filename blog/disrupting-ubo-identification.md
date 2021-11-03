@@ -1,7 +1,7 @@
 ---
 title: Why the approach to UBO identification needs to be disrupted
 subtitle: "Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time consuming undertaking.\_ Even if your KYC/KYB analysts are highly capable and well-trained, FIs spend precious resources just to remain compliant, despite open source European UBO registers which needs to be reprocessed before any sustainable use."
-date: '2021-11-20'
+date: '2021-11-03'
 excerpt: >-
   On 22 September 2021, the European Data Protection Supervisor (“EDPS”)
   published his opinion on the European Commission’s proposed Anti-Money
