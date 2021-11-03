@@ -27,7 +27,7 @@ seo:
         issued in July 2021.
       keyName: property
     - name: 'og:image'
-      value: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
+      value: images/istockphoto-1291181797-170667a.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
