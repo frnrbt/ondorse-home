@@ -9,7 +9,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: 'Data protection and AML: Finding the right balance'
+  title: Why the approach to UBO identification needs to be disrupted
   description: >-
     On 22 September 2021, the EDPS published his opinion on the European
     Commission’s proposed Anti-Money Laundering legislative package (AML) issued
