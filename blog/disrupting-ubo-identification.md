@@ -35,9 +35,8 @@ seo:
       value: Why the approach to UBO identification needs to be disrupted
     - name: 'twitter:description'
       value: >-
-        On 22 September 2021, the EDPS published his opinion on the European
-        Commission’s proposed Anti-Money Laundering legislative package (AML)
-        issued in July 2021.
+        Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
+        consuming undertaking, that can, however, be improved.
     - name: 'twitter:image'
       value: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
       relativeUrl: true
