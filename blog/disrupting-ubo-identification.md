@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Data protection and AML: Finding the right balance'
+      value: Why the approach to UBO identification needs to be disrupted
       keyName: property
     - name: 'og:description'
       value: >-
