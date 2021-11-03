@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Data protection and AML: Finding the right balance'
+      value: Why the approach to UBO identification needs to be disrupted
     - name: 'twitter:description'
       value: >-
         On 22 September 2021, the EDPS published his opinion on the European
