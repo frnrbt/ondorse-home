@@ -51,9 +51,9 @@ Accurate UBO information is central to the fight against money laundering and ot
 
 Here’s how the current verification process typically works:
 
-FIs first request UBO information from the customer, that’s the identification phase - this phase must be conducted even if the customer doesn’t have UBO documentation prepared. In that case, customers must conduct their own research and identify the ultimate beneficial owner(s) of their organization. Complex leadership structures can further complicate this process and delay onboarding.
+*   FIs first request UBO information from the customer, that’s the identification phase - this phase must be conducted even if the customer doesn’t have UBO documentation prepared. In that case, customers must conduct their own research and identify the ultimate beneficial owner(s) of their organization. Complex leadership structures can further complicate this process and delay onboarding.
 
-Analysts receive the UBO documentation from the customer and must independently verify the documentation, that’s the verification phase.  Analysts must then conduct their own research, essentially mirroring the process that the customer has already completed, noting that the process is particularly headache-inducing when it involves cross-border research.
+*   Analysts then receive the UBO documentation from the customer and must independently verify the documentation, that’s the verification phase.  Analysts must then conduct their own research, essentially mirroring the process that the customer has already completed, noting that the process is particularly headache-inducing when it involves cross-border research.
 
 FIs pay the cost of inaccurate or insufficient customer information, including UBO data.  Enforcement agencies issued $10.4 billion in regulatory fines to financial institutions in 2020 throughout the world, a year-on-year increase of 26% by value and 141% by volume.
 
