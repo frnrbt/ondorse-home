@@ -12,7 +12,7 @@ seo:
   title: Why the approach to UBO identification needs to be disrupted
   description: >-
     Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
-    consuming undertaking.  
+    consuming undertaking, that can, however, be improved.
   extra:
     - name: 'og:type'
       value: article
