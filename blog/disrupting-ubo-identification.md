@@ -48,16 +48,26 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
 image: images/istockphoto-1291181797-170667a.jpeg
 ---
-##### The Risk-Based Approach to the Screening of Bank’s Clients
+##### The Current Approach is Broken
 
-In the proposed AML package, the European Commission takes a risk-based approach to the screening of banks’ clients in order to assess whether they may represent a money-laundering risk. The EDPS generally supports this approach, however, he considers that further clarifications are needed to minimise intrusion into individuals’ privacy and to ensure full compliance with data protection rules, including the principles of necessity and proportionality.
+Accurate UBO information is central to the fight against money laundering and other financial crimes. Identification of UBOs untangles financial webs and reveals shell companies set up to pose as legitimate entities.
 
-On that point, the Head of EDPS, said: *“the processing of individuals’ personal data must remain limited to what is necessary and proportionate in light of the specific purpose(s) set out in the proposals.”*
+Here’s how the current verification process typically works:
 
-##### The Categories of Personal Data Subject to Processing
+FIs first request UBO information from the customer, that’s the identification phase - this phase must be conducted even if the customer doesn’t have UBO documentation prepared. In that case, customers must conduct their own research and identify the ultimate beneficial owner(s) of their organization. Complex leadership structures can further complicate this process and delay onboarding.
 
-The EDPS provided some guidance on what categories of personal data he considers should not be processed, even for an AML/CFT purpose. To that end, the EDPS considers that the processing of personal data relating to individuals’ sexual orientation or ethnic origin should not be allowed. 
+Analysts receive the UBO documentation from the customer and must independently verify the documentation, that’s the verification phase.  Analysts must then conduct their own research, essentially mirroring the process that the customer has already completed, noting that the process is particularly headache-inducing when it involves cross-border research.
 
-Furthermore, the EDPS found that the European Commission's proposal should indicate the specific and strict conditions under which the processing of data about individuals’ criminal offenses and/or convictions are allowed.
+FIs pay the cost of inaccurate or insufficient customer information, including UBO data.  Enforcement agencies issued $10.4 billion in regulatory fines to financial institutions in 2020 throughout the world, a year-on-year increase of 26% by value and 141% by volume.
 
-At Ondorse, we are taking GDPR compliance very seriously and we can assist you in setting up your AML/CFT framework in compliance with applicable GDPR requirements. 
+##### How to Improve Your UBO Verification Processes
+
+Use open source UBO registers as a tool.  However, because UBO registers are still inconsistent and contain inaccuracies, it is important for FI to remember that open source UBO registers are helpful tools but do not constitute ultimate UBO proof.
+
+Embed, as soon as possible, UBO identification/verification tools into existing KYC/KYB infrastructure.  At Ondorse, we expect AML regulations will only become more stringent, and the sooner you can streamline your verification process, the better.
+
+Segregate UBO identification from UBO verification. Onboarding delays caused by UBO-related regulations often cause friction between the customer and the institution they’re dealing with. That said, taking the time required to properly conduct UBO verification does not need to delay the onboarding of your B2B users. Ondorse can advise in that respect and help you build a compliant UBO workflow, while insulating FIs from compliance-related fines.
+
+Use tools that can simplify the workflow of analyzing intermediate and ultimate beneficial ownership and embrace technology that helps organize and present UBO-related data in a logical way that is easy to understand. At Ondorse, we are connected to a verified network of corporate registries, we enact constant updates to shareholder information, and we can operate within your existing onboarding framework.
+
+Finally, tap into a database of pre-verified UBO information on entities.  That’s what we are building at Ondorse. Get in touch with us.
