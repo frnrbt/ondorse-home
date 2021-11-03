@@ -1,5 +1,5 @@
 ---
-title: 'Data protection and AML: Finding the right balance'
+title: Why the approach to UBO identification needs to be disrupted
 subtitle: >-
   On 22 September 2021, the European Data Protection Supervisor (“EDPS”)
   published his opinion on the European Commission’s proposed Anti-Money
