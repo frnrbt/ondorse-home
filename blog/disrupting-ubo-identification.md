@@ -38,7 +38,7 @@ seo:
         Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
         consuming undertaking, that can, however, be improved.
     - name: 'twitter:image'
-      value: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
+      value: images/istockphoto-1291181797-170667a.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
