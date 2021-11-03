@@ -46,7 +46,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
-image: images/sean-benesh-vfJPtNFGfVs-unsplash.jpg
+image: images/istockphoto-1291181797-170667a.jpeg
 ---
 ##### The Risk-Based Approach to the Screening of Bank’s Clients
 
