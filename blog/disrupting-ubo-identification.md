@@ -5,9 +5,7 @@ date: '2021-11-03'
 excerpt: >-
   Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
   consuming undertaking. Even if your KYC/KYB analysts are highly capable and
-  well-trained, FIs spend precious resources just to remain compliant, despite
-  open source European UBO registers which needs to be reprocessed before any
-  sustainable use.
+  well-trained, FIs spend precious resources just to remain compliant.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
