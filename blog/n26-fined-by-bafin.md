@@ -14,8 +14,9 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'BaFin''s €4.25m penalty against N26, what lessons to learn ?'
   description: >-
-    OFAC imposed sanctions on SUEX, a virtual currency exchange, for its part in
-    facilitating financial transactions for ransomware actors.
+    German regulator BaFin publicly announced that it had imposed a €4.25m fine
+    in July 2021 on N26, one of Europe’s most highly valued fintechs, for weak
+    AML controls.
   extra:
     - name: 'og:type'
       value: article
