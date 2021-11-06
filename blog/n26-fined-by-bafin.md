@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: U.S. imposes sanctions on Russian crypto exchange
+  title: 'BaFin''s €4.25m penalty against N26, what lessons to learn ?'
   description: >-
     OFAC imposed sanctions on SUEX, a virtual currency exchange, for its part in
     facilitating financial transactions for ransomware actors.
