@@ -25,8 +25,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        OFAC imposed sanctions on SUEX, a virtual currency exchange, for its
-        part in facilitating financial transactions for ransomware actors.
+        German regulator BaFin publicly announced that it had imposed a €4.25m
+        fine in July 2021 on N26 for weak AML controls.
       keyName: property
     - name: 'og:image'
       value: images/article-drying.jpeg
