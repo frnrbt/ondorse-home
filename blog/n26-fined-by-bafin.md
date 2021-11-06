@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: U.S. imposes sanctions on Russian crypto exchange
+      value: 'BaFin''s €4.25m penalty against N26, what lessons to learn ?'
       keyName: property
     - name: 'og:description'
       value: >-
