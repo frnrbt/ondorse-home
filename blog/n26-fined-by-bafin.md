@@ -1,5 +1,5 @@
 ---
-title: BaFin's €4.25mkk by German regulator for weak money-laundering controls
+title: BaFin's €4.25m panalty against N26: What lessons to learn ?kk by German regulator for weak money-laundering controls
 subtitle: >-
   On September 29, 2021, German regulator BaFin publicly announced that it had
   imposed a €4.25m fine in July 2021 on N26, one of Europe’s most highly valued
