@@ -97,12 +97,9 @@ sections:
           *   Can we legally do business with them?
         type: faq_item
       - answer: >
-          Ondorse pushes you alerts in case of a true asset freeze match
-          involving a connection (UBO, shareholder or legal representative)
-          associated with one of your customers. With our screening tool fed
-          with permanently refreshed information, you can now immediately comply
-          with all your asset freeze obligations and associated direct and
-          indirect AML-CFT risks.
+          While Ondorse was originally designed for financial companies,
+          including crypto platforms, we are now partnering with marketplaces
+          and platforms willing to verify their new or existing SME vendors.
         type: faq_item
         question: Who does Ondorse work with?
     type: section_faq
