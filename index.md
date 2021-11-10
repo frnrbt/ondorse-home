@@ -37,9 +37,10 @@ sections:
         image: images/internet-undraw.svg
       - title: Holistic evaluations
         content: >
-          We have created connections across oﬃcial company registers to provide
-          you with a holistic picture of all the people associated with each
-          business you are engaged with.
+          Departing from traditional linear and time-consuming business reviews,
+          Ondorse simultaneously runs multiple checks on business users to
+          reduce noisy alerts and verify customers more efficiently and more
+          quickly.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
