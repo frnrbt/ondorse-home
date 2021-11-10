@@ -45,7 +45,7 @@ sections:
         actions: []
         type: feature_item
         image: images/goals-undraw.svg
-      - title: API-simple
+      - title: Real-time updates on your users
         content: >
           Ondorse’s API can easily and immediately be integrated in your
           workﬂow, giving your teams the tools they need from day one.
