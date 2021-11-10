@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
-      Real-time company insights empowering financial institutions to verify and
+      End toReal-time company insights empowering financial institutions to verify and
       monitor their business customers.
     content: >
       With increasing risks of frauds and enhanced regulatory obligations,
