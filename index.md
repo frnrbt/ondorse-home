@@ -79,7 +79,7 @@ sections:
       - question: What data does Ondorse use to conduct evaluations?
         answer: "We have created connections across oﬃcial company registers in Europe and the U.K. to guarantee data integrity.\_ To the extent that private data providers have proprietary and exclusive databases, we also include such information in our model.\n"
         type: faq_item
-      - question: How does Ondorse handle shell companies?
+      - question: What checks
         answer: >
           Ondorse continuously monitors events affecting the KYB of your users
           and pushes you notifications in case of important corporate
