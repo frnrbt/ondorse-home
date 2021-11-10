@@ -1,5 +1,5 @@
 ---
-title: 'Be smart, use smart information'
+title: On a mission to create B2B trust
 subtitle: >-
   Ondorse is a technology company that builds compliance infrastructure for the
   internet. Institutions of every size use our software to verify and monitor
