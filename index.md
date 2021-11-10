@@ -28,9 +28,9 @@ sections:
     features:
       - title: One API for end-to-end business verification
         content: >
-          When an event affects your corporate users or one of their
-          connections, Ondorse’s API automatically sends this information to you
-          with push notiﬁcations.
+          Ondorse is a smart platform aggregating multiple sources of
+          information and services in one product designed to streamline your
+          compliance workflows.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
