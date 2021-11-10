@@ -108,17 +108,11 @@ sections:
           up-to-date evaluations, compulsory documents and company information
           on the corporate customers you are engaged with.
       - question: How can Ondorse detect shell companies?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ondorse continuously monitors events affecting the KYB of your users
+          and pushes you notifications in case of important corporate
+          information updates, such as a UBO, shareholder or legal
+          representative change.
     type: section_faq
 seo:
   title: Ondorse
