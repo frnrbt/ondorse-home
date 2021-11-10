@@ -76,7 +76,7 @@ sections:
           Ondorse allows you to configure proposed checks to evaluate new users
           and to make sure your customers are always right for you.
         type: faq_item
-      - question: How does Ondorse replace the process of KYC refresh?
+      - question: What data does Ondorse use to conduct such evaluations?
         answer: >
           Ondorse automatically populates your back office tool with the most
           up-to-date company information on the corporate customers you are
