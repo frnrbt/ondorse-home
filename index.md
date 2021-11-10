@@ -35,7 +35,7 @@ sections:
         actions: []
         type: feature_item
         image: images/internet-undraw.svg
-      - title: Complete and verified identity information across Europe
+      - title: Holistic evaluations
         content: >
           We have created connections across oﬃcial company registers to provide
           you with a holistic picture of all the people associated with each
