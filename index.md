@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
-      End-to-end business verification solution for customer onboarding and monitoring empowering financial institutions to verify and
+      End-to-end business verification solution for customer onboarding and monitoring automation. empowering financial institutions to verify and
       monitor their business customers.
     content: >
       With increasing risks of frauds and enhanced regulatory obligations,
