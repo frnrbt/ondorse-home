@@ -76,7 +76,7 @@ sections:
           Ondorse allows you to configure proposed checks to evaluate new users
           and to make sure your customers are always right for you.
         type: faq_item
-      - question: What data does Ondorse use to conduct such evaluations?
+      - question: What data does Ondorse use to conduct evaluations?
         answer: "We have created connections across oﬃcial company registers in Europe and the U.K. to guarantee data integrity.\_ To the extent that private data providers have proprietary and exclusive databases, we also include such information in our model.\n"
         type: faq_item
       - question: How does Ondorse handle shell companies?
