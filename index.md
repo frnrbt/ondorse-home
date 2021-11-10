@@ -71,7 +71,7 @@ sections:
     title: FAQ
     background: white
     faq_items:
-      - question: Who does Ondorse work with?
+      - question: How does Ondorse work
         answer: >
           Ondorse was designed for financial companies but also works with
           marketplaces and platforms considering creating a unified KYC/KYB on
