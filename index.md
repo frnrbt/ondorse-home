@@ -105,13 +105,6 @@ sections:
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
           representative change.
-      - question: How can Ondorse help me stay on top of asset freeze obligations?
-        answer: >
-          Ondorse pushes you alerts in case of a true asset freeze match
-          involving a connection (UBO, shareholder or legal representative)
-          associated with one of your customers. With our screening tool fed
-          with permanently refreshed company information, you immediately know
-          if one of your users is subject to direct or indirect AML-CFT risk.
     type: section_faq
 seo:
   title: Ondorse
