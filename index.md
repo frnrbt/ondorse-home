@@ -81,10 +81,20 @@ sections:
         type: faq_item
       - question: What checks does Ondorse conduct?
         answer: >
-          Ondorse continuously monitors events affecting the KYB of your users
-          and pushes you notifications in case of important corporate
-          information updates, such as a UBO, shareholder or legal
-          representative change.
+          Ondorse’s set of customizable checks allows you to answer the
+          following four questions:
+
+
+          *   Is this a real business?
+
+
+          *   Will this business defraud us?
+
+
+          *   Is this actually that real business?
+
+
+          *   Can we legally do business with them?
         type: faq_item
       - answer: >
           Ondorse pushes you alerts in case of a true asset freeze match
