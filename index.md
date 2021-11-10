@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: Intro
     type: section_hero
-    title: Business is a changing world
+    title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
       Real-time company insights empowering financial institutions to verify and
       monitor their business customers.
