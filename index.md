@@ -54,14 +54,6 @@ sections:
         actions: []
         type: feature_item
         image: images/server-undraw.svg
-      - title: Your remediation partner
-        content: >
-          With our network of skilled and multilingual resources, we can help
-          you expedite the processing of any backlog of KYC stock, either in the
-          context of an investigation or during remediation.
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/review-undraw.svg
     type: section_features
   - section_id: posts
     title: Latest Posts
