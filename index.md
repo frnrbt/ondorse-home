@@ -102,9 +102,7 @@ sections:
           and platforms willing to verify their new or existing SME vendors.
         type: faq_item
         question: Who does Ondorse work with?
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: 'How does Ondorse replace the process of KYB/KYC refresh? '
         answer: >-
           ## Lorem ipsum
 
