@@ -47,8 +47,9 @@ sections:
         image: images/goals-undraw.svg
       - title: Real-time updates on your users
         content: >
-          Ondorse’s API can easily and immediately be integrated in your
-          workﬂow, giving your teams the tools they need from day one.
+          Because business is a changing world, Ondorse will automatically
+          notify you about changes to your customer base, enabling you to make
+          informed decisions during and after onboarding.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
