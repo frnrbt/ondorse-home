@@ -107,9 +107,7 @@ sections:
           Ondorse automatically populates your back office tool with the most
           up-to-date evaluations, compulsory documents and company information
           on the corporate customers you are engaged with.
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: How can Ondorse detect shell companies?
         answer: >-
           ## Lorem ipsum
 
