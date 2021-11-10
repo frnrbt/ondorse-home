@@ -104,7 +104,7 @@ sections:
           with all your asset freeze obligations and associated direct and
           indirect AML-CFT risks.
         type: faq_item
-        question: How can Ondorse help stay on top of asset freeze?
+        question: Who does Ondorse work with?
     type: section_faq
 seo:
   title: Ondorse
