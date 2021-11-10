@@ -113,9 +113,7 @@ sections:
           and pushes you notifications in case of important corporate
           information updates, such as a UBO, shareholder or legal
           representative change.
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: How can Ondorse help stay on top of asset freeze obligations?
         answer: >-
           ## Lorem ipsum
 
