@@ -26,7 +26,7 @@ sections:
   - section_id: features
     background: white
     features:
-      - title: Real-time updates
+      - title: One API for end-to-end business verification
         content: >
           When an event affects your corporate users or one of their
           connections, Ondorse’s API automatically sends this information to you
