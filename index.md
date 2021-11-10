@@ -73,9 +73,8 @@ sections:
     faq_items:
       - question: How does Ondorse work?
         answer: >
-          Ondorse was designed for financial companies but also works with
-          marketplaces and platforms considering creating a unified KYC/KYB on
-          SME vendors to help better detect vendor fraud.
+          Ondorse allows you to configure proposed checks to evaluate new users
+          and to make sure your customers are always right for you.
         type: faq_item
       - question: How does Ondorse replace the process of KYC refresh?
         answer: >
