@@ -94,11 +94,6 @@ sections:
           and platforms willing to verify their new or existing SME vendors.
         type: faq_item
         question: Who does Ondorse work with?
-      - question: 'How does Ondorse replace the process of KYB/KYC refresh? '
-        answer: >
-          Ondorse automatically populates your back office tool with the most
-          up-to-date evaluations, compulsory documents and company information
-          on the corporate customers you are engaged with.
     type: section_faq
 seo:
   title: Ondorse
