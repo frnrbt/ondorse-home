@@ -103,17 +103,10 @@ sections:
         type: faq_item
         question: Who does Ondorse work with?
       - question: 'How does Ondorse replace the process of KYB/KYC refresh? '
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ondorse automatically populates your back office tool with the most
+          up-to-date evaluations, compulsory documents and company information
+          on the corporate customers you are engaged with.
     type: section_faq
 seo:
   title: Ondorse
