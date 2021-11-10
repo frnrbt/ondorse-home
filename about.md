@@ -32,6 +32,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+At Ondorse, we believe that compliance teams should stop spending time on repetitive and manual verification tasks when they can be automated.
+
 At Ondorse, we believe that too much information does not empower anyone, on the contrary, it is overwhelming and time consuming.
 
 At Ondorse, we believe that you should not fetch company information, but that it should be pushed to you.
@@ -40,16 +42,8 @@ At Ondorse, we believe that verified company information is essential for effect
 
 At Ondorse, we believe that KYC should not be a snapshot, but a moving picture, where company information is put in a timeline.
 
-At Ondorse, we believe that verified and real-time company information is the KYC’s future foundation stone.
-
 At Ondorse, we believe that the future of compliance lies with skilled staff that efficiently use smart tools.
 
-**We add unparalleled value to company data:**
+**We provide first class end-to-end KYB service:**
 
-*   We refresh data every day and directly from government registers
-
-*   We link national registers to provide a holistic view of all connections associated with a business
-
-*   We detect missing or incorrect data
-
-*   We review data manually to provide you with verified an unparalleled data quality, especially on company ownership
+*   *   We use data directly sourced from government registers and refreshed every day*   We link national registers to provide a holistic view of all connections associated with a business*   We detect missing or incorrect data*   We review some information manually to make sure we provide you with unparalleled KYB quality, especially on company ownership
