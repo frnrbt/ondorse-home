@@ -99,12 +99,6 @@ sections:
           Ondorse automatically populates your back office tool with the most
           up-to-date evaluations, compulsory documents and company information
           on the corporate customers you are engaged with.
-      - question: How can Ondorse detect shell companies?
-        answer: >
-          Ondorse continuously monitors events affecting the KYB of your users
-          and pushes you notifications in case of important corporate
-          information updates, such as a UBO, shareholder or legal
-          representative change.
     type: section_faq
 seo:
   title: Ondorse
