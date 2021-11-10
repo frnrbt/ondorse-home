@@ -5,12 +5,12 @@ sections:
     type: section_hero
     title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
-      End-to-end business verification solution for customer onboarding and monitoring automation.
+      End-to-end business verification solution for customer onboarding and
+      monitoring automation.
     content: >
-      With increasing risks of frauds and enhanced regulatory obligations,
-      access to real time corporate information is key. Ondorse’s always up to
-      date information helps financial institutions continuously monitor
-      relevant KYC and KYB information and make compliance more effective.
+      Financial institutions and marketplaces use Ondorse to reduce onboarding
+      delays and boost customer acquisition while staying compliant with their
+      regulatory requirements.
     forms:
       - title: Subscribe
         content: Stay up to date with our latest developments.
