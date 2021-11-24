@@ -1,5 +1,5 @@
 ---
-title: Why no code is a game changer for the compliance function
+title: Why no-code is a game changer for the compliance function
 subtitle: >-
   No-code platforms give non-technical compliance teams the ability to easily
   write and deploy complex workflows without deploying engineering resources.
