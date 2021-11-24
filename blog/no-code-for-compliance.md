@@ -49,26 +49,24 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-1291181797-170667a.jpeg
 image: images/istockphoto-1291181797-170667a.jpeg
 ---
-##### The Current Approach is Broken
+##### The Paradigm Shift 
 
-Accurate UBO information is central to the fight against money laundering and other financial crimes. Identification of UBOs untangles financial webs and reveals shell companies set up to pose as legitimate entities.
+Traditionally, FIs have been building in-house engineering teams focused on developing internal tools. The benefit of in-house engineering is that FIs can create a highly tailored solution for their operations team, ensuring that the product actually meets the needs of these internal teams. 
 
-Here’s how the current verification process typically works:
+But because engineering and product teams are focused on the core product that the company is building, the compliance function is often left in the corner and compliance officers lack access to tech teams.
 
-*   FIs first request UBO information from the customer, that’s the identification phase - this phase must be conducted even if the customer doesn’t have UBO documentation prepared. In that case, customers must conduct their own research and identify the ultimate beneficial owner(s) of their organization. Complex leadership structures can further complicate this process and delay onboarding.
+No code is a dramatically different philosophy. Non-technical persons can easily use no-code platforms that have pre-built drag-and-drop elements for rapidly creating and deploying verification processes without the need for a software engineer or significant technical resources. Elements of no-code platforms are usually pre-coded for reuse and scale, making such platforms actually scalable and robust in the long term. In other words, no-code empowers compliance operators to customize their workflows to fit the unique needs of their business, without being reliant on tech teams.
 
-*   Analysts then receive the UBO documentation from the customer and must independently verify the documentation, that’s the verification phase.  Analysts must then conduct their own research, essentially mirroring the process that the customer has already completed, noting that the process is particularly headache-inducing when it involves cross-border research.
+##### The Extraordinary Benefits of No-Code for Compliance 
 
-FIs pay the cost of inaccurate or insufficient customer information, including UBO data.  Enforcement agencies issued $10.4 billion in regulatory fines to financial institutions in 2020 throughout the world, a year-on-year increase of 26undefined by volume.
+While finance is shifting towards real-time data and processes, issues related to identity verification have been holding back the fintech space, particularly in the B2B field.  Ondorse’s no-code decisioning platform will change this game, forever: 
 
-##### How to Improve Your UBO Verification Processes
+*   First, with no-code tools, a compliance officer can easily customize identity verification rules and checks to his/her needs by simply moving logic blocks (drag-and-drop elements representing rules and checks) across a visually-appealing board which displays all the compliance workflows. Compliance operators can now modify the roadmap, while saving on engineering resources. 
 
-1.  Use open source UBO registers as a tool.  However, because UBO registers are still inconsistent and contain inaccuracies, it is important for FI to remember that open source UBO registers are helpful tools but do not constitute ultimate UBO proof.
+<!---->
 
-2.  Embed, as soon as possible, UBO identification/verification tools into existing KYC/KYB infrastructure.  At Ondorse, we expect AML regulations will only become more stringent, and the sooner you can streamline your verification process, the better.
+*   Second, thanks to no-code tools, a compliance officer can quickly adapt to always changing regulations and risk appetite. The regulatory landscape is quickly changing, and with no-code tools in their hands, FIs can be more agile and always stay on top of these regulations while always selecting the customers that are right for them. 
 
-3.  Segregate UBO identification from UBO verification. Onboarding delays caused by UBO-related regulations often cause friction between the customer and the institution they’re dealing with. That said, taking the time required to properly conduct UBO verification does not need to delay the onboarding of your B2B users. Ondorse can advise in that respect and help you build a compliant UBO workflow, while insulating FIs from compliance-related fines.
+<!---->
 
-4.  Use tools that can simplify the workflow of analyzing intermediate and ultimate beneficial ownership and embrace technology that helps organize and present UBO-related data in a logical way that is easy to understand. At Ondorse, we are connected to a verified network of corporate registries, we enact constant updates to shareholder information, and we can operate within your existing onboarding framework.
-
-5.  Tap into a database of pre-verified UBO information on entities.  That’s what we are building at Ondorse. Get in touch with us.
+*   Third, no-code tools open the door to dynamic onboarding funnels where the user interface will depend on instantly-made evaluations. The good news is that Ondorse also provides instant evaluations on businesses giving you all the tools you need in just one product. Get in touch with us.
