@@ -5,7 +5,7 @@ subtitle: >-
   write and deploy complex workflows without deploying engineering resources.
   With no-code, compliance officers can quickly adapt to changing FI regulations
   and changing risk appetite, but how does it work in practice ?
-date: '2021-11-03'
+date: '2021-11-24'
 excerpt: >-
   Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
   consuming undertaking. Even if your KYC/KYB analysts are highly capable and
