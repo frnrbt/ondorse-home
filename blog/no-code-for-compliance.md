@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why the approach to UBO identification needs to be disrupted
+      value: Why no code is a game changer for compliance
       keyName: property
     - name: 'og:description'
       value: >-
