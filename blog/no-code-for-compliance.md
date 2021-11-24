@@ -15,8 +15,8 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: Why no code is a game changer for compliance
   description: >-
-    Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
-    consuming undertaking, that can, however, be improved.
+    With no-code, compliance officers can quickly adapt to changing FI
+    regulations and changing risk appetite, but how does it work in practice ?
   extra:
     - name: 'og:type'
       value: article
