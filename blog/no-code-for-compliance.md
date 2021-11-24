@@ -7,8 +7,6 @@ subtitle: >-
   and changing risk appetite, but how does it work in practice ?
 date: '2021-11-23'
 excerpt: >-
-  No-code platforms give non-technical compliance teams the ability to easily
-  write and deploy complex workflows without deploying engineering resources.
   With no-code, compliance officers can quickly adapt to changing FI regulations
   and changing risk appetite, but how does it work in practice ?
 image_alt: gun-financing
