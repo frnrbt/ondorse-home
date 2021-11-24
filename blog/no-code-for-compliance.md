@@ -40,8 +40,9 @@ seo:
       value: Why the approach to UBO identification needs to be disrupted
     - name: 'twitter:description'
       value: >-
-        Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
-        consuming undertaking, that can, however, be improved.
+        With no-code, compliance officers can quickly adapt to changing FI
+        regulations and changing risk appetite, but how does it work in practice
+        ?
     - name: 'twitter:image'
       value: images/istockphoto-1291181797-170667a.jpeg
       relativeUrl: true
