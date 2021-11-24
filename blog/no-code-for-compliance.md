@@ -26,8 +26,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
-        consuming undertaking, that can, however, be improved.
+        With no-code, compliance officers can quickly adapt to changing FI
+        regulations and changing risk appetite, but how does it work in practice
+        ?
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-1291181797-170667a.jpeg
