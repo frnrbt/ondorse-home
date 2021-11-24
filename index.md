@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
-      End-to-end business verification solution for customer onboarding and
+      Customizable End-to-end business verification solution for customer onboarding and
       monitoring automation
     content: >
       Financial institutions and marketplaces use Ondorse to reduce onboarding
