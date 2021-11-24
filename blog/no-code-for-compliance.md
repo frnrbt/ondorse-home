@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why the approach to UBO identification needs to be disrupted
+      value: Why no code is a game changer for compliance
     - name: 'twitter:description'
       value: >-
         With no-code, compliance officers can quickly adapt to changing FI
