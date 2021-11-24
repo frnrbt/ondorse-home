@@ -13,7 +13,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Why the approach to UBO identification needs to be disrupted
+  title: Why no code is a game changer for compliance
   description: >-
     Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
     consuming undertaking, that can, however, be improved.
