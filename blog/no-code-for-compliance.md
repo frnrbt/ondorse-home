@@ -31,7 +31,7 @@ seo:
         ?
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-1291181797-170667a.jpeg
+      value: images/istockphoto-1313467768-170667a.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
