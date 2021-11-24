@@ -7,9 +7,10 @@ subtitle: >-
   and changing risk appetite, but how does it work in practice ?
 date: '2021-11-23'
 excerpt: >-
-  Identifying Ultimate Beneficial Owner (“UBOs”) is an onerous and time
-  consuming undertaking. Even if your KYC/KYB analysts are highly capable and
-  well-trained, FIs spend precious resources just to remain compliant.
+  No-code platforms give non-technical compliance teams the ability to easily
+  write and deploy complex workflows without deploying engineering resources.
+  With no-code, compliance officers can quickly adapt to changing FI regulations
+  and changing risk appetite, but how does it work in practice ?
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
