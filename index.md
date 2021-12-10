@@ -25,7 +25,7 @@ sections:
   - section_id: features
     background: white
     features:
-      - title: One API for customizable end-to-end business verification
+      - title: One platform for customizable end-to-end business verification
         content: >
           Ondorse is a smart platform aggregating multiple sources of
           information and services in one product designed to streamline your
