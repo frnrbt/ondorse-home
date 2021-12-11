@@ -32,11 +32,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
-We experienced and witnessed first-hand how difficult it was for regulated institutions to keep pace with the latest regulatory requirements and fragmented compliance service provider landscape. Integrating this dynamic ecosystem into legacy workflows and generating actionable insights proved particularly challenging.
-
+We experienced and witnessed first-hand how difficult it was for regulated institutions to keep pace with the latest regulatory requirements and the fragmented compliance service provider landscape. Integrating this dynamic ecosystem into legacy workflows and generating actionable insights proved particularly challenging.
 
 In fact, we couldn’t find a comprehensive solution that didn’t involve a lot of trial and error and a high level of manual configuration and complex implementation.
 
 ## So, leveraging on our financial institution regulation and tech expertises, we decided to build it.
 
-Ondorse is a smart platform, unifying third party data and compliance APIs into a single interface. Combined with our customizable workflows designed for B2B onboarding and monitoring, we extend the capabilities of your existing systems without the pain of traditional integration projects.
+Ondorse is a smart platform, unifying third party data and compliance APIs into a single platform. Combined with our customizable workflows designed for B2B onboarding and monitoring, we extend the capabilities of your existing systems without the pain of traditional integration projects.
