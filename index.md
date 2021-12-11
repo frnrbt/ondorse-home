@@ -35,7 +35,7 @@ sections:
         actions: []
         type: feature_item
         image: images/internet-undraw.svg
-      - title: Holistic evaluations
+      - title: Customize onboarding workflows
         content: >
           Departing from traditional linear and time-consuming business reviews,
           Ondorse simultaneously runs multiple checks on business users to
