@@ -5,7 +5,8 @@ sections:
     type: section_hero
     title: Building the missing compliance infrastructure for B2B relationships
     subtitle: >-
-      Customizable end-to-end business verification solution for compliance automation
+      Customizable end-to-end business verification solution for compliance
+      automation
     content: >
       Financial institutions and marketplaces use Ondorse to reduce onboarding
       delays and boost customer acquisition while staying compliant with their
@@ -29,7 +30,7 @@ sections:
         content: >
           Ondorse is a smart platform aggregating multiple sources of
           information and services in one product designed to streamline your
-          compliance workflows.
+          onboarding and monitoring workflows.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
