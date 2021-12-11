@@ -97,7 +97,9 @@ sections:
     type: section_faq
 seo:
   title: Ondorse
-  description: The customizable compliance command
+  description: >-
+    The customizable compliance command center for customer onboarding and
+    monitoring automation.
   extra:
     - name: 'og:type'
       value: website
