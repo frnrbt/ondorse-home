@@ -97,9 +97,7 @@ sections:
     type: section_faq
 seo:
   title: Ondorse
-  description: >-
-    Real-time company insights empowering financial institutions to verify and
-    monitor their business customers.
+  description: The customizable compliance command
   extra:
     - name: 'og:type'
       value: website
