@@ -33,6 +33,8 @@ seo:
 layout: page
 ---
 We experienced and witnessed first-hand how difficult it was for regulated institutions to keep pace with the latest regulatory requirements and fragmented compliance service provider landscape. Integrating this dynamic ecosystem into legacy workflows and generating actionable insights proved particularly challenging.
+
+
 In fact, we couldn’t find a comprehensive solution that didn’t involve a lot of trial and error and a high level of manual configuration and complex implementation.
 
 ## So, leveraging on our financial institution regulation and tech expertises, we decided to build it.
