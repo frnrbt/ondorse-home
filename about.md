@@ -40,16 +40,6 @@ At Ondorse, we believe that you should not fetch company information, but that i
 
 At Ondorse, we believe that verified company information is essential for effective sanctions or PEP screening.
 
-At Ondorse, we believe that KYC should not be a snapshot, but a moving picture, where company information is put in a timeline.
+At Ondorse, we believe that KYB should not be a snapshot, but a moving picture, where company information is put in a timeline.
 
 At Ondorse, we believe that the future of compliance lies with skilled staff that efficiently use smart tools.
-
-**We provide first class end-to-end KYB service:**
-
-*   We use data directly sourced from government registers and refreshed every day
-
-*   We link national registers to provide a holistic view of all connections associated with a business
-
-*   We detect missing or incorrect data
-
-*   We review some information manually to make sure we provide you with unparalleled KYB quality, especially on company ownership
