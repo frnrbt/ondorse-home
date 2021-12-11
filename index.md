@@ -109,8 +109,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Real-time company insights empowering financial institutions to verify
-        and monitor their business customers.
+        The customizable compliance command center for customer onboarding and
+        monitoring automation.
       keyName: property
     - name: 'og:image'
       value: images/article-nasa-unsplash.jpeg
