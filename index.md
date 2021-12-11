@@ -46,8 +46,8 @@ sections:
         image: images/goals-undraw.svg
       - title: Monitor your users
         content: >
-          Customize threshold-based rules to receive alerts and make informed
-          decisions on your customers after onboarding.
+          Receive alerts and make informed decisions on your customers after
+          onboarding with Ondorse's customizable threshold-based rules.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
