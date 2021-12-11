@@ -46,9 +46,8 @@ sections:
         image: images/goals-undraw.svg
       - title: Real-time monitoring on your users
         content: >
-          Because business is a changing world, Ondorse will automatically
-          notify you about changes to your customer base, enabling you to make
-          informed decisions during and after onboarding.
+          Customize threshold-based rules to receive alerts and make informed
+          decisions on your customers after onboarding.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
