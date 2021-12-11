@@ -37,10 +37,9 @@ sections:
         image: images/internet-undraw.svg
       - title: Customize onboarding workflows
         content: >
-          Departing from traditional linear and time-consuming business reviews,
-          Ondorse simultaneously runs multiple checks on business users to
-          reduce noisy alerts and verify customers more efficiently and more
-          quickly.
+          With Ondorse, you can simultaneously run multiple checks on business
+          users to reduce manual reviews and verify customers more efficiently
+          and more quickly.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
