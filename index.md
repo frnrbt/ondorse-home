@@ -44,7 +44,7 @@ sections:
         actions: []
         type: feature_item
         image: images/goals-undraw.svg
-      - title: Real-time updates on your users
+      - title: Real-time monitoring on your users
         content: >
           Because business is a changing world, Ondorse will automatically
           notify you about changes to your customer base, enabling you to make
