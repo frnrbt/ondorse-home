@@ -44,7 +44,7 @@ sections:
         actions: []
         type: feature_item
         image: images/goals-undraw.svg
-      - title: Real-time monitoring on your users
+      - title: Monitor your users
         content: >
           Customize threshold-based rules to receive alerts and make informed
           decisions on your customers after onboarding.
