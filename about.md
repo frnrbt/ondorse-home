@@ -32,14 +32,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-At Ondorse, we believe that compliance teams should stop spending time on repetitive and manual verification tasks when they can be automated.
+Building and advising financial institutions, we experienced and witnessed first-hand how difficult it was to keep pace with the latest regulatory requirements and fragmented compliance service provider landscape. Integrating this dynamic ecosystem into legacy workflows and generating actionable insights proved particularly challenging.
+In fact, we couldn’t find a comprehensive solution that didn’t involve a lot of trial and error and a high level of manual configuration and complex implementation.
 
-At Ondorse, we believe that too much information does not empower anyone, on the contrary, it is overwhelming and time consuming.
 
-At Ondorse, we believe that you should not fetch company information, but that it should be pushed to you.
+#### So we decided to build it.
 
-At Ondorse, we believe that verified company information is essential for effective sanctions or PEP screening.
 
-At Ondorse, we believe that KYB should not be a snapshot, but a moving picture, where company information is put in a timeline.
-
-At Ondorse, we believe that the future of compliance lies with skilled staff that efficiently use smart tools.
+Ondorse is a smart platform, unifying third party data and compliance APIs into a single interface. Combined with our customizable workflows designed for B2B onboarding and monitoring, we extend the capabilities of your existing systems without the pain of traditional integration projects.
