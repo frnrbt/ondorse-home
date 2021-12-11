@@ -28,7 +28,7 @@ sections:
     features:
       - title: One platform for end-to-end business verification
         content: >
-          Ondorse is a smart platform orchestrating compliance services and
+          Ondorse is a smart platform orchestrating compliance services,
           empowering businesses to streamline their compliance workflows.
         image_alt: lorem-ipsum
         actions: []
