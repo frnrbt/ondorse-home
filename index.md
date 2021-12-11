@@ -37,9 +37,9 @@ sections:
         image: images/internet-undraw.svg
       - title: Customize onboarding workflows
         content: >
-          With Ondorse, you can simultaneously run multiple checks on business
-          users to reduce manual reviews and verify customers more efficiently
-          and more quickly.
+          With Ondorse, you can tailor verification processes depending on the
+          risk profile of your new users to reduce manual reviews and verify
+          customers more efficiently and more quickly.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
