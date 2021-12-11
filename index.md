@@ -122,8 +122,8 @@ seo:
       value: Ondorse
     - name: 'twitter:description'
       value: >-
-        Real-time company insights empowering financial institutions to verify
-        and monitor their business customers.
+        The customizable compliance command center for customer onboarding and
+        monitoring automation.
     - name: 'twitter:image'
       value: images/article-nasa-unsplash.jpeg
       relativeUrl: true
