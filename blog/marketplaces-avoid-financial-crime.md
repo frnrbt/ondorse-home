@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why no code is a game changer for compliance
+      value: How marketplaces can avoid financial crime
       keyName: property
     - name: 'og:description'
       value: >-
