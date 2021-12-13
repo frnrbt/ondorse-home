@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why no code is a game changer for compliance
+      value: How marketplaces can avoid financial crime
     - name: 'twitter:description'
       value: >-
         With no-code, compliance officers can quickly adapt to changing FI
