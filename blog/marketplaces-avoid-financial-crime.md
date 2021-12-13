@@ -14,8 +14,8 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: How marketplaces can avoid financial crime
   description: >-
-    With no-code, compliance officers can quickly adapt to changing FI
-    regulations and changing risk appetite, but how does it work in practice ?
+    Marketplaces can find themselves particularly at risk of financial crime.
+    What specifically can happen on a marketplace – and how to avoid it ?
   extra:
     - name: 'og:type'
       value: article
