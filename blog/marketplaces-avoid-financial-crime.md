@@ -43,7 +43,7 @@ seo:
         regulations and changing risk appetite, but how does it work in practice
         ?
     - name: 'twitter:image'
-      value: images/istockphoto-1313467768-170667a.jpeg
+      value: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
