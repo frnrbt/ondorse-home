@@ -1,10 +1,10 @@
 ---
 title: How marketplaces can avoid financial crime
 subtitle: >-
-  No-code platforms give non-technical compliance teams the ability to easily
-  write and deploy complex workflows without deploying engineering resources.
-  With no-code, compliance officers can quickly adapt to changing FI regulations
-  and changing risk appetite, but how does it work in practice ?
+  Irrespective of the underlying products sold on their platforms (ranging from
+  screwdrivers to NFTs), marketplaces can find themselves particularly at risk
+  of financial crime. What specifically can happen on a marketplace – and how to
+  avoid it ?
 date: '2021-11-23'
 excerpt: >-
   With no-code, compliance officers can quickly adapt to changing FI regulations
