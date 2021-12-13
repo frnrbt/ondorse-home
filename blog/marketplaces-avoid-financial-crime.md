@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Why no code is a game changer for compliance
+  title: How marketplaces can avoid financial crime
   description: >-
     With no-code, compliance officers can quickly adapt to changing FI
     regulations and changing risk appetite, but how does it work in practice ?
