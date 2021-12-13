@@ -5,7 +5,7 @@ subtitle: >-
   screwdrivers to NFTs), marketplaces can find themselves particularly at risk
   of financial crime. What specifically can happen on a marketplace – and how to
   avoid it ?
-date: '2021-11-23'
+date: '2021-12-13'
 excerpt: >-
   With no-code, compliance officers can quickly adapt to changing FI regulations
   and changing risk appetite, but how does it work in practice ?
