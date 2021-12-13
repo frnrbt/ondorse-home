@@ -50,24 +50,17 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-1313467768-170667a.jpeg
 image: images/Sans titre.png
 ---
-##### The Paradigm Shift 
+##### The Wide Range of Challenges
 
-Traditionally, FIs have been building in-house engineering teams focused on developing internal tools. The benefit of in-house engineering is that FIs can create a highly tailored solution for their operations team, ensuring that the product actually meets the needs of these internal teams. 
+The very nature of the marketplace model means that they retain far less control over the sales process, as they are not directly selling their own goods or services.  In other words, as marketplaces are less involved in each individual sale, they must be even more vigilant when it comes to financial crime. 
 
-But because engineering and product teams are focused on the core product that the company is building, the compliance function is often left in the corner and compliance officers lack access to tech teams.
+Because challenges faced by marketplaces range widely from money laundering to VAT fraud and buyer-seller collusion, marketplaces must put in place checks on their sellers during both the onboarding process and throughout the customer relationship.
 
-No code is a dramatically different philosophy. Non-technical persons can easily use no-code platforms that have pre-built drag-and-drop elements for rapidly creating and deploying verification processes without the need for a software engineer or significant technical resources. Elements of no-code platforms are usually pre-coded for reuse and scale, making such platforms actually scalable and robust in the long term. In other words, no-code empowers compliance operators to customize their workflows to fit the unique needs of their business, without being reliant on tech teams.
+##### Smart Due Diligence 
 
-##### The Extraordinary Benefits of No-Code for Compliance 
+At Ondorse, we believe that marketplaces should perform a stronger level of due diligence on sellers as they begin to receive higher and higher values. Across all areas of financial crime, this enables marketplaces to match the level of due diligence they provide to the level of risk associated to a seller—keeping their platform safe without negatively impacting other users’ experience.
 
-While finance is shifting towards real-time data and processes, issues related to identity verification have been holding back the fintech space, particularly in the B2B field.  Ondorse’s no-code decisioning platform will change this game, forever: 
 
-*   First, with no-code tools, a compliance officer can easily customize identity verification rules and checks to his/her needs by simply moving logic blocks (drag-and-drop elements representing rules and checks) across a visually-appealing board which displays all the compliance workflows. Compliance operators can now modify the roadmap, while saving on engineering resources. 
+The key aspect here is that this approach to due diligence can be configured to reflect what is relevant to each marketplace. That’s where Ondorse’s compliance command platform comes into play. Our customizable platform enables compliance and onboarding teams to edit workflows and fine tune customer and transaction monitoring depending on various factors. 
 
-<!---->
-
-*   Second, thanks to no-code tools, a compliance officer can quickly adapt to always changing regulations and risk appetite. The regulatory landscape is quickly changing, and with no-code tools in their hands, FIs can be more agile and always stay on top of these regulations while always selecting the customers that are right for them. 
-
-<!---->
-
-*   Third, no-code tools open the door to dynamic onboarding funnels where the user interface will depend on instantly-made evaluations. The good news is that Ondorse also provides instant evaluations on businesses giving you all the tools you need in just one product. Get in touch with us.
+Ultimately, offering a more accurate and thorough level of financial crime prevention than has ever before been possible may be a marketplace’s best asset in differentiating itself from competitors.
