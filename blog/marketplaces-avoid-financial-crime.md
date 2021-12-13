@@ -7,8 +7,8 @@ subtitle: >-
   avoid it ?
 date: '2021-12-13'
 excerpt: >-
-  With no-code, compliance officers can quickly adapt to changing FI regulations
-  and changing risk appetite, but how does it work in practice ?
+  Marketplaces can find themselves particularly at risk of financial crime. What
+  specifically can happen on a marketplace – and how to avoid it ?
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
