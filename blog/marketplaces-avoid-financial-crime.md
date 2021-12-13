@@ -48,7 +48,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-1313467768-170667a.jpeg
-image: images/roberto-cortese-ejhjSZKTeeg-unsplash (1).jpg
+image: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
 ---
 ##### The Wide Range of Challenges
 
