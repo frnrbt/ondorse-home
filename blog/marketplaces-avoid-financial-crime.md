@@ -48,7 +48,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-1313467768-170667a.jpeg
-image: images/istockphoto-1313467768-170667a.jpeg
+image: images/Sans titre.png
 ---
 ##### The Paradigm Shift 
 
