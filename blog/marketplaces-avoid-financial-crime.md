@@ -30,7 +30,7 @@ seo:
         ?
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-1313467768-170667a.jpeg
+      value: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
