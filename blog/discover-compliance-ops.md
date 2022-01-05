@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How marketplaces can avoid financial crime
+      value: 'Bridging the gap between tech and compliance: discover compliance-ops'
     - name: 'twitter:description'
       value: >-
         Marketplaces can find themselves particularly at risk of financial
