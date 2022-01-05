@@ -49,7 +49,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/photo-1586892477838-2b96e85e0f96.jpeg
-image: images/photo-1586892477838-2b96e85e0f96.jpeg
+image: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
 ---
 ##### Changes in the Business and the Regulatory Landscape Make it Hard for Institutions to Keep up
 
