@@ -59,10 +59,10 @@ This is especially true when FIs are opening to new countries to unlock borderle
 
 It is time that compliance teams stop waiting for engineers to modify systems and have better control over their risk and compliance operations.
 
-##### With the Right Tool, Compliance-ops can now Design and Implement Appropriate Risk-Based Controls
+##### With the Right Tool, Compliance-ops can Implement Appropriate Risk-Based Controls
 
 Compliance-ops are responsible for making control changes designed to mitigate risks associated with AML, CFT, fraud. They are also responsible for ensuring regulatory compliance, while continuing to improve operational efficiency.
 
 Ondorse is a readily-available and fully customizable platform designed for compliance-ops to enhance their agility. Ondorse’s platform empowers compliance-ops to make control changes and operational enhancements to automate onboarding and monitoring decisioning.
 
-At Ondorse, we are convinced that as compliance-ops teams evolve, they will become the heart of onboarding success for every financial institution. 
+At Ondorse, we are convinced that as compliance-ops teams evolve, they will become the heart of onboarding success for every financial institution.
