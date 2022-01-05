@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the gap between tech and compliance: discover compliance ops'
+title: 'Bridging the gap between tech and compliance: discover compliance-ops'
 subtitle: >-
   Irrespective of the underlying products sold on their platforms (ranging from
   screwdrivers to NFTs), marketplaces can find themselves particularly at risk
