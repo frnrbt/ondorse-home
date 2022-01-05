@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the gap between tech and compliance: discover compliance-ops'
+title: How marketplaces can avoid financial crime
 subtitle: >-
   Financial institutions of all sizes and sorts are rising to the challenge and
   converging onboarding teams and compliance experts in order to create agile
