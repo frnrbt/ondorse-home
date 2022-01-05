@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: 'Bridging the gap between tech and compliance: discover compliance-ops'
+  title: How marketplaces can avoid financial crime
   description: >-
     Financial institutions of all sizes and sorts are rising to the challenge
     and converging onboarding teams and compliance experts in order to create
