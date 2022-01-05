@@ -26,7 +26,7 @@ seo:
     - name: 'og:description'
       value: >-
         Financial institutions of all sizes and sorts are rising to the
-        challenge and converging onboarding teams and compliance experts to
+        challenge of converging onboarding teams and compliance experts to
         create agile hybrid teams. Enter ‘compliance-ops’.
       keyName: property
     - name: 'og:image'
