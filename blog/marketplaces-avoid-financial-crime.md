@@ -1,5 +1,5 @@
 ---
-title: How marketplaces can avoid financial crime
+title: Bridging the
 subtitle: >-
   Irrespective of the underlying products sold on their platforms (ranging from
   screwdrivers to NFTs), marketplaces can find themselves particularly at risk
