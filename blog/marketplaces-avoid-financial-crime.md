@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: How marketplaces can avoid financial crime
+  title: 'Bridging the gap between tech and compliance: discover compliance-ops'
   description: >-
     Marketplaces can find themselves particularly at risk of financial crime.
     What specifically can happen on a marketplace – and how to avoid it ?
