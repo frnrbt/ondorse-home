@@ -59,7 +59,7 @@ This is especially true when FIs are opening to new countries to unlock borderle
 
 It is time that compliance teams stop waiting for engineers to modify systems and have better control over their risk and compliance operations.
 
-##### With the Right Tool, Compliance-ops Can Implement Appropriate Risk-Based Controls
+##### Compliance-ops Can Now Implement Appropriate Risk-Based Controls
 
 Compliance-ops are responsible for making control changes designed to mitigate risks associated with AML, CFT, fraud. They are also responsible for ensuring regulatory compliance, while continuing to improve operational efficiency. All this requires the ability to edit easily decisioning workflows.
 
