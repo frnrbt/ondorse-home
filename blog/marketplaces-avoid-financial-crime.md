@@ -49,17 +49,18 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
 image: images/photo-1586892477838-2b96e85e0f96.jpeg
 ---
-##### The Wide Range of Challenges
+##### Changes in the Business and the Regulatory Landscape Make it Hard for Institutions to Keep up
 
-The very nature of the marketplace model means that they retain far less control over the sales process, as they are not directly selling their own goods or services.  In other words, as marketplaces are less involved in each individual sale, they must be even more vigilant when it comes to financial crime. 
+Traditionally, there is a huge gap between tech teams that are heavily equipped to shoot down any operational challenge but usually very busy, on the one hand, and the compliance teams that need to adapt quickly to changing regulatory requirements and evolving risk-based controls.
 
-Because challenges faced by marketplaces range widely from money laundering to VAT fraud and buyer-seller collusion, marketplaces must put in place checks on their sellers during both the onboarding process and throughout the customer relationship.
+This is especially true when FIs are opening to new countries to unlock borderless growth. As such, varying regulatory requirements become harder and harder to manage.
 
-##### Smart Due Diligence 
+It is time that compliance teams stop waiting for engineers to modify systems and have better control over their risk and compliance operations.
 
-At Ondorse, we believe that marketplaces should perform a stronger level of due diligence on sellers as they begin to receive higher and higher values. Across all areas of financial crime, this enables marketplaces to match the level of due diligence they provide to the level of risk associated to a seller—keeping their platform safe without negatively impacting other users’ experience.
+##### With the Right Tool, Compliance-ops can now Design and Implement Appropriate Risk-Based Controls
 
+Compliance-ops are responsible for making control changes designed to mitigate risks associated with AML, CFT, fraud. They are also responsible for ensuring regulatory compliance, while continuing to improve operational efficiency.
 
-The key aspect here is that this approach to due diligence can be configured to reflect what is relevant to each marketplace. That’s where Ondorse’s compliance command platform comes into play. Our customizable platform enables compliance and onboarding teams to edit workflows and fine tune customer and transaction monitoring depending on various factors. 
+Ondorse is a readily-available and fully customizable platform designed for compliance-ops to enhance their agility. Ondorse’s platform empowers compliance-ops to make control changes and operational enhancements to automate onboarding and monitoring decisioning.
 
-Ultimately, offering a more accurate and thorough level of financial crime prevention than has ever before been possible may be a marketplace’s best asset in differentiating itself from competitors.
+At Ondorse, we are convinced that as compliance-ops teams evolve, they will become the heart of onboarding success for every financial institution. 
