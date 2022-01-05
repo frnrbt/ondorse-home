@@ -14,8 +14,9 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'Bridging the gap between tech and compliance: discover compliance-ops'
   description: >-
-    Marketplaces can find themselves particularly at risk of financial crime.
-    What specifically can happen on a marketplace – and how to avoid it ?
+    Financial institutions of all sizes and sorts are rising to the challenge
+    and converging onboarding teams and compliance experts in order to create
+    agile hybrid teams. Enter ‘compliance-ops’.
   extra:
     - name: 'og:type'
       value: article
