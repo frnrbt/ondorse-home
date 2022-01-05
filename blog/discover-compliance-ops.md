@@ -1,7 +1,7 @@
 ---
 title: 'Bridging the gap between tech and compliance: discover compliance-ops'
 subtitle: >-
-  Financial institutions of all sizes and sorts are rising to the challenge and
+  Financial institutions of all sizes and sorts are rising to the challenge of
   converging onboarding teams and compliance experts in order to create agile
   hybrid teams. Enter ‘compliance-ops’.
 date: '2022-01-05'
