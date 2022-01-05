@@ -26,9 +26,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Marketplaces can find themselves particularly at risk of financial
-        crime. What specifically can happen on a marketplace – and how to avoid
-        it ?
+        Financial institutions of all sizes and sorts are rising to the
+        challenge and converging onboarding teams and compliance experts to
+        create agile hybrid teams. Enter ‘compliance-ops’.
       keyName: property
     - name: 'og:image'
       value: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
