@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Bridging the gap between tech and compliance: discover compliance-ops'
+      value: How marketplaces can avoid financial crime
       keyName: property
     - name: 'og:description'
       value: >-
