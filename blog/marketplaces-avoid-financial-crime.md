@@ -14,9 +14,8 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: How marketplaces can avoid financial crime
   description: >-
-    Financial institutions of all sizes and sorts are rising to the challenge
-    and converging onboarding teams and compliance experts in order to create
-    agile hybrid teams. Enter ‘compliance-ops’.
+    Marketplaces can find themselves particularly at risk of financial crime.
+    What specifically can happen on a marketplace – and how to avoid it ?
   extra:
     - name: 'og:type'
       value: article
