@@ -4,7 +4,7 @@ subtitle: >-
   Financial institutions of all sizes and sorts are rising to the challenge and
   converging onboarding teams and compliance experts in order to create agile
   hybrid teams. Enter ‘compliance-ops’.
-date: '2022-01-13'
+date: '2022-01-05'
 excerpt: >-
   Marketplaces can find themselves particularly at risk of financial crime. What
   specifically can happen on a marketplace – and how to avoid it ?
