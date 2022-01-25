@@ -43,9 +43,9 @@ seo:
       value: How marketplaces can avoid financial crime
     - name: 'twitter:description'
       value: >-
-        Marketplaces can find themselves particularly at risk of financial
-        crime. What specifically can happen on a marketplace – and how to avoid
-        it ?
+        Discover what is special about it, how you and your customers can
+        benefit from it and how you can conduct a risk-based approach to
+        customer due diligence with Ondorse.
     - name: 'twitter:image'
       value: images/istockphoto-141954446-612x612.jpeg
       relativeUrl: true
