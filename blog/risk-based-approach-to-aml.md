@@ -24,7 +24,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: How marketplaces can avoid financial crime
+      value: 'Discover the benefits of adopting a risk-based approach '
       keyName: property
     - name: 'og:description'
       value: >-
