@@ -33,7 +33,7 @@ seo:
         it ?
       keyName: property
     - name: 'og:image'
-      value: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
+      value: images/istockphoto-141954446-612x612.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
