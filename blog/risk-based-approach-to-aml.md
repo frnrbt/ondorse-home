@@ -18,7 +18,8 @@ seo:
   title: 'Discover the benefits of adopting a risk-based approach '
   description: >-
     Discover what is special about it, how you and your customers can benefit
-    from it and how you can conduct a risk-based approach to CDD with Ondorse.
+    from it and how you can conduct a risk-based approach to customer due
+    diligence with Ondorse.
   extra:
     - name: 'og:type'
       value: article
