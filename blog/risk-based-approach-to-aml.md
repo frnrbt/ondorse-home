@@ -3,10 +3,11 @@ title: >-
   Customer Due Diligence: Discover the benefits of adopting a risk-based
   approach
 subtitle: >-
-  Irrespective of the underlying products sold on their platforms (ranging from
-  screwdrivers to NFTs), marketplaces can find themselves particularly at risk
-  of financial crime. What specifically can happen on a marketplace – and how to
-  avoid it ?
+  Because all customers are different, the verification processes implemented by
+  fintechs and marketplaces must be different from one customer to another. This
+  is what a risk-based approach to customer due diligence (“CDD”) means.
+  Discover what is special about it, how you and your customers can benefit from
+  it and how you can conduct a risk-based approach to CDD with Ondorse.
 date: '2021-12-13'
 excerpt: >-
   Marketplaces can find themselves particularly at risk of financial crime. What
