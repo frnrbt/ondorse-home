@@ -10,8 +10,8 @@ subtitle: >-
   how you can implement a risk-based approach with Ondorse.
 date: '2022-01-25'
 excerpt: >-
-  Marketplaces can find themselves particularly at risk of financial crime. What
-  specifically can happen on a marketplace – and how to avoid it ?
+  Discover what is special about it, how you and your customers can benefit from
+  it and how you can conduct a risk-based approach to CDD with Ondorse.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
