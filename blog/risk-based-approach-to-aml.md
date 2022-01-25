@@ -8,7 +8,7 @@ subtitle: >-
   This is what a risk-based approach to customer due diligence (“CDD”) means.
   Discover what is special about it, how you and your customers can benefit from
   it and how you can implement a risk-based approach with Ondorse.
-date: '2021-12-13'
+date: '2022-12-13'
 excerpt: >-
   Marketplaces can find themselves particularly at risk of financial crime. What
   specifically can happen on a marketplace – and how to avoid it ?
