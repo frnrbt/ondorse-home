@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How marketplaces can avoid financial crime
+      value: 'Discover the benefits of adopting a risk-based approach '
     - name: 'twitter:description'
       value: >-
         Discover what is special about it, how you and your customers can
