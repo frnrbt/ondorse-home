@@ -75,11 +75,11 @@ As a consequence of this categorization, customers will fall into three categori
 
 It is important that fintechs and marketplaces actually implement a risk-based approach to CDD for three reasons.
 
-First, to onboard quicker customers subject to simplified and standard CDD. Why not take advantage of the simplified and standard CDD to conduct less checks and onboard customers more quickly ? Based on our experience, 60% of businesses can be onboarded in less than 15 minutes. 
+1.  To onboard quicker customers subject to simplified and standard CDD. Why not take advantage of the simplified and standard CDD to conduct less checks and onboard customers more quickly ? Based on our experience, 60% of businesses can be onboarded in less than 15 minutes. 
 
-Second, to minimize risk exposure. Ongoing monitoring is important because customers’ risk profiles can change over time. Fintechs and marketplaces must be able to react to new levels of risk exposure to ensure emerging money laundering threats are identified as quickly as possible.
+2.  To minimize risk exposure. Ongoing monitoring is important because customers’ risk profiles can change over time. Fintechs and marketplaces must be able to react to new levels of risk exposure to ensure emerging money laundering threats are identified as quickly as possible.
 
-Third, to meet regulatory requirements. Designing and implementing a risk-based approach to CDD is a regulatory requirement. Because the implementation of an effective risk-based approach to CDD can be a challenge, Ondorse’s platform is here to help you. 
+3.  To meet regulatory requirements. Designing and implementing a risk-based approach to CDD is a regulatory requirement. Because the implementation of an effective risk-based approach to CDD can be a challenge, Ondorse’s platform is here to help you.
 
 ##### How do I Conduct a Risk-Based Approach?
 
