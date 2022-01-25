@@ -46,7 +46,7 @@ seo:
         crime. What specifically can happen on a marketplace – and how to avoid
         it ?
     - name: 'twitter:image'
-      value: images/roberto-cortese-ejhjSZKTeeg-unsplash (1) 2.jpg
+      value: images/istockphoto-141954446-612x612.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
