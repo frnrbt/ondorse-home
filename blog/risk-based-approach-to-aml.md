@@ -17,8 +17,8 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'Discover the benefits of adopting a risk-based approach '
   description: >-
-    Marketplaces can find themselves particularly at risk of financial crime.
-    What specifically can happen on a marketplace – and how to avoid it ?
+    Discover what is special about it, how you and your customers can benefit
+    from it and how you can conduct a risk-based approach to CDD with Ondorse.
   extra:
     - name: 'og:type'
       value: article
