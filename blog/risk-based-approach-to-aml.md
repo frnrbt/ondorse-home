@@ -1,6 +1,6 @@
 ---
 title: >-
-  Customer due diligence: Discover the benefits of adopting a risk-based
+  Customer due diligence: discover the benefits of adopting a risk-based
   approach
 subtitle: >-
   Because all customers are different, the verification processes put in place
