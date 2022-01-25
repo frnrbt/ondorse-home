@@ -1,5 +1,7 @@
 ---
-title: How marketplaces can avoid financial crime
+title: >-
+  Customer Due Diligence: Discover the benefits of adopting a risk-based
+  approach
 subtitle: >-
   Irrespective of the underlying products sold on their platforms (ranging from
   screwdrivers to NFTs), marketplaces can find themselves particularly at risk
