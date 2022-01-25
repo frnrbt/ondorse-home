@@ -7,7 +7,7 @@ subtitle: >-
   fintechs and marketplaces must be different from one customer to another. This
   is what a risk-based approach to customer due diligence (“CDD”) means.
   Discover what is special about it, how you and your customers can benefit from
-  it and how you can conduct a risk-based approach to CDD with Ondorse.
+  it and how you can implement a risk-based approach with Ondorse.
 date: '2021-12-13'
 excerpt: >-
   Marketplaces can find themselves particularly at risk of financial crime. What
