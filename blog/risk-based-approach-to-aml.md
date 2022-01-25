@@ -15,7 +15,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: How marketplaces can avoid financial crime
+  title: 'Discover the benefits of adopting a risk-based approach '
   description: >-
     Marketplaces can find themselves particularly at risk of financial crime.
     What specifically can happen on a marketplace – and how to avoid it ?
