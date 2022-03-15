@@ -8,7 +8,7 @@ excerpt: >-
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
-  title: 'Discover the benefits of adopting a risk-based approach '
+  title: 'Build vs. Buy: which is right for your business ?'
   description: >-
     Discover what is special about it, how you and your customers can benefit
     from it and how you can conduct a risk-based approach to customer due
