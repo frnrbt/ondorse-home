@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Discover the benefits of adopting a risk-based approach '
+      value: 'Build vs. Buy: which is right for your business ?'
       keyName: property
     - name: 'og:description'
       value: >-
