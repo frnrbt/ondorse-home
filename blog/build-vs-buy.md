@@ -37,7 +37,7 @@ seo:
         Here, we will cover the important questions to consider in making the
         decision for your organization.
     - name: 'twitter:image'
-      value: images/istockphoto-141954446-612x612.jpeg
+      value: images/istockphoto-1308630330-612x612-349baf0b.jpeg
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
