@@ -47,42 +47,34 @@ author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-141954446-612x612.jpeg
 image: images/istockphoto-1308630330-612x612.jpeg
 ---
-##### What is Special About a Risk-Based Approach to CDD ?
+##### Why build your own identity verification solution ?
 
-The money-laundering risks that can be posed by a publicly-listed company and a recently incorporated company operating in a country under increased monitoring do vary. Because fintechs and marketplaces face an expanding spectrum of money laundering threats, and modern financial criminals have a range of tools at their disposal to avoid countermeasures put in place to stop them, regulated entities must be able to respond to threats on a contextual basis to balance efficiency and cost needs with compliance obligations. The most effective way to achieve that objective is to take a risk-based approach, meaning an AML compliance program tailored to the individual levels of risk exposure that each customer presents.
+Building a custom software solution may make sense if your organization needs basic functionality and/or is comfortable managing more risk.
 
-When introduced in 2012 by the FATF, the aim of risk-based approach was to create an environment where measures to prevent or mitigate money laundering and financing threats are commensurate with the risks identified.
+While it is always beneficial to use more than one data source, if your organization’s specific needs only require connecting to one or two data sources, you may be able to build a process fairly easily. 
 
-Risk-based approach is a more flexible and rational approach to KYC/AML, addressing the actual risks to which the application of AML controls was exposed, rather than simply ticking boxes hoping to satisfy the regulator.
+This strategy or approach most closely aligns with companies who are not focused on increasing their digital offerings or improving their conversion rate, but rather rely more heavily on in-person communication and account openings. 
 
-##### Why is a Risk-Based Approach to CDD Important ?
+Furthermore, with your own process, there is the potential for an unplanned break or pieces not functioning how you intended. 
 
-In practice, this means that customers may be classified individually by their risk exposure – based on their countries or geographic areas, shareholding structure, date of incorporation, business activity as well as the products and delivery channels. 
+This approach may make sense if your company employs seasoned experts and has the ability to expand engineering resources proportionately.
 
-As a consequence of this categorization, customers will fall into three categories of customers:
+##### Why buy an identity verification solution ?
 
-*   ‘Low risk customers’ are subject to simplified customer due diligence
+Buying a software solution may make sense if your organization wants access to advanced technology and more transparency for risk mitigation while saving time and money for core projects.
 
-*   ‘High risk customers’ are subject to enhanced customer due diligence 
+Whether it’s a higher volume of applicants or a need to support a growing number of third party data provider integrations, as your business grows more complexities will arise in your identity verification process. 
 
-*   All other customers are subject to standard customer due diligence
+If your organization is focused on a digital strategy you may already understand how important it is to have technology that will not only keep up, but also help you accelerate. 
 
-It is important that fintechs and marketplaces actually implement a risk-based approach to CDD for three reasons.
+While your company may have the resources and employees to understand what’s required, they probably aren’t the ones who should build an in-house solution. In purchasing an identity verification software, you’re utilizing a product that is built and maintained to meet the legal requirements and provides transparency into how decisions are being made.
 
-1.  To onboard quicker customers subject to simplified and standard CDD. Why not take advantage of the simplified and standard CDD to conduct less checks and onboard customers more quickly ? Based on our experience, 60% of businesses can be onboarded in less than 15 minutes. 
+With a purchased software, your fraud and risk teams will be able to work within the platform without the help of engineers. Instead, your engineers will be able to focus on your core product offerings.
 
-2.  To minimize risk exposure. Ongoing monitoring is important because customers’ risk profiles can change over time. Fintechs and marketplaces must be able to react to new levels of risk exposure to ensure emerging money laundering threats are identified as quickly as possible.
+##### How to make the right decision ?
 
-3.  To meet regulatory requirements. Designing and implementing a risk-based approach to CDD is a regulatory requirement. Because the implementation of an effective risk-based approach to CDD can be a challenge, Ondorse’s platform is here to help you.
+Ultimately it all comes down to the business’s priorities: does it make sense for your business to spend the time and money and the initiative not only to build, but to continue to maintain, or are you better served by going to the market ?
 
-##### How do I Conduct a Risk-Based Approach?
+That’s where Ondorse comes into play: we reconcile the customizability of in-house engineering tools with off-the-shelf software. After the initial integration, you you will no longer need to pull in engineering resources to modify your workflows and rule-based decisions.‍
 
-Ondorse is a highly customizable platform where you can implement and automate your risk-based approach to customer onboarding and customer monitoring. But how does it work in practice ? 
-
-1.  With Ondorse, implement your risk-based approach by setting-up rules to your new and existing customer base.
-
-2.  Based on such rules, Ondorse will automatically tag your customer as a customer subject to standard, simplified or enhanced customer due diligence.
-
-3.  Based on the different types of customers, you can create differentiated verification workflows on the Ondorse platform that are tailored to your three categories of customers. 
-
-4.  Depending on the risk profile of your customers, as a fintech or a marketplace, you may not have to refresh the KYB of your users every year, it may only be every two or three years. That way, you can better allocate customer monitoring costs.
+To break this down into simpler terms, the main reason that companies build internally is that they have highly customizable needs (unique data variables, specific rules, specific workflows) which aren’t easy to customize from off-the-shelf vendors.
