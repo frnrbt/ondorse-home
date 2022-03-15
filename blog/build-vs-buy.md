@@ -1,11 +1,6 @@
 ---
 title: 'Build vs. Buy: which is right for your business ?'
-subtitle: >-
-  Because all customers are different, the verification processes put in place
-  by fintechs and marketplaces must be different from one customer to another.
-  This is what a risk-based approach to customer due diligence means. Discover
-  what is special about it, how you and your customers can benefit from it and
-  how you can implement a risk-based approach with Ondorse.
+subtitle: "The stakes are now especially high for financial institutions to meet identity verification regulations, that’s why most FIs care deeply about the type of process or solution they adopt to help them mitigate risk and manage their process. However, most FIs struggle with whether to build or buy this important piece of their tech stack.\_Here, we will cover the important questions to consider in making the decision for your organization."
 date: '2022-01-25'
 excerpt: >-
   Discover what is special about it, how you and your customers can benefit from
