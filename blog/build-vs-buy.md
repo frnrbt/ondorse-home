@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 author: _data/authors/aymeric-boelle.yaml
-thumb_image: images/istockphoto-141954446-612x612.jpeg
+thumb_image: images/istockphoto-1308630330-612x612-121d1ff0.jpeg
 image: images/istockphoto-1308630330-612x612.jpeg
 ---
 ##### Why build your own identity verification solution ?
