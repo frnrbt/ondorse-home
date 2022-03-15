@@ -72,4 +72,4 @@ With a purchased software, your fraud and risk teams will be able to work within
 
 Ultimately it all comes down to the business’s priorities: does it make sense for your business to spend the time and money and the initiative not only to build, but to continue to maintain, or are you better served by going to the market ?
 
-That’s where Ondorse comes into play: we reconcile the customizability of in-house engineering tools with off-the-shelf software. After the initial integration, you you will no longer need to pull in engineering resources to modify your workflows and rule-based decisions.‍
+That’s where Ondorse comes into play: we reconcile the customizability of in-house engineering tools with off-the-shelf software. After the initial integration, you will no longer need to pull in engineering resources to modify your workflows and rule-based decisions.‍
