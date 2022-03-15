@@ -48,7 +48,7 @@ image: images/istockphoto-1308630330-612x612.jpeg
 
 Building a custom software solution may make sense if your organization needs basic functionality and/or is comfortable managing more risk.
 
-While it is always beneficial to use more than one data source, if your organization’s specific needs only require connecting to one or two data sources, you may be able to build a process fairly easily. 
+While it is always beneficial to use more than one data source, if your organization’s specific needs only require connecting to one or two data sources, you may be able to build a verification process fairly easily. 
 
 This strategy or approach most closely aligns with companies who are not focused on increasing their digital offerings or improving their conversion rate, but rather rely more heavily on in-person communication and account openings. 
 
@@ -64,7 +64,7 @@ Whether it’s a higher volume of applicants or a need to support a growing numb
 
 If your organization is focused on a digital strategy you may already understand how important it is to have technology that will not only keep up, but also help you accelerate. 
 
-While your company may have the resources and employees to understand what’s required, they probably aren’t the ones who should build an in-house solution. In purchasing an identity verification software, you’re utilizing a product that is built and maintained to meet the legal requirements and provides transparency into how decisions are being made.
+While your company may have the resources and employees to understand what’s required, they probably aren’t the ones who should build an in-house solution. In purchasing an identity verification software, you’re utilizing a product that is built and maintained to meet your regulatory requirements and which provides transparency into how decisions are being made.
 
 With a purchased software, your fraud and risk teams will be able to work within the platform without the help of engineers. Instead, your engineers will be able to focus on your core product offerings.
 
@@ -73,5 +73,3 @@ With a purchased software, your fraud and risk teams will be able to work within
 Ultimately it all comes down to the business’s priorities: does it make sense for your business to spend the time and money and the initiative not only to build, but to continue to maintain, or are you better served by going to the market ?
 
 That’s where Ondorse comes into play: we reconcile the customizability of in-house engineering tools with off-the-shelf software. After the initial integration, you you will no longer need to pull in engineering resources to modify your workflows and rule-based decisions.‍
-
-To break this down into simpler terms, the main reason that companies build internally is that they have highly customizable needs (unique data variables, specific rules, specific workflows) which aren’t easy to customize from off-the-shelf vendors.
