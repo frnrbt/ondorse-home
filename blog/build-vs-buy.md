@@ -25,7 +25,7 @@ seo:
         decision for your organization.
       keyName: property
     - name: 'og:image'
-      value: images/istockphoto-141954446-612x612.jpeg
+      value: images/istockphoto-1308630330-612x612-349baf0b.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
