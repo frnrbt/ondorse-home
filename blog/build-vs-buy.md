@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Discover the benefits of adopting a risk-based approach '
+      value: 'Build vs. Buy: which is right for your business ?'
     - name: 'twitter:description'
       value: >-
         Here, we will cover the important questions to consider in making the
