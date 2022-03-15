@@ -4,7 +4,7 @@ subtitle: "The stakes are now especially high for financial institutions to meet
 date: '2022-02-25'
 excerpt: >-
   Here, we cover the important questions to consider in making the right
-  decision for your business.
+  decision to build or buy an identity verification solution.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
