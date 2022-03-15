@@ -3,8 +3,8 @@ title: 'Build vs. Buy: which is right for your business ?'
 subtitle: "The stakes are now especially high for financial institutions to meet identity verification regulations, that’s why most FIs care deeply about the type of process or solution they adopt to help them mitigate risk and manage their process. However, most FIs struggle with whether to build or buy this important piece of their tech stack.\_Here, we cover the important questions to consider in making the right decision for your business."
 date: '2022-02-25'
 excerpt: >-
-  Discover what is special about it, how you and your customers can benefit from
-  it and how you can implement a risk-based approach with Ondorse.
+  Here, we cover the important questions to consider in making the right
+  decision for your business.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
