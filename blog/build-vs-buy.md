@@ -1,7 +1,5 @@
 ---
-title: >-
-  Customer due diligence: discover the benefits of adopting a risk-based
-  approach
+title: 'Build vs. Buy: which is right for your business ?'
 subtitle: >-
   Because all customers are different, the verification processes put in place
   by fintechs and marketplaces must be different from one customer to another.
