@@ -45,7 +45,7 @@ seo:
 layout: post
 author: _data/authors/aymeric-boelle.yaml
 thumb_image: images/istockphoto-141954446-612x612.jpeg
-image: images/istockphoto-141954446-612x612.jpeg
+image: images/istockphoto-1308630330-612x612.jpeg
 ---
 ##### What is Special About a Risk-Based Approach to CDD ?
 
