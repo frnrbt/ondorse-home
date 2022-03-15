@@ -21,9 +21,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Discover what is special about it, how you and your customers can
-        benefit from it and how you can conduct a risk-based approach to
-        customer due diligence with Ondorse.
+        Here, we will cover the important questions to consider in making the
+        decision for your organization.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-141954446-612x612.jpeg
