@@ -8,7 +8,7 @@ subtitle: >-
   This is what a risk-based approach to customer due diligence means. Discover
   what is special about it, how you and your customers can benefit from it and
   how you can implement a risk-based approach with Ondorse.
-date: '2022-02-25'
+date: '2022-01-25'
 excerpt: >-
   Discover what is special about it, how you and your customers can benefit from
   it and how you can implement a risk-based approach with Ondorse.
