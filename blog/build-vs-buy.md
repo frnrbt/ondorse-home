@@ -40,7 +40,7 @@ seo:
       value: images/istockphoto-1308630330-612x612-349baf0b.jpeg
       relativeUrl: true
 layout: post
-author: _data/authors/florent-boelle.yaml
+author: _data/authors/florent-robert.yaml
 thumb_image: images/istockphoto-1308630330-612x612-121d1ff0.jpeg
 image: images/istockphoto-1308630330-612x612.jpeg
 ---
