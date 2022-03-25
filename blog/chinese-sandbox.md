@@ -9,7 +9,7 @@ excerpt: >-
   China's recent crackdown on the tech industry is a very good reminder that
   while fintech companies may enjoy some kind of freedom for a while, regulators
   will clamp down at some point.
-image_alt: dragon-financing
+image_alt: dragon-china
 thumb_image_alt: lorem-ipsum
 seo:
   title: 'Build vs. Buy: which is right for your business ?'
