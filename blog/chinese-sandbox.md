@@ -1,6 +1,6 @@
 ---
 title: Fintechs out of regulatory sandbox - China edition
-subtitle: "China's recent crackdown on the tech industry is a very good reminder that while tech companies may enjoyWhile fintechs are increasingly out of the regulatory sandbox, The stakes are now especially high for financial institutions to meet identity verification regulations, that’s why most FIs care deeply about the type of process or solution they adopt to help them mitigate risk and manage their process. However, most FIs struggle with whether to build or buy this important piece of their tech stack.\_Here, we cover the important questions to consider in making the right decision for your business."
+subtitle: "China's recent crackdown on the tech industry is a very good reminder that while tech companies may enjoyWhile fintechs are increasingly out of the regulatory sandbox, But as new entrantsThe stakes are now especially high for financial institutions to meet identity verification regulations, that’s why most FIs care deeply about the type of process or solution they adopt to help them mitigate risk and manage their process. However, most FIs struggle with whether to build or buy this important piece of their tech stack.\_Here, we cover the important questions to consider in making the right decision for your business."
 date: '2022-02-25'
 excerpt: >-
   Here, we answer the important questions you should ask yourself when
