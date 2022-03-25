@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fintechs out of regulatory sandbox - China edition
+      value: Fintechs under more scrutiny - China edition
     - name: 'twitter:description'
       value: >-
         China's recent crackdownon the tech industry is a very good reminder
