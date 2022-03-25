@@ -53,7 +53,7 @@ image: images/raimond-klavins-WgFwcIozP-o-unsplash-1d993595.jpg
 ---
 ## A fintech haven
 
-One of the big assumptions behind Ondorse is that fintechs will increasingly get out of the regulatory sandbox. As these tech companies become larger and bolt more and more financial services on to their core offering, they will be treated holistically as financial institutions by the regulators. Today we explore the extreme case that is China.
+One of the big assumptions behind Ondorse is that fintechs and large tech companies are now out of the regulatory sandbox and will be more and more scrutinized by financial regulators. As these companies become larger and bolt more financial services on to their core offering, they will be treated holistically as financial institutions. Today we explore the extreme case that is China.
 
 The two largest fintechs in the world are Chinese. They are Ant Financial and WeChat pay. Both are part of much larger tech companies, Alibaba and Tencent respectively. Both companies ventured into fintech by first offering consumers a way to pay digitally, though the brands Alipay and WeChat Pay fail to reflect the breadth of services touted by the platforms today. Alipay, Ant’s flagship app, is now a comprehensive marketplace selling Ant’s in-house products and myriad third-party ones like micro-loans and insurance. The app, like WeChat Pay, also facilitates a growing list of public services, letting users see their taxes, pay utility bills, book a hospital visit and more.
 
