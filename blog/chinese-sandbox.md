@@ -4,7 +4,7 @@ subtitle: >-
   China's recent crackdown on the tech industry is a very good reminder that
   while fintech companies may enjoy some kind of freedom for a while, regulators
   will clamp down at some point.
-date: '2022-02-25'
+date: '2022-02-02'
 excerpt: >-
   Here, we answer the important questions you should ask yourself when
   considering to build or to buy an identity verification solution.
