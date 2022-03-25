@@ -6,8 +6,9 @@ subtitle: >-
   will clamp down at some point.
 date: '2022-03-25'
 excerpt: >-
-  Here, we answer the important questions you should ask yourself when
-  considering to build or to buy an identity verification solution.
+  China's recent crackdown on the tech industry is a very good reminder that
+  while fintech companies may enjoy some kind of freedom for a while, regulators
+  will clamp down at some point.
 image_alt: gun-financing
 thumb_image_alt: lorem-ipsum
 seo:
