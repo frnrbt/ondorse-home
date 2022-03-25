@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fintechs out of regulatory sandbox - China edition
+      value: Fintechs under more scrutiny - China edition
       keyName: property
     - name: 'og:description'
       value: >-
