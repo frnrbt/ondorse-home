@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Build vs. Buy: which is right for your business ?'
+      value: 'Fintechs out of regulatory sandbox - China edition'
     - name: 'twitter:description'
       value: >-
         China's recent crackdownon the tech industry is a very good reminder that while fintech companies may enjoy some kind of freedom for a while, regulators will clamp down at some point.
