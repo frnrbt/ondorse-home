@@ -14,7 +14,7 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: Fintechs under more scrutiny - China edition
   description: >-
-    China's recent crackdownon the tech industry is a very good reminder that
+    China's recent crackdown on the tech industry is a very good reminder that
     while fintech companies may enjoy some kind of freedom for a while,
     regulators will clamp down at some point.
   extra:
