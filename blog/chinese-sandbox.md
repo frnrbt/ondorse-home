@@ -48,32 +48,28 @@ author: _data/authors/florent-robert.yaml
 thumb_image: images/raimond-klavins-WgFwcIozP-o-unsplash.jpg
 image: images/raimond-klavins-WgFwcIozP-o-unsplash-1d993595.jpg
 ---
-##### Why build your own identity verification solution ?
+## A fintech haven
 
-Building a custom software solution may make sense if your organization needs basic functionality and/or is comfortable managing more risk.
+One of the big assumptions behind Ondorse is that fintechs will increasingly get out of the regulatory sandbox. As these tech companies become larger and bolt more and more financial services on to their core offering, they will be treated holistically as financial institutions by the regulators. Today we explore the extreme case that is China.
 
-While it is always beneficial to use more than one data source, if your organization’s specific needs only require connecting to one or two data sources, you may be able to build a verification process fairly easily. 
+The two largest fintechs in the world are Chinese. They are Ant Financial and WeChat pay. Both are part of much larger tech companies, Alibaba and Tencent respectively. Both companies ventured into fintech by first offering consumers a way to pay digitally, though the brands Alipay and WeChat Pay fail to reflect the breadth of services touted by the platforms today. Alipay, Ant’s flagship app, is now a comprehensive marketplace selling Ant’s in-house products and myriad third-party ones like micro-loans and insurance. The app, like WeChat Pay, also facilitates a growing list of public services, letting users see their taxes, pay utility bills, book a hospital visit and more.
 
-This strategy or approach most closely aligns with companies who are not focused on increasing their digital offerings or improving their conversion rate, but rather rely more heavily on in-person communication and account openings. 
+The Alipay app recorded 711 monthly active users and 80 million monthly merchants in 2020. Among its 1 billion annual users, 729 million had transacted in at least one “financial service” through the platform. As in the PayPal-eBay relationship, Alipay benefits tremendously by being the default payments processor for Alibaba marketplaces like Taobao.
 
-Furthermore, with your own process, there is the potential for an unplanned break or pieces not functioning how you intended. 
+As of 2019, more than 800 million users and 50 million merchants used WeChat to pay monthly, a big chunk of the 1.2 billion active user base of the messenger. It’s unclear how many people tried Tencent’s other fintech products, though the firm did say about 200 million people used its wealth management service in 2019.
 
-This approach may make sense if your company employs seasoned experts and has the ability to expand engineering resources proportionately.
+## Not so fast
 
-##### Why buy an identity verification solution ?
+Ant Financial has a host of different financial licenses but, during its IPO roadshow late in 2020, it went out of its way to convince investors that it’s not a financial institution. It changed its name, asked to be covered by tech analysts and coined the novel term techfin.
 
-Buying a software solution may make sense if your organization wants access to advanced technology and more transparency for risk mitigation while saving time and money for core projects.
+In October 2020, Ant was preparing for a record-setting $34.5B dual-listed IPO when regulators pulled the offering days before the listing. The company was said to be valued at $315B at the time. Beijing was concerned about tech company overreach and the lack of regulations surrounding their financial products. In February 2021, Ant Group was ordered by Chinese regulators to restructure into a financial holding company, subject to all the capital and prudential requirements that banks face, and Alibaba (BABA) had to pay a record $2.75B antitrust fine in April 2021.
 
-Whether it’s a higher volume of applicants or a need to support a growing number of third party data provider integrations, as your business grows more complexities will arise in your identity verification process. 
+Last week, we learnt that Tencent was facing a potential record fine for violations of some central bank regulations by its WeChat Pay mobile network.
 
-If your organization is focused on a digital strategy you may already understand how important it is to have technology that will not only keep up, but also help you accelerate. 
+Financial regulators recently discovered that WeChat Pay had flouted China’s anti-money-laundering rules and had lapses in compliance with “know your customer” and “know your business” regulations, among other things, some of the people said. Tencent’s ubiquitous mobile payments network was also found to have allowed the transfer and laundering of funds with illicit transactions such as gambling, the people added. For WeChat Pay, “know your customer” and “know your business” procedures mean it must verify the identities of users and merchants transacting on its platform and the source of funds for those transactions.
 
-While your company may have the resources and employees to understand what’s required, they probably aren’t the ones who should build an in-house solution. In purchasing an identity verification software, you’re utilizing a product that is built and maintained to meet your regulatory requirements and which provides transparency into how decisions are being made.
+The People’s Bank of China, the country’s central bank, uncovered the breaches during a routine inspection of WeChat Pay that concluded in late 2021, the people familiar with the matter said. The size of the fine is still under deliberation and it could be at least hundreds of millions of yuan, some of the people said. That would be much larger than the fines regulators typically imposed on nonbank payment companies for anti-money-laundering rule violations in the past.
 
-With a purchased software, your fraud and risk teams will be able to work within the platform without the help of engineers. Instead, your engineers will be able to focus on your core product offerings.
+We are still waiting for the end of the story of Chinese fintech plateform but the impending fine for Tencent confirms that these companies are bracing for a fundamental change in the government’s approach to curbing money laundering activities. Last June, the government published a draft amendment to its anti-money-laundering law that sought to broaden and deepen the scope of its regulations. The PBOC also said last year that nonbank payment companies have obligations to detect and prevent money laundering, just like banks and other financial institutions.
 
-##### How to make the right decision ?
-
-Ultimately it all comes down to the business’s priorities: does it make sense for your business to spend the time and money and the initiative not only to build, but to continue to maintain, or are you better served by going to the market ?
-
-That’s where Ondorse comes into play: we reconcile the customizability of in-house engineering tools with off-the-shelf software. After the initial integration, you will no longer need to pull in engineering resources to modify your workflows and rule-based decisions.‍
+We created Ondorse because we experienced and witnessed first-hand how difficult it was for fintechs and marketplaces to keep pace with the latest regulatory requirements and the most recent fraud landscape. We couldn’t find a comprehensive and simple solution, most specifically when it came to "know your business" requirements. So we built it. So that when fintechs get out of the regulatory sandbox, they are well equiped and have confidence moving forward.
