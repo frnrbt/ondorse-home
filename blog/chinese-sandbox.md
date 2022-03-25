@@ -12,7 +12,7 @@ excerpt: >-
 image_alt: dragon-china
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Fintechs out of regulatory sandbox - China edition
+  title: Fintechs under more scrutiny - China edition
   description: >-
     China's recent crackdownon the tech industry is a very good reminder that
     while fintech companies may enjoy some kind of freedom for a while,
