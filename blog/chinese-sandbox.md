@@ -26,7 +26,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        China's recent crackdownon the tech industry is a very good reminder
+        China's recent crackdown on the tech industry is a very good reminder
         that while fintech companies may enjoy some kind of freedom for a while,
         regulators will clamp down at some point.
       keyName: property
@@ -40,7 +40,7 @@ seo:
       value: Fintechs under more scrutiny - China edition
     - name: 'twitter:description'
       value: >-
-        China's recent crackdownon the tech industry is a very good reminder
+        China's recent crackdown on the tech industry is a very good reminder
         that while fintech companies may enjoy some kind of freedom for a while,
         regulators will clamp down at some point.
     - name: 'twitter:image'
