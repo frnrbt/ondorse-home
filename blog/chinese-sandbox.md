@@ -24,8 +24,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Here, we will cover the important questions to consider in making the
-        decision for your organization.
+        China's recent crackdownon the tech industry is a very good reminder that while fintech companies may enjoy some kind of freedom for a while, regulators will clamp down at some point.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-1308630330-612x612-349baf0b.jpeg
