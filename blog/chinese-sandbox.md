@@ -1,5 +1,5 @@
 ---
-title: Fintechs out of regulatory sandbox - China edition
+title: Fintechs under more scrutiny - China edition
 subtitle: >-
   China's recent crackdown on the tech industry is a very good reminder that
   while fintech companies may enjoy some kind of freedom for a while, regulators
@@ -12,19 +12,23 @@ excerpt: >-
 image_alt: dragon-china
 thumb_image_alt: lorem-ipsum
 seo:
-  title: 'Fintechs out of regulatory sandbox - China edition'
+  title: Fintechs out of regulatory sandbox - China edition
   description: >-
-    China's recent crackdownon the tech industry is a very good reminder that while fintech companies may enjoy some kind of freedom for a while, regulators will clamp down at some point.
+    China's recent crackdownon the tech industry is a very good reminder that
+    while fintech companies may enjoy some kind of freedom for a while,
+    regulators will clamp down at some point.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Fintechs out of regulatory sandbox - China edition'
+      value: Fintechs out of regulatory sandbox - China edition
       keyName: property
     - name: 'og:description'
       value: >-
-        China's recent crackdownon the tech industry is a very good reminder that while fintech companies may enjoy some kind of freedom for a while, regulators will clamp down at some point.
+        China's recent crackdownon the tech industry is a very good reminder
+        that while fintech companies may enjoy some kind of freedom for a while,
+        regulators will clamp down at some point.
       keyName: property
     - name: 'og:image'
       value: images/istockphoto-1308630330-612x612-349baf0b.jpeg
@@ -33,10 +37,12 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Fintechs out of regulatory sandbox - China edition'
+      value: Fintechs out of regulatory sandbox - China edition
     - name: 'twitter:description'
       value: >-
-        China's recent crackdownon the tech industry is a very good reminder that while fintech companies may enjoy some kind of freedom for a while, regulators will clamp down at some point.
+        China's recent crackdownon the tech industry is a very good reminder
+        that while fintech companies may enjoy some kind of freedom for a while,
+        regulators will clamp down at some point.
     - name: 'twitter:image'
       value: images/raimond-klavins-WgFwcIozP-o-unsplash.jpg
       relativeUrl: true
