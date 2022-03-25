@@ -45,7 +45,7 @@ seo:
       relativeUrl: true
 layout: post
 author: _data/authors/florent-robert.yaml
-thumb_image: images/istockphoto-1308630330-612x612-121d1ff0.jpeg
+thumb_image: images/raimond-klavins-WgFwcIozP-o-unsplash.jpg
 image: images/raimond-klavins-WgFwcIozP-o-unsplash-1d993595.jpg
 ---
 ##### Why build your own identity verification solution ?
