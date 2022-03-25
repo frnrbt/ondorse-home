@@ -14,8 +14,7 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: 'Fintechs out of regulatory sandbox - China edition'
   description: >-
-    Here, we will cover the important questions to consider in making the
-    decision for your organization.
+    China's recent crackdown.
   extra:
     - name: 'og:type'
       value: article
