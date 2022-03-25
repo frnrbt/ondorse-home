@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Build vs. Buy: which is right for your business ?'
+      value: 'Fintechs out of regulatory sandbox - China edition'
       keyName: property
     - name: 'og:description'
       value: >-
